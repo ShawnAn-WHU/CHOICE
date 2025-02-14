@@ -1,0 +1,122 @@
+[
+    {
+        "id": "704947e4-09ba-4a76-b7b1-b79f799210f2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/753.png",
+        "question": "When comparing the two images side by side, which one appears to have better quality?\nA.can't judge\nB.right\nC.left",
+        "answer": "B"
+    },
+    {
+        "id": "bba9d8c3-4c40-4044-a036-eb0caffc66d3",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/17.png",
+        "question": "Out of the four images in the 2 times 2 grid, identify the one with the best quality.\nA.bottom left\nB.bottom right\nC.top left\nD.top right",
+        "answer": "B"
+    },
+    {
+        "id": "c63e2f7a-3fe1-40a7-9afb-81cdf66dfb94",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/544.png",
+        "question": "Analyze the provided image, What type of interference can be observed in this image?\nA.deadline noise\nB.stripe noise\nC.gaussian noise\nD.impulse noise",
+        "answer": "D"
+    },
+    {
+        "id": "444d038b-abe9-41c1-bd9e-3356500496b7",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/321.png",
+        "question": "Out of the four images displayed in a 2 times 2 grid, which is most impacted by cloud obstruction?\nA.top left\nB.top right\nC.bottom right\nD.bottom left",
+        "answer": "A"
+    },
+    {
+        "id": "b87df446-1551-4bcc-9f37-be06ad054227",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/320.png",
+        "question": "Among the four images arranged in a 2 times 2 grid, identify the one most affected by cloud cover.\nA.bottom right\nB.bottom left\nC.top right\nD.top left",
+        "answer": "A"
+    },
+    {
+        "id": "d17f6d65-b283-4bf2-a4dd-b020fc25f58f",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/676.png",
+        "question": "Looking at the two images next to each other, which one shows better quality?\nA.left\nB.can't judge\nC.right",
+        "answer": "C"
+    },
+    {
+        "id": "15de5c24-0b38-49d5-8df9-8ed7d069b603",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/208.png",
+        "question": "Among the four images arranged in a 2 times 2 grid, identify the one most affected by cloud cover.\nA.bottom left\nB.bottom right\nC.top left\nD.top right",
+        "answer": "B"
+    },
+    {
+        "id": "2119227a-5463-45d5-8dc2-117c8efc3b99",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/627.png",
+        "question": "When comparing the two images side by side, which one appears to have better quality?\nA.left\nB.can't judge\nC.right",
+        "answer": "A"
+    },
+    {
+        "id": "cabccfde-bc57-4fe0-8011-7bd04b14a929",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/221.png",
+        "question": "Four images are concatenated into a 2 times 2 grid, identify the image that is most affected by cloud interference.\nA.bottom left\nB.top left\nC.bottom right\nD.top right",
+        "answer": "C"
+    },
+    {
+        "id": "686d2056-d065-41bc-aeda-44b8103fc0c1",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/41.png",
+        "question": "Four images are concatenated into a 2 times 2 grid, identify the image that has the best quality.\nA.bottom right\nB.bottom left\nC.top right\nD.top left",
+        "answer": "D"
+    },
+    {
+        "id": "62fe937e-3571-4c75-8549-99b61c814123",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/477.png",
+        "question": "What type of interference is evident in the provided image upon analysis?\nA.gaussian noise\nB.impulse noise\nC.stripe noise\nD.deadline noise",
+        "answer": "A"
+    },
+    {
+        "id": "0f4c23ff-414f-433c-934e-b34573c24927",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/762.png",
+        "question": "Of the two images displayed side by side, which one has the higher quality?\nA.right\nB.left\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "f8e6a394-a2f0-405a-af73-43aa6c16e4a6",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/43.png",
+        "question": "Among the four images arranged in a 2 times 2 grid, which one stands out for its quality?\nA.bottom right\nB.bottom left\nC.top right\nD.top left",
+        "answer": "C"
+    },
+    {
+        "id": "6d38236b-6b26-4128-a835-52acf30c12f8",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/357.png",
+        "question": "Four images are concatenated into a 2 times 2 grid, identify the image that is most affected by cloud interference.\nA.top left\nB.top right\nC.bottom left\nD.bottom right",
+        "answer": "A"
+    },
+    {
+        "id": "e46b5ae0-c20d-428d-976d-e479a54b48c7",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/643.png",
+        "question": "Of the two images displayed side by side, which one has the higher quality?\nA.right\nB.left\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "dd3a6185-0987-43d8-9ba1-c8f8e1536643",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/120.png",
+        "question": "Out of the four images in the 2 times 2 grid, identify the one with the best quality.\nA.bottom left\nB.bottom right\nC.top right\nD.top left",
+        "answer": "B"
+    },
+    {
+        "id": "cdf6bfc6-fb52-480f-ad9f-7886f122d9b2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/292.png",
+        "question": "In the 2 times 2 grid of four images, which one shows the most cloud interference?\nA.bottom left\nB.top right\nC.top left\nD.bottom right",
+        "answer": "B"
+    },
+    {
+        "id": "a05bec5a-f040-4ebf-9d51-c305120d94b9",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/274.png",
+        "question": "In the 2 times 2 grid of four images, which one shows the most cloud interference?\nA.bottom right\nB.bottom left\nC.top left\nD.top right",
+        "answer": "D"
+    },
+    {
+        "id": "0221e43a-abf4-4c34-b329-ce88f9405a5e",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/153.png",
+        "question": "From the four images placed in a 2 times 2 grid, which one shows the highest quality?\nA.top right\nB.top left\nC.bottom left\nD.bottom right",
+        "answer": "A"
+    },
+    {
+        "id": "cb5af81e-1f2d-4101-942a-f0ce16cbdd0e",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_quality/799.png",
+        "question": "Two images are concatenated side by side, which one has better quality?\nA.right\nB.can't judge\nC.left",
+        "answer": "C"
+    }
+]

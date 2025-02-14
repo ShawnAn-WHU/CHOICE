@@ -1,0 +1,122 @@
+[
+    {
+        "id": "138ceafd-493d-48e5-b7f8-9db91660a135",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/106.png",
+        "question": "From the image given, which city is home to this landmark?\nA.London\nB.New York\nC.Copenhagen\nD.Oxford",
+        "answer": "B"
+    },
+    {
+        "id": "20afb738-eeec-45a0-9ad6-560acc02aac8",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/26.png",
+        "question": "Based on the image provided, which country is this landmark located in?\nA.UK\nB.UAE\nC.USA\nD.UK",
+        "answer": "C"
+    },
+    {
+        "id": "64705f24-39a8-40a4-8917-66136d016163",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/32.png",
+        "question": "From the image given, which country is home to this landmark?\nA.France\nB.USA\nC.Spain\nD.France",
+        "answer": "B"
+    },
+    {
+        "id": "7f355a39-d073-4714-a25c-476783b1f40b",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/83.png",
+        "question": "Based on the provided image, in which country can this landmark be found?\nA.UK\nB.UAE\nC.Romania\nD.France",
+        "answer": "A"
+    },
+    {
+        "id": "a1787401-9426-45c1-9c3b-bf4d71a9df9b",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/141.png",
+        "question": "Looking at the provided image, which city does this landmark belong to?\nA.Kuala Lumpur\nB.Gard\nC.Toronto\nD.London",
+        "answer": "C"
+    },
+    {
+        "id": "52894fe6-948a-4a03-8807-23b41e56ec53",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/67.png",
+        "question": "From the image given, which country is home to this landmark?\nA.France\nB.Spain\nC.Spain\nD.Cambodia",
+        "answer": "D"
+    },
+    {
+        "id": "8d4dae11-ecb2-443e-b13a-49e3e420975b",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/35.png",
+        "question": "Based on the image provided, which country is this landmark located in?\nA.Australia\nB.UK\nC.USA\nD.Russia",
+        "answer": "B"
+    },
+    {
+        "id": "7a013411-ffbc-46d2-b0a8-1210dfdf2707",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/68.png",
+        "question": "Based on the provided image, in which country can this landmark be found?\nA.Germany\nB.Brazil\nC.China\nD.Italy",
+        "answer": "C"
+    },
+    {
+        "id": "9ad24adc-7e3a-45f7-9137-132b1adb47a3",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/137.png",
+        "question": "Based on the image provided, which city is this landmark located in?\nA.Athens\nB.Florence\nC.Bavaria\nD.Dubai",
+        "answer": "C"
+    },
+    {
+        "id": "425d38a8-4053-462f-9032-cb46ba3afea8",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/33.png",
+        "question": "In which country is the landmark shown in this image situated?\nA.Denmark\nB.Finland\nC.USA\nD.Austria",
+        "answer": "C"
+    },
+    {
+        "id": "030dfb0f-7bfe-4f55-8a8d-0af47e313990",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/29.png",
+        "question": "Based on the provided image, in which country can this landmark be found?\nA.Spain\nB.Greece\nC.UK\nD.Australia",
+        "answer": "B"
+    },
+    {
+        "id": "9c5b32a9-1a21-4332-8f52-a3a51fd0836d",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/99.png",
+        "question": "In which country is the landmark shown in this image situated?\nA.Spain\nB.UK\nC.Italy\nD.China",
+        "answer": "B"
+    },
+    {
+        "id": "dcb46b9f-f36d-4511-a677-d4faf01a411b",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/53.png",
+        "question": "From the image given, which country is home to this landmark?\nA.Australia\nB.Italy\nC.USA\nD.Greece",
+        "answer": "B"
+    },
+    {
+        "id": "28662de7-b286-421f-b7cb-d96407c4623c",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/166.png",
+        "question": "Looking at the provided image, which city does this landmark belong to?\nA.Chicago\nB.Los Angeles\nC.Versailles\nD.London",
+        "answer": "A"
+    },
+    {
+        "id": "06d4c821-1a47-4681-864c-4b2162f69109",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/102.png",
+        "question": "Based on the image provided, which city is this landmark located in?\nA.Chicago\nB.Venice\nC.Paris\nD.Dubai",
+        "answer": "C"
+    },
+    {
+        "id": "00434ff1-8078-48af-b8e9-179c13456c89",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/40.png",
+        "question": "Looking at the provided image, which country does this landmark belong to?\nA.Brazil\nB.Italy\nC.USA\nD.Belgium",
+        "answer": "A"
+    },
+    {
+        "id": "83446cf8-dadf-4e0a-a91d-7ef0f3a66e0b",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/44.png",
+        "question": "Looking at the provided image, which country does this landmark belong to?\nA.Spain\nB.France\nC.China\nD.UK",
+        "answer": "D"
+    },
+    {
+        "id": "7199b3a1-0657-4630-83e9-02925deb1a10",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/77.png",
+        "question": "In which country is the landmark shown in this image situated?\nA.Italy\nB.USA\nC.UK\nD.USA",
+        "answer": "A"
+    },
+    {
+        "id": "42676f25-97a3-445a-8eac-a5baf4f6b29c",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/114.png",
+        "question": "Based on the image provided, which city is this landmark located in?\nA.Madrid\nB.Beijing\nC.New York\nD.Washington D.C.",
+        "answer": "B"
+    },
+    {
+        "id": "c47adace-fc76-4adf-b259-e4a0142b7c21",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/geospatial_determination/170.png",
+        "question": "From the image given, which city is home to this landmark?\nA.Istanbul\nB.Sydney\nC.Venice\nD.London",
+        "answer": "A"
+    }
+]

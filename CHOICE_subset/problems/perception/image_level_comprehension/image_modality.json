@@ -1,0 +1,122 @@
+[
+    {
+        "id": "a028b0cb-ba74-497d-bf56-20e08fa3e3f6",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/425.png",
+        "question": "Based on this image, which modality does it align with?\nA.nighttime light\nB.false color\nC.RGB\nD.SAR",
+        "answer": "A"
+    },
+    {
+        "id": "5cd3d28a-b5f5-435d-89c7-6ce95c58bf19",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/575.png",
+        "question": "Looking at the image, which modality does it correspond to?\nA.RGB\nB.false color\nC.SAR\nD.nighttime light",
+        "answer": "D"
+    },
+    {
+        "id": "ca9e4c9d-d47b-4c25-be0f-28e8484f358e",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/227.png",
+        "question": "Looking at the image, which modality does it correspond to?\nA.nighttime light\nB.SAR\nC.false color\nD.RGB",
+        "answer": "C"
+    },
+    {
+        "id": "dec4722d-5522-48db-bc65-22ad69f34059",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/624.png",
+        "question": "What modality is represented by the image provided?\nA.SAR\nB.false color\nC.nighttime light\nD.RGB",
+        "answer": "A"
+    },
+    {
+        "id": "c0ec9d81-b3e2-41d4-8454-63c04f739931",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/119.png",
+        "question": "Looking at the image, which modality does it correspond to?\nA.nighttime light\nB.false color\nC.SAR\nD.RGB",
+        "answer": "D"
+    },
+    {
+        "id": "9723602b-0754-4e96-b458-21224cebc6df",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/287.png",
+        "question": "Based on the image provided, which modality does it belong to?\nA.SAR\nB.false color\nC.nighttime light\nD.RGB",
+        "answer": "B"
+    },
+    {
+        "id": "d34de843-e4c3-424e-8153-ea700c67e358",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/627.png",
+        "question": "What modality is represented by the image provided?\nA.nighttime light\nB.SAR\nC.false color\nD.RGB",
+        "answer": "B"
+    },
+    {
+        "id": "38fe057f-b315-419b-ba44-d77d1b835deb",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/722.png",
+        "question": "Based on the image provided, which modality does it belong to?\nA.false color\nB.RGB\nC.nighttime light\nD.SAR",
+        "answer": "D"
+    },
+    {
+        "id": "f13f2c2f-1698-474a-b1af-2108076498a0",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/588.png",
+        "question": "Looking at the image, which modality does it correspond to?\nA.false color\nB.nighttime light\nC.SAR\nD.RGB",
+        "answer": "B"
+    },
+    {
+        "id": "4c61c214-3ba3-42f5-8e2e-c5a8dd1439f3",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/16.png",
+        "question": "What modality is represented by the image provided?\nA.nighttime light\nB.RGB\nC.SAR\nD.false color",
+        "answer": "B"
+    },
+    {
+        "id": "7a835a09-f0ee-47c7-83d2-165e7b5f463c",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/587.png",
+        "question": "Based on this image, which modality does it align with?\nA.false color\nB.nighttime light\nC.RGB\nD.SAR",
+        "answer": "B"
+    },
+    {
+        "id": "e000f8f7-a7b8-4355-a0c1-a0acc68bdcce",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/505.png",
+        "question": "Looking at the image, which modality does it correspond to?\nA.false color\nB.nighttime light\nC.RGB\nD.SAR",
+        "answer": "B"
+    },
+    {
+        "id": "65328675-f5f3-4f74-9496-9c33afc783b2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/88.png",
+        "question": "Considering the provided image, which modality does it fall under?\nA.false color\nB.RGB\nC.SAR\nD.nighttime light",
+        "answer": "B"
+    },
+    {
+        "id": "d0e59e1a-a46c-4b13-8cbc-7935eac38f31",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/361.png",
+        "question": "Based on the image provided, which modality does it belong to?\nA.nighttime light\nB.false color\nC.SAR\nD.RGB",
+        "answer": "B"
+    },
+    {
+        "id": "e401014a-d04c-4154-bd04-172faf553059",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/129.png",
+        "question": "Based on the image provided, which modality does it belong to?\nA.false color\nB.SAR\nC.nighttime light\nD.RGB",
+        "answer": "D"
+    },
+    {
+        "id": "6c59d64f-de7e-4403-9e7e-7018be8c0042",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/577.png",
+        "question": "Considering the provided image, which modality does it fall under?\nA.false color\nB.RGB\nC.nighttime light\nD.SAR",
+        "answer": "C"
+    },
+    {
+        "id": "bd906614-9ec7-41c3-9f18-296c9e22d207",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/258.png",
+        "question": "Based on this image, which modality does it align with?\nA.nighttime light\nB.false color\nC.SAR\nD.RGB",
+        "answer": "B"
+    },
+    {
+        "id": "5f1b23aa-31cf-44bd-8af1-c5e5a8a2e4b2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/87.png",
+        "question": "What modality is represented by the image provided?\nA.nighttime light\nB.false color\nC.SAR\nD.RGB",
+        "answer": "D"
+    },
+    {
+        "id": "b8068d2c-f38d-4c92-8cd6-16bc3f6de027",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/112.png",
+        "question": "Considering the provided image, which modality does it fall under?\nA.nighttime light\nB.SAR\nC.false color\nD.RGB",
+        "answer": "D"
+    },
+    {
+        "id": "6b678801-2d66-4b88-8cbc-81eb90fdb81d",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/image_modality/120.png",
+        "question": "Based on this image, which modality does it align with?\nA.false color\nB.nighttime light\nC.RGB\nD.SAR",
+        "answer": "C"
+    }
+]

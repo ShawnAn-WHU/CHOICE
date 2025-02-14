@@ -1,0 +1,122 @@
+[
+    {
+        "id": "b27a94b0-8de9-45aa-b203-c7efd36bce5b",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/381.png",
+        "question": "Give me the mask of the top three baseball diamonds in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/381.png"
+    },
+    {
+        "id": "6b36be26-f50e-4db4-81dc-ec1bb9378596",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/186.png",
+        "question": "Give me the mask of the smaller ship in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/186.png"
+    },
+    {
+        "id": "629b41d4-ffa4-4dc6-85b6-18cb0ce15256",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/151.png",
+        "question": "Give me the mask of the left roundabout in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/151.png"
+    },
+    {
+        "id": "e49162aa-5911-425c-bdfc-ca070334bbef",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/434.png",
+        "question": "Give me the mask of the storage tanks in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/434.png"
+    },
+    {
+        "id": "2867dcb0-15cb-4a07-bb92-39df1eb86a09",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/439.png",
+        "question": "Give me the mask of the storage tanks in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/439.png"
+    },
+    {
+        "id": "3288ea2a-350f-477a-aa54-80e8ea687104",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/161.png",
+        "question": "Give me the mask of the left ship in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/161.png"
+    },
+    {
+        "id": "1171e18c-26df-4524-bd06-53baa92a9d4a",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/116.png",
+        "question": "Give me the mask of the ground track field in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/116.png"
+    },
+    {
+        "id": "6d7accdb-160a-4629-94ce-d2dec4bf3316",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/168.png",
+        "question": "Give me the mask of the three ships in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/168.png"
+    },
+    {
+        "id": "9281a6af-7ecc-45d7-91a9-a85b981cd084",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/242.png",
+        "question": "Give me the mask of the soccer ball field in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/242.png"
+    },
+    {
+        "id": "92d53d3c-95c7-4c80-8cd1-ee3ebe3a66f3",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/126.png",
+        "question": "Give me the mask of the bigger roundabout in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/126.png"
+    },
+    {
+        "id": "e379711c-e48e-473e-8adc-36ebf5d8d6c4",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/342.png",
+        "question": "Give me the mask of the soccer ball field in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/342.png"
+    },
+    {
+        "id": "c5d8ca4e-e38b-4114-9b0c-1146fecad244",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/46.png",
+        "question": "Give me the mask of the two bridges in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/46.png"
+    },
+    {
+        "id": "1eab7a65-288f-4c24-b405-2744bdddf3e3",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/187.png",
+        "question": "Give me the mask of the two ships in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/187.png"
+    },
+    {
+        "id": "04ecc77b-faf8-4b6c-b784-34f43fbfdd25",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/426.png",
+        "question": "Give me the mask of the storage tanks in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/426.png"
+    },
+    {
+        "id": "391a3534-8cdd-462b-b892-b5922e5b8b9c",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/148.png",
+        "question": "Give me the mask of the roundabout in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/148.png"
+    },
+    {
+        "id": "20e988cc-5efd-4656-8939-572ecd16558f",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/452.png",
+        "question": "Give me the mask of the bigger storage tank in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/452.png"
+    },
+    {
+        "id": "d5e7397a-0efa-43d2-86dc-32dfaf66aa04",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/374.png",
+        "question": "Give me the mask of the top baseball diamond in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/374.png"
+    },
+    {
+        "id": "3d395428-8e11-4e2a-bf80-480a1a9de732",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/461.png",
+        "question": "Give me the mask of the storage tanks in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/461.png"
+    },
+    {
+        "id": "80594f9d-7ef0-4239-8d40-5274d5b6e0b0",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/341.png",
+        "question": "Give me the mask of the top soccer ball field in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/341.png"
+    },
+    {
+        "id": "7488f220-9ecc-4581-a9b2-edb4d20f3317",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/png/345.png",
+        "question": "Give me the mask of the baseball diamonds in this image.",
+        "mask_path": "CHOICE/png/perception/cross_instance_discerment/referring_expression_segmentation/mask/345.png"
+    }
+]

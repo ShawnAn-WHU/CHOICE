@@ -1,0 +1,462 @@
+[
+    {
+        "id": "0809d153-1370-4f1e-bc4b-fa296330a5bd",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/393.png",
+        "question": "Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.251,
+                0.376
+            ],
+            [
+                0.37,
+                0.649
+            ],
+            [
+                0.662,
+                0.521
+            ],
+            [
+                0.544,
+                0.249
+            ]
+        ]
+    },
+    {
+        "id": "e007fd3f-3ae6-499c-b4c1-daf2430fbfc7",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/361.png",
+        "question": "Please output the coordinates of the bridge in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.289,
+                0.665
+            ],
+            [
+                0.399,
+                0.531
+            ],
+            [
+                0.487,
+                0.604
+            ],
+            [
+                0.376,
+                0.738
+            ]
+        ]
+    },
+    {
+        "id": "d5e9a40b-5a62-4471-a6d8-ef84d8d4237a",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/476.png",
+        "question": "Please output the coordinates of the bridge in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.217,
+                0.828
+            ],
+            [
+                0.22,
+                0.297
+            ],
+            [
+                0.265,
+                0.297
+            ],
+            [
+                0.261,
+                0.829
+            ]
+        ]
+    },
+    {
+        "id": "853e1b61-bdef-488f-9e47-c8f5d2dae1a1",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/54.png",
+        "question": "Please output the coordinates of the bridge in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.409,
+                0.524
+            ],
+            [
+                0.519,
+                0.606
+            ],
+            [
+                0.481,
+                0.656
+            ],
+            [
+                0.371,
+                0.574
+            ]
+        ]
+    },
+    {
+        "id": "95ec23f7-8f51-4fb4-9d9d-b4891578c6d5",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/500.png",
+        "question": "Please output the coordinates of the ship in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.028,
+                0.517
+            ],
+            [
+                0.031,
+                0.56
+            ],
+            [
+                0.301,
+                0.53
+            ],
+            [
+                0.297,
+                0.489
+            ]
+        ]
+    },
+    {
+        "id": "543c1cb3-fa57-4b53-ab1c-e7a7e195ddf7",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/196.png",
+        "question": "Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.657,
+                0.711
+            ],
+            [
+                0.659,
+                0.52
+            ],
+            [
+                0.466,
+                0.519
+            ],
+            [
+                0.465,
+                0.709
+            ]
+        ]
+    },
+    {
+        "id": "9b613080-6b6e-4000-81b3-4c7673687cc5",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/315.png",
+        "question": "Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.475,
+                0.524
+            ],
+            [
+                0.576,
+                0.527
+            ],
+            [
+                0.58,
+                0.424
+            ],
+            [
+                0.477,
+                0.421
+            ]
+        ]
+    },
+    {
+        "id": "1c357f9a-3567-438c-ab1b-0c31b2e899c6",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/245.png",
+        "question": "Please output the coordinates of the bridge in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.32,
+                0.438
+            ],
+            [
+                0.415,
+                0.589
+            ],
+            [
+                0.372,
+                0.615
+            ],
+            [
+                0.279,
+                0.464
+            ]
+        ]
+    },
+    {
+        "id": "9111430e-4868-419c-a1b1-2dbe2277c934",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/287.png",
+        "question": "Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.448,
+                0.519
+            ],
+            [
+                0.547,
+                0.873
+            ],
+            [
+                0.916,
+                0.767
+            ],
+            [
+                0.816,
+                0.415
+            ]
+        ]
+    },
+    {
+        "id": "7d8e5880-e7c5-4ca1-a241-d19fd210678e",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/251.png",
+        "question": "Please output the coordinates of the dam in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.126,
+                0.748
+            ],
+            [
+                0.661,
+                0.564
+            ],
+            [
+                0.695,
+                0.664
+            ],
+            [
+                0.161,
+                0.848
+            ]
+        ]
+    },
+    {
+        "id": "783ec7eb-97bb-42e9-93c6-fd2ab4f96c29",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/241.png",
+        "question": "Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.566,
+                0.296
+            ],
+            [
+                0.6,
+                0.479
+            ],
+            [
+                0.826,
+                0.439
+            ],
+            [
+                0.792,
+                0.255
+            ]
+        ]
+    },
+    {
+        "id": "0c9fad6a-ddf8-4561-a54f-beabe0775c88",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/382.png",
+        "question": "Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.994,
+                0.154
+            ],
+            [
+                0.995,
+                0.005
+            ],
+            [
+                0.844,
+                0.003
+            ],
+            [
+                0.841,
+                0.152
+            ]
+        ]
+    },
+    {
+        "id": "c7b8c8a3-e2e9-4d7c-b520-37405d24ac21",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/127.png",
+        "question": "Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.61,
+                0.547
+            ],
+            [
+                0.616,
+                0.383
+            ],
+            [
+                0.444,
+                0.376
+            ],
+            [
+                0.438,
+                0.541
+            ]
+        ]
+    },
+    {
+        "id": "6cd6ea03-e84c-45dc-9160-6588f12eaaa2",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/14.png",
+        "question": "Please output the coordinates of the ground-track-field in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.286,
+                0.68
+            ],
+            [
+                0.41,
+                0.865
+            ],
+            [
+                0.75,
+                0.636
+            ],
+            [
+                0.626,
+                0.451
+            ]
+        ]
+    },
+    {
+        "id": "cbaa8ad6-120f-453a-93bb-91af70a209eb",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/211.png",
+        "question": "Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.321,
+                0.504
+            ],
+            [
+                0.324,
+                0.391
+            ],
+            [
+                0.207,
+                0.389
+            ],
+            [
+                0.204,
+                0.5
+            ]
+        ]
+    },
+    {
+        "id": "a156685e-f0af-4802-bb28-73c265e626f5",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/423.png",
+        "question": "Please output the coordinates of the ship in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.6,
+                0.828
+            ],
+            [
+                0.601,
+                0.877
+            ],
+            [
+                0.897,
+                0.868
+            ],
+            [
+                0.896,
+                0.818
+            ]
+        ]
+    },
+    {
+        "id": "b85006a9-5747-4695-b613-7426f7468352",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/490.png",
+        "question": "Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.848,
+                0.583
+            ],
+            [
+                0.936,
+                0.343
+            ],
+            [
+                0.666,
+                0.241
+            ],
+            [
+                0.576,
+                0.481
+            ]
+        ]
+    },
+    {
+        "id": "b2acd6e3-f4ec-4e42-8ef4-ff2cbd90d63d",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/509.png",
+        "question": "Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.704,
+                0.445
+            ],
+            [
+                0.705,
+                0.344
+            ],
+            [
+                0.584,
+                0.343
+            ],
+            [
+                0.584,
+                0.444
+            ]
+        ]
+    },
+    {
+        "id": "96434eb8-a132-48f3-af87-f6ab4ef318ac",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/22.png",
+        "question": "Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.485,
+                0.351
+            ],
+            [
+                0.49,
+                0.275
+            ],
+            [
+                0.41,
+                0.27
+            ],
+            [
+                0.405,
+                0.346
+            ]
+        ]
+    },
+    {
+        "id": "b598cb33-639d-4aac-8cf3-0c43a34d3b45",
+        "image_path": "CHOICE/png/perception/single_instance_identification/visual_grounding/142.png",
+        "question": "Please output the coordinates of the storage-tank in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "answer": [
+            [
+                0.34,
+                0.696
+            ],
+            [
+                0.481,
+                0.708
+            ],
+            [
+                0.492,
+                0.562
+            ],
+            [
+                0.351,
+                0.551
+            ]
+        ]
+    }
+]

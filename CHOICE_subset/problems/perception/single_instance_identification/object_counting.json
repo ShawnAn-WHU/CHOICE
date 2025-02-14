@@ -1,0 +1,122 @@
+[
+    {
+        "id": "2e5f16f9-1667-4874-81bb-ed38225c9731",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/334.png",
+        "question": "How many dam can be seen in this image?\nA.3\nB.4\nC.2\nD.1",
+        "answer": "C"
+    },
+    {
+        "id": "6ea360f1-7b95-4c85-bea6-74184aa2d4ea",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/470.png",
+        "question": "How many bridge are there in this image?\nA.1\nB.2\nC.4\nD.3",
+        "answer": "B"
+    },
+    {
+        "id": "6c0251e9-eafa-42e6-94b9-7b5205a51ce2",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/380.png",
+        "question": "Count the number of ship present in this image.\nA.4\nB.5\nC.3\nD.2",
+        "answer": "C"
+    },
+    {
+        "id": "2236c0ab-a864-4d7d-849b-775005403a1a",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/201.png",
+        "question": "Count the number of soccer ball field present in this image.\nA.1\nB.3\nC.0\nD.2",
+        "answer": "A"
+    },
+    {
+        "id": "3025779a-f35a-49c8-b7a4-df6fdd49c4b1",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/253.png",
+        "question": "How many airplane can be seen in this image?\nA.4\nB.3\nC.5\nD.6",
+        "answer": "A"
+    },
+    {
+        "id": "5e8f000c-2577-4392-bff6-50e24f62ff5d",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/27.png",
+        "question": "How many basketball court are there in this image?\nA.3\nB.2\nC.1\nD.4",
+        "answer": "B"
+    },
+    {
+        "id": "fb9b979a-a38c-4761-a60a-61f53b9936af",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/399.png",
+        "question": "How many storage tank are visible in the image?\nA.3\nB.4\nC.2\nD.1",
+        "answer": "C"
+    },
+    {
+        "id": "44c66c01-137a-496e-a664-90cdc72d0d4b",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/112.png",
+        "question": "How many storage tank are there in this image?\nA.14\nB.16\nC.15\nD.17",
+        "answer": "C"
+    },
+    {
+        "id": "a4db2bc6-f048-40bb-bc65-aaed11589bcb",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/482.png",
+        "question": "How many storage tank are there in this image?\nA.3\nB.4\nC.5\nD.6",
+        "answer": "B"
+    },
+    {
+        "id": "c1241301-f89d-40f7-b575-10ad702a0732",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/376.png",
+        "question": "Count the number of bridge present in this image.\nA.4\nB.1\nC.2\nD.3",
+        "answer": "C"
+    },
+    {
+        "id": "cbc49758-b030-4e2e-9836-8f16e126de1f",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/496.png",
+        "question": "What is the total number of baseball diamond in this image?\nA.3\nB.4\nC.1\nD.2",
+        "answer": "D"
+    },
+    {
+        "id": "1f4b1da9-cb16-4669-b3ae-64a189e61a54",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/212.png",
+        "question": "How many airplane are there in this image?\nA.1\nB.3\nC.2\nD.4",
+        "answer": "C"
+    },
+    {
+        "id": "42a8f0ad-7f90-4a14-a7ec-99a3f0061d7d",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/125.png",
+        "question": "Count the number of airplane present in this image.\nA.3\nB.1\nC.4\nD.2",
+        "answer": "D"
+    },
+    {
+        "id": "f4458821-fbaa-4439-b541-a6a29031705c",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/30.png",
+        "question": "How many harbor are there in this image?\nA.2\nB.4\nC.5\nD.3",
+        "answer": "A"
+    },
+    {
+        "id": "742c2593-e1b3-45c0-8cba-2dff06168dd5",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/381.png",
+        "question": "How many airplane can be seen in this image?\nA.2\nB.4\nC.1\nD.3",
+        "answer": "A"
+    },
+    {
+        "id": "51c25a2f-a186-4326-bb04-c40d4e539d46",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/440.png",
+        "question": "How many soccer ball field are there in this image?\nA.4\nB.2\nC.5\nD.3",
+        "answer": "D"
+    },
+    {
+        "id": "6745dc4c-1bad-4f2b-83b2-227f26e5bf42",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/436.png",
+        "question": "Count the number of storage tank present in this image.\nA.3\nB.6\nC.5\nD.4",
+        "answer": "D"
+    },
+    {
+        "id": "b32bab76-c324-4e58-9669-c3ea5b7b37f6",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/210.png",
+        "question": "How many harbor are there in this image?\nA.6\nB.9\nC.8\nD.7",
+        "answer": "D"
+    },
+    {
+        "id": "7cde4b97-099d-456d-a753-02aadd175baa",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/57.png",
+        "question": "What is the total number of basketball court in this image?\nA.8\nB.9\nC.10\nD.7",
+        "answer": "A"
+    },
+    {
+        "id": "6d56538d-9e39-475d-b4f5-149c3dff249b",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_counting/35.png",
+        "question": "What is the total number of tennis court in this image?\nA.8\nB.7\nC.9\nD.10",
+        "answer": "A"
+    }
+]

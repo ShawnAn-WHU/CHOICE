@@ -1,0 +1,122 @@
+[
+    {
+        "id": "ab614fc5-b642-40cd-98f7-eaa6a23687e8",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/14.png",
+        "question": "From the following choices, which one is closest to the height in meters of the building depicted in the image?\nA.76\nB.90\nC.15\nD.126",
+        "answer": "C"
+    },
+    {
+        "id": "c846d010-ff4e-4447-ab43-4072b464f537",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/69.png",
+        "question": "Based on the image, which option best estimates the height of the building in meters?\nA.16\nB.98\nC.115\nD.142",
+        "answer": "A"
+    },
+    {
+        "id": "47e201b2-75d0-40c3-ab2f-cf56170037e2",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/185.png",
+        "question": "Is the black vehicle located in this image moving or stationary?\nA.moving\nB.stationary\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "25866cce-fb1d-4a03-aa22-71882a83658a",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/25.png",
+        "question": "From the following choices, which one is closest to the height in meters of the building depicted in the image?\nA.5\nB.6\nC.33\nD.101",
+        "answer": "C"
+    },
+    {
+        "id": "dcc62c47-0e2f-4d25-9ba1-76d9a0b44f0b",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/198.png",
+        "question": "Does the green vehicle in this image appear to be in motion or at rest?\nA.at rest\nB.can't judge\nC.in motion",
+        "answer": "A"
+    },
+    {
+        "id": "d935badb-ab29-4d53-8b89-a8c829f78a51",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/161.png",
+        "question": "Is the black vehicle in this image stationary or in motion?\nA.in motion\nB.stationary\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "111fa933-4945-4725-aad7-087552b609d1",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/203.png",
+        "question": "Can you tell if the green vehicle in this image is stationary or in motion?\nA.in motion\nB.stationary\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "a8641a5b-e597-470a-b5fc-c39b6f669983",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/192.png",
+        "question": "Is the red vehicle in this image moving or stationary?\nA.can't judge\nB.moving\nC.stationary",
+        "answer": "C"
+    },
+    {
+        "id": "04148851-9cdf-434e-8544-0acfd8b8912e",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/24.png",
+        "question": "Which of the following options most closely matches the height of the building (in meters) as shown in the image?\nA.22\nB.207\nC.137\nD.194",
+        "answer": "A"
+    },
+    {
+        "id": "50070e0a-ecc0-41aa-be12-a1dac740ba4b",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/90.png",
+        "question": "From the following choices, which one is closest to the height in meters of the building depicted in the image?\nA.4\nB.136\nC.34\nD.4",
+        "answer": "C"
+    },
+    {
+        "id": "13d41179-21a5-4515-97a4-f1b6dde162c6",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/288.png",
+        "question": "Can you tell if the black vehicle in this image is stationary or in motion?\nA.stationary\nB.in motion\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "791029c7-787c-431f-9956-54143d1f6852",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/38.png",
+        "question": "Which of the following options is closest to the height in meters of the building depicted in the image?\nA.116\nB.9\nC.31\nD.10",
+        "answer": "C"
+    },
+    {
+        "id": "c4eae656-a654-4abe-8cad-4fb7e07caa56",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/159.png",
+        "question": "Does the white vehicle in this image appear to be in motion or at rest?\nA.at rest\nB.can't judge\nC.in motion",
+        "answer": "C"
+    },
+    {
+        "id": "9f1c2b5a-b0b7-478c-b493-0c8ce67b5489",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/108.png",
+        "question": "Is the vehicle located at the center of this image moving or stationary?\nA.can't judge\nB.stationary\nC.moving",
+        "answer": "C"
+    },
+    {
+        "id": "04db6a5e-1bc9-4170-a3d9-515c9c1f24ee",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/139.png",
+        "question": "Is the white vehicle in this image moving or stationary?\nA.stationary\nB.moving\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "f489d304-f07e-4ec3-a125-7681e2911913",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/93.png",
+        "question": "Which of the following options most closely matches the height of the building (in meters) as shown in the image?\nA.10\nB.8\nC.125\nD.38",
+        "answer": "D"
+    },
+    {
+        "id": "db3c1556-9088-4d41-918e-b4139318ed6f",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/176.png",
+        "question": "Is the white vehicle in this image moving or stationary?\nA.moving\nB.can't judge\nC.stationary",
+        "answer": "A"
+    },
+    {
+        "id": "5934d734-c0ea-4e6a-bcff-0223ab60cc48",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/205.png",
+        "question": "Is the white vehicle in this image moving or stationary?\nA.stationary\nB.can't judge\nC.moving",
+        "answer": "A"
+    },
+    {
+        "id": "c1072e06-f75d-463c-9715-ece0e037d803",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/61.png",
+        "question": "Which of the following options is closest to the height in meters of the building depicted in the image?\nA.93\nB.141\nC.16\nD.105",
+        "answer": "C"
+    },
+    {
+        "id": "6044ab46-6152-4e8a-a688-6d3909237a04",
+        "image_path": "CHOICE/png/resoning/attribute_reasoning/physical_property/123.png",
+        "question": "Does the silver vehicle in this image appear to be in motion or at rest?\nA.in motion\nB.at rest\nC.can't judge",
+        "answer": "A"
+    }
+]

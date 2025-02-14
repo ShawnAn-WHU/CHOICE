@@ -1,0 +1,122 @@
+[
+    {
+        "id": "713e8611-88eb-4d0b-aa1f-2fbe47080daf",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/356.png",
+        "question": "Where is the roundabout located in this image?\nA.Right\nB.Bottom Left\nC.Top Right\nD.The object is not in the picture",
+        "answer": "D"
+    },
+    {
+        "id": "aebb6eed-1980-4de4-a7d9-97f4c45b5696",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/318.png",
+        "question": "Can you identify the position of the bridge in this image?\nA.Top Left\nB.The object is not in the picture\nC.Left\nD.Top",
+        "answer": "B"
+    },
+    {
+        "id": "1c4026d0-507c-4a04-a087-0d27a466dbe4",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/475.png",
+        "question": "Where is the ship located in this image?\nA.The object is not in the picture\nB.Center\nC.Right\nD.Top",
+        "answer": "A"
+    },
+    {
+        "id": "65614e1d-467f-4e5a-b0c3-c699714204c6",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/219.png",
+        "question": "Can you identify the position of the baseball diamond in this image?\nA.Bottom\nB.The object is not in the picture\nC.Top Right\nD.Right",
+        "answer": "B"
+    },
+    {
+        "id": "a0f20372-8fed-49c1-be97-458e3a232186",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/136.png",
+        "question": "In this image, where is the swimming pool positioned?\nA.The object is not in the picture\nB.Bottom Left\nC.Top\nD.Bottom",
+        "answer": "A"
+    },
+    {
+        "id": "5dbccf97-7c12-4e0f-a80c-d4e78c4abfa6",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/348.png",
+        "question": "Where is the baseball diamond located in this image?\nA.Top Right\nB.Top Left\nC.The object is not in the picture\nD.Right",
+        "answer": "C"
+    },
+    {
+        "id": "40e47d4d-5381-45ab-b208-394e38e540d5",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/156.png",
+        "question": "What is the location of the baseball diamond in this image?\nA.Top Right\nB.Bottom Right\nC.The object is not in the picture\nD.Top Left",
+        "answer": "C"
+    },
+    {
+        "id": "3178f2da-d66e-4092-874b-e76365f129dc",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/401.png",
+        "question": "Where is the ship located in this image?\nA.Center\nB.Top\nC.Bottom\nD.The object is not in the picture",
+        "answer": "D"
+    },
+    {
+        "id": "724b6744-ebd2-4df4-9b95-5194827c1c84",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/10.png",
+        "question": "Where is the bridge located in this image?\nA.Bottom Right\nB.The object is not in the picture\nC.Bottom Left\nD.Center",
+        "answer": "B"
+    },
+    {
+        "id": "38e40813-5ac5-4323-8b14-cb8632fcb626",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/40.png",
+        "question": "Where can the bridge be found in this image?\nA.Left\nB.The object is not in the picture\nC.Top\nD.Bottom Left",
+        "answer": "B"
+    },
+    {
+        "id": "b7f601c8-c483-4f9a-bb0e-35e83c6a2a5e",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/259.png",
+        "question": "Where can the soccer ball field be found in this image?\nA.Top\nB.The object is not in the picture\nC.Bottom Left\nD.Bottom Right",
+        "answer": "B"
+    },
+    {
+        "id": "352398cc-42d6-4f22-ace4-55ad733d079c",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/8.png",
+        "question": "Where can the roundabout be found in this image?\nA.The object is not in the picture\nB.Bottom Right\nC.Right\nD.Center",
+        "answer": "A"
+    },
+    {
+        "id": "a34d298a-eaca-4413-979d-9eca62fc27d5",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/272.png",
+        "question": "Where is the ship located in this image?\nA.Top Right\nB.Left\nC.Top\nD.The object is not in the picture",
+        "answer": "D"
+    },
+    {
+        "id": "b2766528-c924-4b86-a98a-e314ea62c83c",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/199.png",
+        "question": "What is the location of the swimming pool in this image?\nA.Left\nB.The object is not in the picture\nC.Top Left\nD.Right",
+        "answer": "B"
+    },
+    {
+        "id": "c188dd50-072e-4b5f-898e-ad84f974c62b",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/190.png",
+        "question": "Where can the storage tank be found in this image?\nA.Top Right\nB.Top\nC.Bottom Left\nD.The object is not in the picture",
+        "answer": "D"
+    },
+    {
+        "id": "397c1ba9-80c5-4030-9221-0c79c0ec30f9",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/402.png",
+        "question": "In this image, where is the dam positioned?\nA.Center\nB.Bottom Left\nC.The object is not in the picture\nD.Bottom Right",
+        "answer": "C"
+    },
+    {
+        "id": "951c5fb2-7ae8-454d-a8f8-41d93ec9be8d",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/87.png",
+        "question": "Where can the dam be found in this image?\nA.Bottom Right\nB.Left\nC.The object is not in the picture\nD.Bottom",
+        "answer": "C"
+    },
+    {
+        "id": "9a302587-9f57-4403-ada9-61428a2fdd9e",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/495.png",
+        "question": "Where is the dam located in this image?\nA.Right\nB.Center\nC.Bottom Left\nD.The object is not in the picture",
+        "answer": "D"
+    },
+    {
+        "id": "6047ae4a-94d0-47ae-8998-eb02beb4347f",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/477.png",
+        "question": "In this image, where is the ground track field positioned?\nA.Bottom Right\nB.Bottom\nC.Center\nD.The object is not in the picture",
+        "answer": "D"
+    },
+    {
+        "id": "e62e0836-4858-4933-94ca-38c319558107",
+        "image_path": "CHOICE/png/perception/single_instance_identification/hallucination_detection/148.png",
+        "question": "Can you identify the position of the airplane in this image?\nA.Bottom Left\nB.Left\nC.The object is not in the picture\nD.Center",
+        "answer": "C"
+    }
+]

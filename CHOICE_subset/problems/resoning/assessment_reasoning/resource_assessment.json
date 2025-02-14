@@ -1,0 +1,122 @@
+[
+    {
+        "id": "f468275f-b95c-4ad9-89fc-5420860f71f1",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/110.png",
+        "question": "What is the estimated population living in this area shown in the image?\nA.2071217\nB.195\nC.25170\nD.1445",
+        "answer": "C"
+    },
+    {
+        "id": "3ff0687c-1406-4a99-a0b0-85ef9d3b65e8",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/94.png",
+        "question": "What is the estimated population living in this area shown in the image?\nA.104130\nB.4510\nC.142663\nD.431431",
+        "answer": "B"
+    },
+    {
+        "id": "1d6d117f-b4db-43d0-bcb4-eac85b5b05bf",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/570.png",
+        "question": "Two images are displayed side by side, analyze them thoroughly and identify which one depicts the region with a better economic condition.\nA.can't judge\nB.Left\nC.Right",
+        "answer": "B"
+    },
+    {
+        "id": "e6eac11f-c2cb-4fb6-86fc-94263d22527b",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/549.png",
+        "question": "Two images are displayed side by side, analyze them thoroughly and identify which one depicts the region with a better economic condition.\nA.Left\nB.can't judge\nC.Right",
+        "answer": "C"
+    },
+    {
+        "id": "ad4f55e3-e4d5-48d5-a856-5cdb6f284738",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/476.png",
+        "question": "Given the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.can't judge\nB.Right\nC.Left",
+        "answer": "B"
+    },
+    {
+        "id": "eecc7201-ac17-4fa9-871b-4f6becf2fcf2",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/368.png",
+        "question": "Two images are displayed side by side, analyze them thoroughly and identify which one depicts the region with a better economic condition.\nA.can't judge\nB.Right\nC.Left",
+        "answer": "B"
+    },
+    {
+        "id": "27a2a81f-0231-459b-8bbd-4bee4df8c697",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/560.png",
+        "question": "Given the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Left\nB.can't judge\nC.Right",
+        "answer": "A"
+    },
+    {
+        "id": "93c50a2a-5375-49be-be38-a42e9ee56fd2",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/235.png",
+        "question": "Given the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Right\nB.can't judge\nC.Left",
+        "answer": "A"
+    },
+    {
+        "id": "04e70c6c-5b9d-4c1f-803d-ea332c229646",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/134.png",
+        "question": "How many people are estimated to live in the area shown in the image?\nA.8000\nB.706394\nC.602609\nD.629454",
+        "answer": "A"
+    },
+    {
+        "id": "82be8176-4c1c-47dd-b78a-3069771aa760",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/184.png",
+        "question": "Can you estimate the population of the area visible in this image?\nA.9796\nB.825052\nC.158035\nD.898073",
+        "answer": "A"
+    },
+    {
+        "id": "ce2c4c7b-d00c-473d-83ae-6471bc4c771e",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/167.png",
+        "question": "Based on the image, what is the estimated population of this area?\nA.110759\nB.120729\nC.209875\nD.3611",
+        "answer": "D"
+    },
+    {
+        "id": "d2c2d1e0-1d3b-4d74-bb98-d201e57a6657",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/327.png",
+        "question": "Two images are displayed side by side, analyze them thoroughly and identify which one depicts the region with a better economic condition.\nA.can't judge\nB.Left\nC.Right",
+        "answer": "B"
+    },
+    {
+        "id": "c7af78df-c79e-4abd-8b18-0f10385ad12d",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/291.png",
+        "question": "Given the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Left\nB.can't judge\nC.Right",
+        "answer": "A"
+    },
+    {
+        "id": "d83faeda-a9b2-4987-aec4-6f970247f618",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/503.png",
+        "question": "Look at the two images shown side by side, decide which one depicts the region with the better economic condition.\nA.Right\nB.can't judge\nC.Left",
+        "answer": "C"
+    },
+    {
+        "id": "90d27230-9a5a-471b-8d38-4aec2b7cdbb9",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/418.png",
+        "question": "Given the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Left\nB.Right\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "97f3d48c-2016-41d3-9dd5-a0d83ad1357f",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/379.png",
+        "question": "Two images are concatenated side by side, analyze these two remote sensing images comprehensively and determine which image shows the region with a better economic situation.\nA.Left\nB.Right\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "27877a56-44c2-4aa1-9162-58eec73c6431",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/307.png",
+        "question": "Given the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.can't judge\nB.Right\nC.Left",
+        "answer": "C"
+    },
+    {
+        "id": "93f30952-d95b-4068-ae44-0cb7abb6afd2",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/565.png",
+        "question": "Look at the two images shown side by side, decide which one depicts the region with the better economic condition.\nA.Right\nB.Left\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "8a492bb3-45cf-4d40-88c7-c00b930d0ba2",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/269.png",
+        "question": "Two images are concatenated side by side, analyze these two remote sensing images comprehensively and determine which image shows the region with a better economic situation.\nA.Left\nB.can't judge\nC.Right",
+        "answer": "C"
+    },
+    {
+        "id": "ae9cbbf1-9d91-42ae-9a83-a1b9de6d1523",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/resource_assessment/502.png",
+        "question": "Given the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Left\nB.Right\nC.can't judge",
+        "answer": "A"
+    }
+]

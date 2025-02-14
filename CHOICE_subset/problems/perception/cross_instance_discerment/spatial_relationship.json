@@ -1,0 +1,122 @@
+[
+    {
+        "id": "e14262f3-dd7e-414e-b0ec-a99afe52c6f7",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/173.png",
+        "question": "What is the relative position of the black vehicle to the silver vehicle in this image?\nA.Bottom\nB.Bottom Right\nC.Right\nD.Left",
+        "answer": "D"
+    },
+    {
+        "id": "994d5116-fd8e-44ae-8473-7ecf522889f3",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/28.png",
+        "question": "In the picture, where can the silver vehicle be found in relation to the red vehicle\nA.Right\nB.Bottom\nC.Top Left\nD.Left",
+        "answer": "B"
+    },
+    {
+        "id": "19346ac4-a812-4d36-898e-df08d0aac23c",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/254.png",
+        "question": "How is the silver vehicle positioned in relation to the white vehicle in this picture?\nA.Top Right\nB.Top Left\nC.Bottom Left\nD.Top",
+        "answer": "A"
+    },
+    {
+        "id": "9a97d176-9093-4319-8878-55ca4d46773e",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/50.png",
+        "question": "What is the relative position of the blue vehicle to the black vehicle in this image?\nA.Bottom\nB.Right\nC.Left\nD.Bottom Right",
+        "answer": "C"
+    },
+    {
+        "id": "b6980c9f-db76-4e00-be37-6e5c1579aee4",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/19.png",
+        "question": "What is the relative position of the sliver vehicle to the black vehicle in this image?\nA.Bottom Right\nB.Left\nC.Top\nD.Right",
+        "answer": "C"
+    },
+    {
+        "id": "b57f9f7e-42fd-400c-82d5-5d57697b406a",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/57.png",
+        "question": "How is the white vehicle positioned in relation to the blue vehicle in this picture?\nA.Right\nB.Bottom Left\nC.Top Right\nD.Bottom",
+        "answer": "B"
+    },
+    {
+        "id": "66f84a64-043e-4925-8052-eb6921e65115",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/8.png",
+        "question": "Can you identify the position of the blue vehicle in relation to the white vehicle in this image?\nA.Right\nB.Left\nC.Top Left\nD.Bottom",
+        "answer": "D"
+    },
+    {
+        "id": "af9722cd-e061-4a16-bdbc-58243898bb71",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/268.png",
+        "question": "What is the relative position of the white vehicle to the red vehicle in this image?\nA.Left\nB.Top Left\nC.Right\nD.Bottom Right",
+        "answer": "D"
+    },
+    {
+        "id": "bed6dd13-3672-4b30-bdcd-13cff1636af3",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/61.png",
+        "question": "What is the relative position of the white vehicle to the blue vehicle in this image?\nA.Left\nB.Top\nC.Bottom Right\nD.Bottom",
+        "answer": "A"
+    },
+    {
+        "id": "bed3cc2d-ebc1-4c1a-99c7-92480458a707",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/289.png",
+        "question": "What is the relative position of the white vehicle to the red vehicle in this image?\nA.Right\nB.Bottom Left\nC.Left\nD.Top",
+        "answer": "D"
+    },
+    {
+        "id": "12687c02-74cd-4b85-938d-e437b0a2b6f7",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/23.png",
+        "question": "What is the relative position of the white vehicle to the red vehicle in this image?\nA.Top Left\nB.Bottom Left\nC.Top\nD.Left",
+        "answer": "A"
+    },
+    {
+        "id": "33ff94d8-0457-48d7-b367-e559770b1090",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/38.png",
+        "question": "In the picture, where can the white vehicle be found in relation to the black vehicle\nA.Bottom\nB.Top Left\nC.Bottom Right\nD.Top Right",
+        "answer": "C"
+    },
+    {
+        "id": "6eb8f071-be5c-45c7-bae9-fff45159ef91",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/42.png",
+        "question": "What is the relative position of the silver vehicle to the blue vehicle in this image?\nA.Left\nB.Bottom\nC.Top Right\nD.Top",
+        "answer": "A"
+    },
+    {
+        "id": "a3eda11d-3d8e-445f-85a5-a61e8a23c305",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/217.png",
+        "question": "Can you identify the position of the silver vehicle in relation to the red vehicle in this image?\nA.Top\nB.Left\nC.Right\nD.Top Left",
+        "answer": "B"
+    },
+    {
+        "id": "5656d950-7bd7-4e6b-92bc-f0e27e71c076",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/120.png",
+        "question": "Can you identify the position of the white vehicle in relation to the red vehicle in this image?\nA.Top\nB.Left\nC.Right\nD.Top Left",
+        "answer": "B"
+    },
+    {
+        "id": "183adb4c-e716-4605-aea5-5091fcfbe514",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/240.png",
+        "question": "Can you identify the position of the silver vehicle in relation to the yellow vehicle in this image?\nA.Top Left\nB.Right\nC.Bottom\nD.Left",
+        "answer": "A"
+    },
+    {
+        "id": "948bbea1-811d-4ee5-81a8-744bc1faeaa3",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/138.png",
+        "question": "In the picture, where can the white vehicle be found in relation to the black vehicle\nA.Right\nB.Top\nC.Bottom Left\nD.Left",
+        "answer": "A"
+    },
+    {
+        "id": "33762658-c03a-49d9-a684-2be0f7f28312",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/211.png",
+        "question": "Can you identify the position of the white vehicle in relation to the silver vehicle in this image?\nA.Bottom\nB.Left\nC.Top Right\nD.Right",
+        "answer": "A"
+    },
+    {
+        "id": "5926b1af-9d38-44a9-b596-93b20801ecdc",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/283.png",
+        "question": "In the picture, where can the orange vehicle be found in relation to the black vehicle\nA.Left\nB.Right\nC.Top Left\nD.Bottom",
+        "answer": "A"
+    },
+    {
+        "id": "e0f6d964-7a35-45d3-8e9b-6c76c88141ad",
+        "image_path": "CHOICE/png/perception/cross_instance_discerment/spatial_relationship/269.png",
+        "question": "What is the relative position of the black vehicle to the purple vehicle in this image?\nA.Top\nB.Left\nC.Right\nD.Top Right",
+        "answer": "C"
+    }
+]

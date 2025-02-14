@@ -1,0 +1,122 @@
+[
+    {
+        "id": "f28c63c7-d470-488d-aa54-6ac992ab7a59",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/478.png",
+        "question": "How is the white vehicle in this image oriented?\nA.top left to bottom right\nB.top to bottom\nC.bottom left to top right\nD.bottom right to top left",
+        "answer": "D"
+    },
+    {
+        "id": "b5e7adf8-abc3-4488-8bb8-dbe52b5b13af",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/232.png",
+        "question": "How is the black vehicle in the center of this image oriented?\nA.top to bottom\nB.left to right\nC.bottom left to top right\nD.right to left",
+        "answer": "B"
+    },
+    {
+        "id": "81323bd3-5d92-4a33-9015-880528819d9f",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/218.png",
+        "question": "Can you describe the orientation of the vehicle in the top of this image?\nA.right to left\nB.bottom to top\nC.top to bottom\nD.left to right",
+        "answer": "C"
+    },
+    {
+        "id": "4e808d86-7f2a-4d11-8358-af71ba2ae7c8",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/424.png",
+        "question": "How is the blue vehicle in this image oriented?\nA.left to right\nB.bottom left to top right\nC.right to left\nD.top left to bottom right",
+        "answer": "B"
+    },
+    {
+        "id": "06beac2c-cf20-4c68-b7da-7a6ed050ab2a",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/434.png",
+        "question": "Can you describe the orientation of the red vehicle in this image?\nA.left to right\nB.top to bottom\nC.bottom to top\nD.top left to bottom right",
+        "answer": "C"
+    },
+    {
+        "id": "e39100f1-9cd8-4725-b793-d95ba90a2efa",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/6.png",
+        "question": "Can you identify the color of the vehicle in the right of this image?\nA.green\nB.yellow\nC.red\nD.brown",
+        "answer": "C"
+    },
+    {
+        "id": "77c1c6e3-dea3-4154-bcab-bab9d65d723c",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/9.png",
+        "question": "What color is the vehicle located at the bottom left of this image?\nA.red\nB.purple\nC.white\nD.pink",
+        "answer": "C"
+    },
+    {
+        "id": "23755c72-04bb-40ff-969a-67b083647951",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/84.png",
+        "question": "Identify the color of the vehicle in the center of the image.\nA.yellow\nB.white\nC.green\nD.purple",
+        "answer": "B"
+    },
+    {
+        "id": "a7617552-51c3-43bd-a253-75870a12eb50",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/185.png",
+        "question": "Identify the orientation of the vehicle in the bottom left of the image.\nA.bottom right to top left\nB.top to bottom\nC.left to right\nD.bottom to top",
+        "answer": "B"
+    },
+    {
+        "id": "6e6cd976-5081-4b1e-a4ba-7ce389181724",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/179.png",
+        "question": "What orientation is the vehicle facing in the bottom left of this image?\nA.top left to bottom right\nB.right to left\nC.top to bottom\nD.bottom to top",
+        "answer": "A"
+    },
+    {
+        "id": "6c683ff9-cffe-43a9-bdf3-d0c652fc3b2a",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/461.png",
+        "question": "Identify the orientation of the blue vehicle in the left of the image.\nA.left to right\nB.top left to bottom right\nC.top to bottom\nD.right to left",
+        "answer": "D"
+    },
+    {
+        "id": "f59d7b0e-708f-4f69-a764-1c9b68d3b5e0",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/396.png",
+        "question": "Identify the orientation of the blue vehicle in the image.\nA.right to left\nB.top right to bottom left\nC.left to right\nD.top to bottom",
+        "answer": "C"
+    },
+    {
+        "id": "08540503-477a-4386-b352-53f7e1318719",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/54.png",
+        "question": "What color is the vehicle located at the center of this image?\nA.orange\nB.blue\nC.pink\nD.yellow",
+        "answer": "B"
+    },
+    {
+        "id": "e7c26415-6725-4dfc-b689-626f62470dc0",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/12.png",
+        "question": "Identify the color of the vehicle in the center of the image.\nA.black\nB.green\nC.pink\nD.yellow",
+        "answer": "A"
+    },
+    {
+        "id": "df774441-b0f2-427b-920f-67066ff06097",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/473.png",
+        "question": "Can you describe the orientation of the yellow vehicle in this image?\nA.top to bottom\nB.right to left\nC.top left to bottom right\nD.bottom left to top right",
+        "answer": "C"
+    },
+    {
+        "id": "bf608a25-a08b-4156-ad11-7933eb930a35",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/470.png",
+        "question": "How is the white vehicle in this image oriented?\nA.left to right\nB.bottom right to top left\nC.bottom left to top right\nD.top to bottom",
+        "answer": "C"
+    },
+    {
+        "id": "a973fc28-144e-4392-aab5-f44778d556f7",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/210.png",
+        "question": "Identify the orientation of the vehicle in the top right of the image.\nA.top left to bottom right\nB.bottom to top\nC.top right to bottom left\nD.top to bottom",
+        "answer": "C"
+    },
+    {
+        "id": "2d6049e0-fe35-401b-9aaf-0508f3fcdd8f",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/435.png",
+        "question": "What is the orientation of the yollow vehicle in this image?\nA.left to right\nB.bottom right to top left\nC.bottom left to top right\nD.top to bottom",
+        "answer": "C"
+    },
+    {
+        "id": "76e68f64-6177-4220-a78d-f3a5984a708e",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/245.png",
+        "question": "What is the orientation of the vehicle in the center of this image?\nA.top left to bottom right\nB.bottom right to top left\nC.left to right\nD.bottom left to top right",
+        "answer": "D"
+    },
+    {
+        "id": "4d252cb0-c417-4960-8e85-db09d5f47433",
+        "image_path": "CHOICE/png/perception/single_instance_identification/attribute_recognition/264.png",
+        "question": "What is the orientation of the black vehicle in this image?\nA.bottom left to top right\nB.top left to bottom right\nC.top to bottom\nD.right to left",
+        "answer": "A"
+    }
+]

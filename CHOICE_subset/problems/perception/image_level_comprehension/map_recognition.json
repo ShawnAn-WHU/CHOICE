@@ -1,0 +1,122 @@
+[
+    {
+        "id": "dacebe0d-8ebf-4217-9839-26b61486a007",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/112.png",
+        "question": "Based on the map, which country or region is being depicted?\nA.Kyrgyzstan\nB.Libya\nC.Chad\nD.Taiwan",
+        "answer": "B"
+    },
+    {
+        "id": "f0f7d0c4-ee38-4761-a67d-9f1f7eff39d5",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/82.png",
+        "question": "Can you identify the country or region shown on this map?\nA.Luxembourg\nB.Cameroon\nC.Denmark\nD.Guinea Bissau",
+        "answer": "C"
+    },
+    {
+        "id": "550baf1c-b67a-40f9-9b1d-7b9d366f7037",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/139.png",
+        "question": "What country or region does the outline on this map correspond to?\nA.Ukraine\nB.Guinea Bissau\nC.Slovenia\nD.Mozambique",
+        "answer": "C"
+    },
+    {
+        "id": "d9bc6bea-1c0c-4bc9-b528-bf51eacff8ac",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/131.png",
+        "question": "Can you identify the country or region shown on this map?\nA.Eritrea\nB.Argentina\nC.Paraguay\nD.El Salvador",
+        "answer": "C"
+    },
+    {
+        "id": "49adc137-b25b-4ebb-a667-1f4b7721b6fe",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/58.png",
+        "question": "From the map provided, what is the name of the country or region?\nA.Central African Republic\nB.Afghanistan\nC.Sri Lanka\nD.Armenia",
+        "answer": "B"
+    },
+    {
+        "id": "c43ccc89-3e90-4825-8f57-adc0a1cb17fa",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/32.png",
+        "question": "What city does the outline on this map correspond to?\nA.Paris, France\nB.Oslo, Norway\nC.Taipei, Taiwan\nD.Wuhan, China",
+        "answer": "B"
+    },
+    {
+        "id": "892fef89-e529-4d60-bef2-cb211277e67d",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/5.png",
+        "question": "Based on the map, which city is being depicted?\nA.Gwangju, South Korea\nB.Nanjing, China\nC.Sao Paulo, Brazil\nD.Buenos Aires, Argentina",
+        "answer": "C"
+    },
+    {
+        "id": "b5824cec-d7d4-44b2-b566-1e2f6de06ade",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/44.png",
+        "question": "What is the name of the city outlined in this map?\nA.Al_Ain, United Arab Emirates\nB.Seoul, South Korea\nC.Calgary, Canada\nD.Nanjing, China",
+        "answer": "A"
+    },
+    {
+        "id": "1ade1749-ce3d-4fb2-ae13-f4092ffc12b2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/113.png",
+        "question": "What country or region does the outline on this map correspond to?\nA.Bosnia and Herzegovina\nB.Venezuela\nC.Albania\nD.Lithuania",
+        "answer": "D"
+    },
+    {
+        "id": "1b8463c7-b467-4b7e-a139-baedb2866456",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/148.png",
+        "question": "Based on the map, which country or region is being depicted?\nA.Malaysia\nB.Tunisia\nC.Senegal\nD.Lesotho",
+        "answer": "B"
+    },
+    {
+        "id": "20e3a8de-34f5-4c01-88d1-e6f2dc5a3b9c",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/96.png",
+        "question": "Can you identify the country or region shown on this map?\nA.Guinea Bissau\nB.Denmark\nC.Bulgaria\nD.Lesotho",
+        "answer": "A"
+    },
+    {
+        "id": "7264c0bd-2eec-43b9-99dc-bf153d77c28e",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/19.png",
+        "question": "What city does the outline on this map correspond to?\nA.Gwangju, South Korea\nB.Wuhan, China\nC.Paris, France\nD.Oslo, Norway",
+        "answer": "C"
+    },
+    {
+        "id": "373a49e2-5cea-4a31-bb78-96e1757f5ad3",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/129.png",
+        "question": "Based on the map, which country or region is being depicted?\nA.Tunisia\nB.Pakistan\nC.Congo\nD.Gambia",
+        "answer": "B"
+    },
+    {
+        "id": "4e308079-7cd3-4c4a-b675-a41fb1305f4b",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/69.png",
+        "question": "What is the name of the country or region outlined in this map?\nA.Costa Rica\nB.Brazil\nC.Japan\nD.Kazakhstan",
+        "answer": "B"
+    },
+    {
+        "id": "b8c734ff-48bc-4150-b267-c551db387808",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/7.png",
+        "question": "What city does the outline on this map correspond to?\nA.Edinburgh, United Kingdom\nB.Wuhan, China\nC.Shanghai, China\nD.Toronto, Canada",
+        "answer": "D"
+    },
+    {
+        "id": "0267c4dc-60c1-4ba7-b3b1-718821387688",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/39.png",
+        "question": "From the map provided, what is the name of the city?\nA.Calgary, Canada\nB.Barcelona, Spain\nC.Busan, South Korea\nD.Nairobi, kenya",
+        "answer": "B"
+    },
+    {
+        "id": "77948b33-cce8-4993-b9e9-550e13d5ddf8",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/106.png",
+        "question": "From the map provided, what is the name of the country or region?\nA.Kazakhstan\nB.Egypt\nC.Benin\nD.Ghana",
+        "answer": "A"
+    },
+    {
+        "id": "67b5ac91-086b-43e9-bb2f-06841cf7ab70",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/31.png",
+        "question": "What city does the outline on this map correspond to?\nA.Okayama, Japan\nB.Taipei, Taiwan\nC.Bergen, Norway\nD.Al_Ain, United Arab Emirates",
+        "answer": "C"
+    },
+    {
+        "id": "d8886b3c-2d4a-48e7-8e72-30caa045f9c2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/35.png",
+        "question": "Based on the map, which city is being depicted?\nA.Daegu, South Korea\nB.Suzhou, China\nC.Kumamoto, Japan\nD.Okayama, Japan",
+        "answer": "A"
+    },
+    {
+        "id": "3d3eee0f-5e6f-4687-8de7-ffae65ae73ce",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/map_recognition/103.png",
+        "question": "Can you identify the country or region shown on this map?\nA.Morocco\nB.Lesotho\nC.Costa Rica\nD.Israel",
+        "answer": "D"
+    }
+]

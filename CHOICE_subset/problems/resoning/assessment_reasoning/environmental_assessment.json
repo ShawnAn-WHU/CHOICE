@@ -1,0 +1,122 @@
+[
+    {
+        "id": "aba7b0b3-ba44-4b58-8486-68c2fdadfc44",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/55.png",
+        "question": "Looking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Medium\nB.Very low\nC.High\nD.Low",
+        "answer": "A"
+    },
+    {
+        "id": "3f9dc3a9-f905-442e-9fcb-7814fed0e87b",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/91.png",
+        "question": "From this image, which carbon dioxide emission level is most representative of this area?\nA.Low\nB.Very low\nC.High\nD.Medium",
+        "answer": "B"
+    },
+    {
+        "id": "1bf2f176-869a-45e7-a6d1-1f06303d116a",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/29.png",
+        "question": "Considering the image, which carbon dioxide emission level is the most fitting for this area?\nA.High\nB.Medium\nC.Low\nD.Very low",
+        "answer": "D"
+    },
+    {
+        "id": "58ae2ba3-f89a-44d5-baa0-b97908172b2f",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/43.png",
+        "question": "Based on this image, which level of carbon dioxide emissions best reflects this area?\nA.Very low\nB.Medium\nC.High\nD.Low",
+        "answer": "D"
+    },
+    {
+        "id": "b4a310ac-8913-47a1-a530-889c00ac3f90",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/76.png",
+        "question": "From this image, which carbon dioxide emission level is most representative of this area?\nA.High\nB.Low\nC.Very low\nD.Medium",
+        "answer": "C"
+    },
+    {
+        "id": "fc5a3184-f3df-4426-87db-8c4844470e81",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/179.png",
+        "question": "From this image, which carbon dioxide emission level is most representative of this area?\nA.Medium\nB.Very low\nC.High\nD.Low",
+        "answer": "B"
+    },
+    {
+        "id": "4801cfdd-60b3-415d-a949-5ffd4dc827df",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/128.png",
+        "question": "Looking at this image, which carbon dioxide emission level applies most closely to this area?\nA.High\nB.Very low\nC.Medium\nD.Low",
+        "answer": "B"
+    },
+    {
+        "id": "ec626afb-92b2-4113-a127-b3d999f6957b",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/48.png",
+        "question": "Considering the image, which carbon dioxide emission level is the most fitting for this area?\nA.Low\nB.High\nC.Very low\nD.Medium",
+        "answer": "A"
+    },
+    {
+        "id": "fe2faf47-adbe-42d0-9d56-a5eccb717df7",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/27.png",
+        "question": "From this image, which carbon dioxide emission level is most representative of this area?\nA.Medium\nB.Very low\nC.Low\nD.High",
+        "answer": "B"
+    },
+    {
+        "id": "7c31fdd7-7b7c-4ed5-94c3-2eb039b1e9f4",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/145.png",
+        "question": "Which carbon dioxide emission level in the image most accurately represents this area?\nA.Medium\nB.High\nC.Low\nD.Very low",
+        "answer": "D"
+    },
+    {
+        "id": "21019dcf-09b3-491d-8b73-b0277de1fe5b",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/119.png",
+        "question": "From this image, which carbon dioxide emission level is most representative of this area?\nA.High\nB.Very low\nC.Low\nD.Medium",
+        "answer": "B"
+    },
+    {
+        "id": "68710d40-79fc-42f0-aedd-01b878495113",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/195.png",
+        "question": "Looking at this image, which carbon dioxide emission level applies most closely to this area?\nA.High\nB.Medium\nC.Very low\nD.Low",
+        "answer": "C"
+    },
+    {
+        "id": "8f8d835e-e6b1-4a03-915a-bdf56e0d19e6",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/69.png",
+        "question": "Looking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Very low\nB.High\nC.Low\nD.Medium",
+        "answer": "D"
+    },
+    {
+        "id": "3522bce2-ac15-4879-b24d-e92d29a7eece",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/35.png",
+        "question": "Which carbon dioxide emission level in the image most accurately represents this area?\nA.Medium\nB.Low\nC.Very low\nD.High",
+        "answer": "B"
+    },
+    {
+        "id": "830d9a26-5b88-44f3-8225-93fe43d6247d",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/164.png",
+        "question": "From this image, which carbon dioxide emission level is most representative of this area?\nA.Very low\nB.High\nC.Medium\nD.Low",
+        "answer": "A"
+    },
+    {
+        "id": "0976c356-d1e5-41c4-9d47-31ad96cc507b",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/87.png",
+        "question": "Looking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Medium\nB.High\nC.Low\nD.Very low",
+        "answer": "D"
+    },
+    {
+        "id": "df681528-e874-44c0-a57f-2a3e4826d781",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/170.png",
+        "question": "Based on this image, which level of carbon dioxide emissions best reflects this area?\nA.Low\nB.High\nC.Medium\nD.Very low",
+        "answer": "D"
+    },
+    {
+        "id": "9fdcb9d8-9af3-4d84-8f03-e621787cedc2",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/186.png",
+        "question": "Which carbon dioxide emission level in the image most accurately represents this area?\nA.Very low\nB.High\nC.Low\nD.Medium",
+        "answer": "C"
+    },
+    {
+        "id": "fdd0a439-5b48-4fc3-989f-38632adfcccb",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/62.png",
+        "question": "Looking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Very low\nB.Medium\nC.High\nD.Low",
+        "answer": "A"
+    },
+    {
+        "id": "efb44c94-75b4-4d79-934d-c2fc69ca3708",
+        "image_path": "CHOICE/png/resoning/assessment_reasoning/environmental_assessment/17.png",
+        "question": "Considering the image, which carbon dioxide emission level is the most fitting for this area?\nA.Medium\nB.Very low\nC.Low\nD.High",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "f2e817da-8726-464f-b202-e7cbdeb957f1",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1512.png",
+        "question": "Given the image, which category is most appropriate for it?\nA.school\nB.roundabout\nC.pond\nD.river",
+        "answer": "C"
+    },
+    {
+        "id": "fd87fa7c-2c97-497d-9597-9e00432c11b2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/20.png",
+        "question": "Looking at the image provided, which category does it match?\nA.pond\nB.airport\nC.medium_residential\nD.forest",
+        "answer": "B"
+    },
+    {
+        "id": "22c6f826-c53f-4362-a4f2-063f977d80b9",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1785.png",
+        "question": "Considering the image you've been given, which category would it fall under?\nA.farmland\nB.medium_residential\nC.sparse_residential\nD.roundabout",
+        "answer": "C"
+    },
+    {
+        "id": "34d73e60-f98a-435b-bff7-ec5f777afff2",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1500.png",
+        "question": "Given the image, which category is most appropriate for it?\nA.roundabout\nB.medium_residential\nC.dense_residential\nD.pond",
+        "answer": "D"
+    },
+    {
+        "id": "bf477731-2a0c-4eec-8ee8-1e0bd17de34b",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/784.png",
+        "question": "Considering the image you've been given, which category would it fall under?\nA.parking\nB.church\nC.farmland\nD.beach",
+        "answer": "C"
+    },
+    {
+        "id": "1fbba433-0967-45ce-83bb-233f16d52d52",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/497.png",
+        "question": "From the image shown, which category does it best fit into?\nA.beach\nB.church\nC.bridge\nD.dense_residential",
+        "answer": "D"
+    },
+    {
+        "id": "cef11b7d-e873-41a8-84d6-a01be392294a",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/890.png",
+        "question": "From the image shown, which category does it best fit into?\nA.forest\nB.pond\nC.staduim\nD.baseball_filed",
+        "answer": "A"
+    },
+    {
+        "id": "0d66b5ca-9dcb-49db-9ad8-864165a97884",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/38.png",
+        "question": "Based on the provided image, which category does it belong to?\nA.roundabout\nB.medium_residential\nC.airport\nD.pond",
+        "answer": "C"
+    },
+    {
+        "id": "38104bf6-5abd-4d4a-a77d-4daa6f35eb59",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1253.png",
+        "question": "From the image shown, which category does it best fit into?\nA.bridge\nB.pond\nC.medium_residential\nD.river",
+        "answer": "C"
+    },
+    {
+        "id": "7e407448-129f-4d96-9d31-f83e97da56c5",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/130.png",
+        "question": "Based on the provided image, which category does it belong to?\nA.commercial\nB.baseball_field\nC.staduim\nD.river",
+        "answer": "B"
+    },
+    {
+        "id": "894a4568-9b4d-4c51-a2ff-8f179e983871",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1214.png",
+        "question": "Given the image, which category is most appropriate for it?\nA.roundabout\nB.beach\nC.industrial\nD.commercial",
+        "answer": "C"
+    },
+    {
+        "id": "aa28a4a6-0e87-4c08-9e7f-9538a754f301",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1582.png",
+        "question": "Given the image, which category is most appropriate for it?\nA.airport\nB.parking\nC.sparse_residential\nD.river",
+        "answer": "D"
+    },
+    {
+        "id": "f40ada73-aafd-43ed-b1dc-29339ac2eee8",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/278.png",
+        "question": "Considering the image you've been given, which category would it fall under?\nA.bridge\nB.church\nC.medium_residential\nD.forest",
+        "answer": "A"
+    },
+    {
+        "id": "6df66cbe-8670-4183-af2c-88278d063258",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/639.png",
+        "question": "From the image shown, which category does it best fit into?\nA.storage_tanks\nB.desert\nC.pond\nD.roundabout",
+        "answer": "B"
+    },
+    {
+        "id": "a86ac397-7093-414f-ad66-cce2e3aab58e",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/724.png",
+        "question": "Considering the image you've been given, which category would it fall under?\nA.storage_tanks\nB.bridge\nC.commercial\nD.farmland",
+        "answer": "D"
+    },
+    {
+        "id": "76d54f50-7ae6-484a-9dcd-cec10f972f2d",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1773.png",
+        "question": "Based on the provided image, which category does it belong to?\nA.staduim\nB.dense_residential\nC.industrial\nD.sparse_residential",
+        "answer": "D"
+    },
+    {
+        "id": "ce48f80f-2f1b-4069-a201-6d9482316c96",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1905.png",
+        "question": "From the image shown, which category does it best fit into?\nA.beach\nB.industrial\nC.farmland\nD.storage_tanks",
+        "answer": "D"
+    },
+    {
+        "id": "a6f61b6f-ae15-4f76-a57b-781117b3c134",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1231.png",
+        "question": "Looking at the image provided, which category does it match?\nA.pond\nB.industrial\nC.airport\nD.staduim",
+        "answer": "B"
+    },
+    {
+        "id": "d7c7fc6f-bceb-4ffc-8f22-cbf9606b013e",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/1952.png",
+        "question": "From the image shown, which category does it best fit into?\nA.pond\nB.commercial\nC.beach\nD.storage_tanks",
+        "answer": "D"
+    },
+    {
+        "id": "b3d5eaf4-82d4-4b3a-acb0-591de4a9bfd4",
+        "image_path": "CHOICE/png/perception/image_level_comprehension/scene_classification/279.png",
+        "question": "From the image shown, which category does it best fit into?\nA.school\nB.commercial\nC.bridge\nD.airport",
+        "answer": "C"
+    }
+]

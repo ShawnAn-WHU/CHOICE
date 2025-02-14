@@ -1,0 +1,122 @@
+[
+    {
+        "id": "8e15a99d-342e-49a2-b814-5075f68681a0",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/71.png",
+        "question": "In this image, where is the bridge positioned?\nA.Center\nB.Top Right\nC.Right\nD.Bottom Right",
+        "answer": "C"
+    },
+    {
+        "id": "04a99bc9-8f3e-47fd-8b05-db5e0896f6c2",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/196.png",
+        "question": "Can you identify the position of the ground track field in this image?\nA.Center\nB.Left\nC.Bottom Right\nD.Bottom",
+        "answer": "A"
+    },
+    {
+        "id": "bb9a1495-2fdb-4752-9a85-da07b56fabc9",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/480.png",
+        "question": "Can you identify the position of the airplane in this image?\nA.Bottom\nB.Bottom Left\nC.Top Left\nD.Bottom Right",
+        "answer": "B"
+    },
+    {
+        "id": "6105b38b-f54a-4873-a98a-55734b72335c",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/7.png",
+        "question": "Where is the roundabout located in this image?\nA.Center\nB.Bottom Right\nC.Right\nD.Bottom Left",
+        "answer": "C"
+    },
+    {
+        "id": "edd46e9b-0a77-453c-8956-367be6393488",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/466.png",
+        "question": "What is the location of the ship in this image?\nA.Bottom\nB.Bottom Left\nC.Left\nD.Top Left",
+        "answer": "B"
+    },
+    {
+        "id": "e1244527-a123-4273-9a7f-6478000310bd",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/443.png",
+        "question": "Where can the bridge be found in this image?\nA.Right\nB.Center\nC.Bottom Left\nD.Top Right",
+        "answer": "B"
+    },
+    {
+        "id": "b7102b2c-7eed-418f-9fb0-2d7f81b1e5c5",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/96.png",
+        "question": "Where can the harbor be found in this image?\nA.Top\nB.Bottom Right\nC.Center\nD.Left",
+        "answer": "D"
+    },
+    {
+        "id": "cce75b31-0dd2-42fc-a4ce-af14c83fea1c",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/78.png",
+        "question": "Can you identify the position of the bridge in this image?\nA.Center\nB.Right\nC.Bottom\nD.Top Left",
+        "answer": "A"
+    },
+    {
+        "id": "a6eb2efb-3068-4f11-b8d8-aa95e412e4a2",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/411.png",
+        "question": "Where is the roundabout located in this image?\nA.Left\nB.Top\nC.Bottom Left\nD.Top Right",
+        "answer": "B"
+    },
+    {
+        "id": "874cfebb-d277-41b2-bbb8-46fbaf91a784",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/106.png",
+        "question": "In this image, where is the airplane positioned?\nA.Top\nB.Bottom\nC.Bottom Left\nD.Right",
+        "answer": "B"
+    },
+    {
+        "id": "45399dae-a040-4e7f-b5ad-b29056858ea6",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/492.png",
+        "question": "In this image, where is the bridge positioned?\nA.Left\nB.Bottom\nC.Right\nD.Center",
+        "answer": "D"
+    },
+    {
+        "id": "f5e74050-f3a5-43bc-aeb5-99c7f696d7e8",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/284.png",
+        "question": "Where can the airplane be found in this image?\nA.Left\nB.Right\nC.Bottom Right\nD.Top Left",
+        "answer": "C"
+    },
+    {
+        "id": "faad20d9-c08a-44fa-9e9e-4add1a876bb4",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/367.png",
+        "question": "Can you identify the position of the soccer ball field in this image?\nA.Bottom Left\nB.Center\nC.Top Left\nD.Bottom Right",
+        "answer": "B"
+    },
+    {
+        "id": "c60ef61f-35fb-4fa2-90aa-1258c0f020ae",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/486.png",
+        "question": "Where can the dam be found in this image?\nA.Bottom Left\nB.Top Right\nC.Bottom Right\nD.Top Left",
+        "answer": "C"
+    },
+    {
+        "id": "63415d9f-6697-4f68-b940-ed38510c9998",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/393.png",
+        "question": "Can you identify the position of the dam in this image?\nA.Top Right\nB.Center\nC.Bottom Left\nD.Bottom",
+        "answer": "C"
+    },
+    {
+        "id": "29fa4fca-3b2f-4eab-9d52-2b169446821e",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/69.png",
+        "question": "Where can the dam be found in this image?\nA.Top Right\nB.Bottom\nC.Top\nD.Center",
+        "answer": "C"
+    },
+    {
+        "id": "95b13fe3-1f72-492f-9fe8-e0ecf2dd04a8",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/190.png",
+        "question": "Where is the ship located in this image?\nA.Top\nB.Bottom\nC.Top Left\nD.Bottom Right",
+        "answer": "A"
+    },
+    {
+        "id": "81bdc73f-1665-4682-a56f-6c04b62bb26d",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/38.png",
+        "question": "In this image, where is the dam positioned?\nA.Bottom Left\nB.Top Left\nC.Bottom\nD.Right",
+        "answer": "C"
+    },
+    {
+        "id": "f0289c74-cae6-4a9e-9831-b18bbd7a5c49",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/144.png",
+        "question": "Can you identify the position of the roundabout in this image?\nA.Bottom Right\nB.Left\nC.Center\nD.Right",
+        "answer": "C"
+    },
+    {
+        "id": "a12fc099-2076-4af3-9ee7-a54b7d4e3dab",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_localization/137.png",
+        "question": "What is the location of the dam in this image?\nA.Center\nB.Top\nC.Right\nD.Bottom",
+        "answer": "A"
+    }
+]

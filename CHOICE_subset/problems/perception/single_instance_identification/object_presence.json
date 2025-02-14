@@ -1,0 +1,122 @@
+[
+    {
+        "id": "15f77ed0-a28d-45ad-aa9b-b44322192ee3",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/243.png",
+        "question": "Does this image contain a/an roundabout?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "f185d842-dba2-4389-ba23-3be2c20167d8",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/193.png",
+        "question": "Is there a/an dam in this image?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "A"
+    },
+    {
+        "id": "32fcdcf2-ed46-497b-b0f0-169720326f82",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/177.png",
+        "question": "Is there a/an dam in this image?\nA.No\nB.Yes\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "5454534c-5c48-463d-b034-0533a9959f84",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/237.png",
+        "question": "Is a/an roundabout present in this image?\nA.Yes\nB.No\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "ac48b7e9-c256-4f9a-8b33-76a9c032f970",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/240.png",
+        "question": "Can you see a/an roundabout in this image?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "6e686f4f-a23d-4811-80bd-0c656eb1fed9",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/289.png",
+        "question": "Does this image feature a/an soccer ball field?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "06a15380-9dd7-42b5-b065-cc1c10924a14",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/120.png",
+        "question": "Is there a/an bridge in this image?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "30a0dcd8-b4e7-4588-9d4d-a977236b9a05",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/169.png",
+        "question": "Can you see a/an dam in this image?\nA.can't judge\nB.Yes\nC.No",
+        "answer": "B"
+    },
+    {
+        "id": "dca80f34-bfab-490a-b2b5-f93426017e8f",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/349.png",
+        "question": "Is there a/an storage tank in this image?\nA.Yes\nB.can't judge\nC.No",
+        "answer": "A"
+    },
+    {
+        "id": "96af4acb-5bc3-4185-bca2-c7796bfdb0ab",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/456.png",
+        "question": "Does this image feature a/an harbor?\nA.Yes\nB.can't judge\nC.No",
+        "answer": "A"
+    },
+    {
+        "id": "1d0f0ea3-b715-43b7-9442-ef459f9fc5dc",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/465.png",
+        "question": "Can you see a/an harbor in this image?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "5e28be5b-ab4a-461f-ac8a-ca7baba473d7",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/59.png",
+        "question": "Is there a/an airplane in this image?\nA.Yes\nB.can't judge\nC.No",
+        "answer": "A"
+    },
+    {
+        "id": "6c61123a-059b-4f16-9fba-de6190b8305d",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/9.png",
+        "question": "Does this image feature a/an airplane?\nA.Yes\nB.can't judge\nC.No",
+        "answer": "A"
+    },
+    {
+        "id": "52873e8d-e3b2-4d43-a120-d24d69e07310",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/395.png",
+        "question": "Does this image feature a/an ship?\nA.No\nB.Yes\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "2dc6e2d7-5fb1-4575-b2e7-2b1d512f1252",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/234.png",
+        "question": "Is a/an roundabout present in this image?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "88e58519-7957-4a0a-bdcd-8952d58cfafe",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/130.png",
+        "question": "Does this image feature a/an bridge?\nA.Yes\nB.No\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "7ad79be7-4c9a-40a9-8e5b-ab86f0e5fa8b",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/363.png",
+        "question": "Is there a/an storage tank in this image?\nA.can't judge\nB.Yes\nC.No",
+        "answer": "B"
+    },
+    {
+        "id": "6b5d4f2a-786c-43f4-8ebe-48c5c61f74ae",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/392.png",
+        "question": "Can you see a/an ship in this image?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "5e21c221-0122-459a-a496-c8fe2aa2077a",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/39.png",
+        "question": "Can you see a/an airplane in this image?\nA.No\nB.Yes\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "093dd660-7729-4e25-a878-faa91577b266",
+        "image_path": "CHOICE/png/perception/single_instance_identification/object_presence/440.png",
+        "question": "Does this image contain a/an ship?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "C"
+    }
+]

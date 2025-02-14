@@ -1,0 +1,122 @@
+[
+    {
+        "id": "a283d6c6-aac7-47ce-840c-2ea0a917577e",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/164.png",
+        "question": "Which disaster resulted in the scenario depicted in this image?\nA.Earthquake\nB.Fire\nC.Landslide\nD.Flood",
+        "answer": "C"
+    },
+    {
+        "id": "1b7a3849-3ff3-4b2e-91ad-b62be6a592f0",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/128.png",
+        "question": "Which disaster is responsible for the scene depicted in this image?\nA.Earthquake\nB.Fire\nC.Flood\nD.Landslide",
+        "answer": "C"
+    },
+    {
+        "id": "5e2df7d8-732b-4fdf-81f5-0ae7e5d22a5d",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/91.png",
+        "question": "Which disaster is responsible for the scene depicted in this image?\nA.Flood\nB.Landslide\nC.Earthquake\nD.Fire",
+        "answer": "D"
+    },
+    {
+        "id": "aa8380a4-0225-472d-bb12-391cfff8da97",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/46.png",
+        "question": "Which disaster is responsible for the scene depicted in this image?\nA.Fire\nB.Earthquake\nC.Flood\nD.Landslide",
+        "answer": "B"
+    },
+    {
+        "id": "a85a4878-ffe5-48dc-9c06-2d5c484aae0c",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/44.png",
+        "question": "What catastrophic event brought about the situation in this image?\nA.Flood\nB.Earthquake\nC.Landslide\nD.Fire",
+        "answer": "B"
+    },
+    {
+        "id": "7eac427b-e8b2-403c-b852-a13ee4b10498",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/54.png",
+        "question": "Can you identify the disaster that led to the situation in this image?\nA.Fire\nB.Earthquake\nC.Landslide\nD.Flood",
+        "answer": "A"
+    },
+    {
+        "id": "b69f2a01-092a-436e-bca3-d828ba284cb5",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/177.png",
+        "question": "What disaster led to the situation depicted in this image?\nA.Fire\nB.Earthquake\nC.Landslide\nD.Flood",
+        "answer": "C"
+    },
+    {
+        "id": "a27c46fc-3370-4140-8d1e-791e4266db24",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/122.png",
+        "question": "Can you identify the disaster that led to the situation in this image?\nA.Landslide\nB.Flood\nC.Earthquake\nD.Fire",
+        "answer": "B"
+    },
+    {
+        "id": "8133702c-0a45-4be3-b1af-d166d961b5d2",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/25.png",
+        "question": "What catastrophic event brought about the situation in this image?\nA.Flood\nB.Earthquake\nC.Fire\nD.Landslide",
+        "answer": "B"
+    },
+    {
+        "id": "e5697943-ca59-4675-918d-818331b0d94e",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/158.png",
+        "question": "Can you identify the disaster that led to the situation in this image?\nA.Landslide\nB.Flood\nC.Earthquake\nD.Fire",
+        "answer": "A"
+    },
+    {
+        "id": "c0100071-afb2-4438-b74e-bd12609954b0",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/141.png",
+        "question": "Which disaster is responsible for the scene depicted in this image?\nA.Fire\nB.Earthquake\nC.Flood\nD.Landslide",
+        "answer": "C"
+    },
+    {
+        "id": "1f4b999f-048e-47b9-9050-0dd6bfcecd2b",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/50.png",
+        "question": "Can you identify the disaster that led to the situation in this image?\nA.Fire\nB.Earthquake\nC.Flood\nD.Landslide",
+        "answer": "B"
+    },
+    {
+        "id": "2822b938-c572-4f20-9721-23511fbc3d47",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/47.png",
+        "question": "What catastrophic event brought about the situation in this image?\nA.Fire\nB.Earthquake\nC.Landslide\nD.Flood",
+        "answer": "B"
+    },
+    {
+        "id": "067b07a0-e09e-4eba-b2a4-def0d4c4a40c",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/197.png",
+        "question": "What catastrophic event brought about the situation in this image?\nA.Landslide\nB.Flood\nC.Earthquake\nD.Fire",
+        "answer": "A"
+    },
+    {
+        "id": "070c8a1b-c1ed-4ba1-82de-3895034c7bbf",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/96.png",
+        "question": "Can you identify the disaster that led to the situation in this image?\nA.Earthquake\nB.Flood\nC.Fire\nD.Landslide",
+        "answer": "C"
+    },
+    {
+        "id": "9832c78c-d80d-4d8c-8942-24c677891458",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/120.png",
+        "question": "Can you identify the disaster that led to the situation in this image?\nA.Fire\nB.Landslide\nC.Flood\nD.Earthquake",
+        "answer": "C"
+    },
+    {
+        "id": "58af2fa0-6d7c-4024-a882-b9a70e2c2d28",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/178.png",
+        "question": "What catastrophic event brought about the situation in this image?\nA.Flood\nB.Landslide\nC.Fire\nD.Earthquake",
+        "answer": "B"
+    },
+    {
+        "id": "8f4485ed-ae58-4dfb-a0fc-2be9d2f17c76",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/115.png",
+        "question": "Which disaster resulted in the scenario depicted in this image?\nA.Fire\nB.Flood\nC.Landslide\nD.Earthquake",
+        "answer": "B"
+    },
+    {
+        "id": "7b6f007f-69b3-4204-90dd-39a369c28d85",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/160.png",
+        "question": "Which disaster is responsible for the scene depicted in this image?\nA.Fire\nB.Earthquake\nC.Flood\nD.Landslide",
+        "answer": "D"
+    },
+    {
+        "id": "fb4627a0-7a81-46cb-95d0-5d2c6d1bee6a",
+        "image_path": "CHOICE/png/resoning/commonsense_reasoning/disaster_discrimination/170.png",
+        "question": "Which disaster resulted in the scenario depicted in this image?\nA.Flood\nB.Earthquake\nC.Fire\nD.Landslide",
+        "answer": "D"
+    }
+]
