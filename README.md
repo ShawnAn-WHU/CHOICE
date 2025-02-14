@@ -1,5 +1,7 @@
 # CHOICE: Benchmarking The Remote Sensing Capabilities of Large Vision-Language Models
 
+Due to the capacity limitation of GitHub repositories (which is insufficient to accommodate our **6.07 GB** CHOICE benchmark), we have randomly selected 20 samples for each L-3 task, resulting in a total of 460 samples. These samples are stored in the CHOICE_subset folder, which is structured as [Data Structure](#-data-structure).
+
 ## ✨ Overview
 <p align="center">
    <img src="src/overview_results.png" width="100%"></a>
@@ -24,7 +26,7 @@ git clone ${github_repo_link} ${local_path_to_CHOICE}
 cd ${path_to_workdir}
 mkdir data
 
-ln -snf ${path_to_CHOICE_repo}/data/CHOICE ./data/CHOICE
+ln -snf ${path_to_CHOICE_repo}/CHOICE_subset ./data/CHOICE
 ```
 
 ## 📂 Benchmarks Comparison
@@ -81,5 +83,56 @@ Currently, general-domain VLMs, benefiting from extensive training corpora, exhi
 
 <p align="justify"> <b>Table</b>: Fine-grained evaluation results for Reasoning. Abbreviations adopted: TP for Time Property; PP for Physical Property; EA for Environmental Assessment; RA for Resource Assessment; DD for Disaster Discrimination; GD for Geospatial Determination; SI for Situation Inference. The best (second best) is in bold (underline).
 </p>
+
+<hr />
+
+## 📂 Data Structure
+
+<a id="-data-structure"></a>
+
+CHOICE_subset is organized according to the three-tier hierarchical dimension taxonomy, structured as follows:
+
+```bash
+CHOICE_subset
+├── png
+│   ├── perception
+│   │   ├── cross_instance_discerment
+│   │   │   ├── attribute_comparison
+│   │   │   ├── change_detection
+│   │   │   ├── referring_expression_segmentation
+│   │   │   │   ├── png
+│   │   │   │   └── mask
+│   │   │   └── spatial_relationship
+│   │   ├── image_level_comprehension
+│   │   │   ├── image_caption
+│   │   │   ├── image_modality
+│   │   │   ├── image_quality
+│   │   │   ├── map_recognition
+│   │   │   └── scene_classification
+│   │   └── single_instance_identification
+│   │       ├── attribute_recognition
+│   │       ├── hallucination_detection
+│   │       ├── landmark_recognition
+│   │       ├── object_counting
+│   │       ├── object_localization
+│   │       ├── object_presence
+│   │       └── visual_grounding
+│   └── reasoning
+│       ├── assessment_reasoning
+│       │   ├── environmental_assessment
+│       │   └── resource_assessment
+│       ├── attribute_reasoning
+│       │   ├── physical_property
+│       │   └── time_property
+│       └── commonsense_reasoning
+│           ├── disaster_discrimination
+│           ├── geospatial_determination
+│           └── situation_inference
+└── problems
+    ├── perception
+    │   └── ...  # Same as png/perception
+    └── reasoning
+        └── ...  # Same as png/reasoning
+```
 
 <hr />
