@@ -1,6 +1,11 @@
 # CHOICE: Benchmarking The Remote Sensing Capabilities of Large Vision-Language Models
 
-Due to the capacity limitation of GitHub repositories (which is insufficient to accommodate our **6.07 GB** CHOICE benchmark), we have randomly selected 20 samples for each L-3 task, resulting in a total of 460 samples. These samples are stored in the CHOICE_subset folder, which is structured as [Data Structure](#-data-structure).
+> ## For Reviewers
+> To comply with the anonymous submission requirements of the ACL conference, we have created this anonymous GitHub repository, allowing reviewers to access examples of our CHOICE benchmark.
+
+> However, due to the capacity limitation of GitHub repositories (which is insufficient to accommodate our **6.07 GB** CHOICE benchmark), we have randomly selected 20 samples for each L-3 task, resulting in a total of 460 samples. These samples are stored in the CHOICE_subset folder, which is structured as [Data Structure](#-data-structure).
+
+> We are committed to open-sourcing the entire benchmark and code immediately after the review process. Furthermore, we will regularly maintain and update CHOICE and this repository to foster a comprehensive remote sensing community.
 
 ## ✨ Overview
 <p align="center">
@@ -13,7 +18,7 @@ Due to the capacity limitation of GitHub repositories (which is insufficient to 
 
 ## 🏆 Observations
 
-- **General-domain VLMs outperform most RSVLMs in remote sensing tasks.** Despite being trained on domain-specific data, RSVLMs still lag behind general-domain VLMs overall in remote sensing scenarios.
+- **RSVLMs excel in tasks trained with specialized remote sensing knowledge, while showing no clear consistent superiority over general-domain VLMs.** The domain gap underlines the necessity of domain-specific data for optimal performance. However, the neglect of integration with general knowledge contributes to the underperformance of RSVLMs.
 - **Fine-grained perception and reasoning are key challenges for VLMs.** The perception of fine-grained objects and advanced reasoning tasks involving complex scenes, social attributes and specific remote sensing characteristics pose significant challenges for nearly all evaluated VLMs.
 - **Open-source VLMs can serve as viable alternatives to proprietary VLMs.** Cutting-edge VLMs like Qwen2-VL-70B and InternVL2-40B demonstrate competitive or even superior performance in specific tasks compared to GPT-4o.
 <hr />
