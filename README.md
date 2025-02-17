@@ -1,7 +1,7 @@
 # CHOICE: Benchmarking The Remote Sensing Capabilities of Large Vision-Language Models
 
 > ## For Reviewers
-> To comply with the anonymous submission requirements of the ACL conference, we have created this anonymous GitHub repository, allowing reviewers to access examples of our CHOICE benchmark.
+> To comply with the anonymous submission requirements, we have created this anonymous GitHub repository, allowing reviewers to access examples of our CHOICE benchmark.
 
 > However, due to the capacity limitation of GitHub repositories (which is insufficient to accommodate our **6.07 GB** CHOICE benchmark), we have randomly selected 20 samples for each L-3 task, resulting in a total of 460 samples. These samples are stored in the CHOICE_subset folder, which is structured as [Data Structure](#-data-structure).
 
