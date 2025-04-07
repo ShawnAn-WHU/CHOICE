@@ -1,11 +1,21 @@
 # CHOICE: Benchmarking The Remote Sensing Capabilities of Large Vision-Language Models
 
-> ## For Reviewers
-> To comply with the anonymous submission requirements, we have created this anonymous GitHub repository, allowing reviewers to access examples of our CHOICE benchmark.
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2411.18145)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/An-Xiao/CHOICE)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/anxiaowhu/choice)
 
-> However, due to the capacity limitation of GitHub repositories (which is insufficient to accommodate our **6.07 GB** CHOICE benchmark), we have randomly selected 20 samples for each L-3 task, resulting in a total of 460 samples. These samples are stored in the CHOICE_subset folder, which is structured as [Data Structure](#-data-structure).
+> Due to the capacity limitation of GitHub repositories (which is insufficient to accommodate our **6.07 GB** CHOICE benchmark), we have randomly selected 20 samples for each L-3 task, resulting in a total of 460 samples. These samples are stored in the CHOICE_subset folder, which is structured as [Data Structure](#-data-structure). **For the complete CHOICE benchmark, please refer to the link on [Hugging Face](https://huggingface.co/datasets/An-Xiao/CHOICE) or [Kaggle](https://www.kaggle.com/datasets/anxiaowhu/choice)**.
 
-> We are committed to open-sourcing the entire benchmark and code immediately after the review process. Furthermore, we will regularly maintain and update CHOICE and this repository to foster a comprehensive remote sensing community.
+> We will regularly maintain and update CHOICE and this repository to foster a comprehensive remote sensing community.
+
+---
+
+## 📢 Latest Updates
+- **Apr-07-2025**: We release the complete CHOICE benchmark in the [Hugging Face Dataset](https://huggingface.co/datasets/An-Xiao/CHOICE) and [Kaggle](https://www.kaggle.com/datasets/anxiaowhu/choice). 🔥🔥
+- **Apr-07-2025**: We update the preprint in the [Arxiv](https://arxiv.org/abs/2411.18145). 🔥🔥
+- **Nov-27-2024**: We release the preprint in the Arxiv.
+
+---
 
 ## ✨ Overview
 <p align="center">
@@ -141,3 +151,15 @@ CHOICE_subset
 ```
 
 <hr />
+
+# 📜 Acknowledgements
+
+We gratefully acknowledge the following data sources and platforms that made this project possible:
+
+- **Google Earth** for high-resolution satellite imagery.  
+- **Google Earth Engine (GEE)** for planetary-scale geospatial data access and processing tools.
+- **Sentinel** satellite data, provided by the European Space Agency (ESA) via the Copernicus Open Access Hub.  
+- **Landsat** satellite data, provided by the U.S. Geological Survey (USGS).
+- **OpenStreetMap (OSM)** data, contributed by a global community of volunteers and accessed through various mapping services and APIs.
+
+> Use of the Google Earth images must respect the [Google Earth terms of use](https://about.google/brand-resource-center/products-and-services/geo-guidelines/#google-earth). All images and their associated annotations in CHOICE can be used for academic purpose only, any commercial use is prohibited.
