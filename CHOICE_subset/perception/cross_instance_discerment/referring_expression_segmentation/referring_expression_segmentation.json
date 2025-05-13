@@ -1,0 +1,122 @@
+[
+    {
+        "id": "0f28efde-a825-4c5e-96f1-740a90d9d48c",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/10.png",
+        "question": "Give me the mask of the airplane on the left.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/10.png"
+    },
+    {
+        "id": "b1414fa8-d069-48c7-9bc4-200556492605",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/54.png",
+        "question": "Give me the mask of all bridges in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/54.png"
+    },
+    {
+        "id": "cf5470da-1fa5-40a0-aef1-4b76c6e568b1",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/59.png",
+        "question": "Give me the mask of all bridges in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/59.png"
+    },
+    {
+        "id": "e768d43d-e073-49d8-bbae-a5dd77981479",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/61.png",
+        "question": "Give me the mask of the lower two bridges in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/61.png"
+    },
+    {
+        "id": "c9828c5f-a601-40d0-bad7-07ab1f39e417",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/80.png",
+        "question": "Give me the mask of the bridge in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/80.png"
+    },
+    {
+        "id": "40e33331-25dc-45fc-9eb7-98115ce70559",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/81.png",
+        "question": "Give me the mask of the two ships in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/81.png"
+    },
+    {
+        "id": "c7621d95-c8c1-44f9-9510-3bb0e737bea7",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/105.png",
+        "question": "Give me the mask of the bridge at the bottom of this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/105.png"
+    },
+    {
+        "id": "a6a6c723-4479-415e-a46c-e34f1eaeb4ab",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/146.png",
+        "question": "Give me the mask of the basketball court in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/146.png"
+    },
+    {
+        "id": "d536edee-cbb7-479d-989f-3a121d9535c9",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/199.png",
+        "question": "Give me the mask of the three ships in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/199.png"
+    },
+    {
+        "id": "7808bd89-562c-4962-9efb-6abffd79fa61",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/200.png",
+        "question": "Give me the mask of all ships in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/200.png"
+    },
+    {
+        "id": "63de1f33-3ea3-43bd-92ba-2225c20ec80e",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/211.png",
+        "question": "Give me the mask of the left two ships in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/211.png"
+    },
+    {
+        "id": "271f3296-9ddc-4976-ae74-def8835d87e0",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/249.png",
+        "question": "Give me the mask of the soccer ball fields in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/249.png"
+    },
+    {
+        "id": "781e24a9-b784-46e6-a58d-13c288e5535f",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/290.png",
+        "question": "Give me the mask of the soccer ball field in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/290.png"
+    },
+    {
+        "id": "4c359803-1784-45ff-8997-3d94868ca43a",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/308.png",
+        "question": "Give me the mask of the tennis courts in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/308.png"
+    },
+    {
+        "id": "153e062f-ab64-473a-aa22-75ac0c819466",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/328.png",
+        "question": "Give me the mask of the ground track field in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/328.png"
+    },
+    {
+        "id": "9e8f488e-096d-4188-abc7-a08e831f3261",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/365.png",
+        "question": "Give me the mask of the swimming pool in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/365.png"
+    },
+    {
+        "id": "82fe419f-9243-42b9-a413-2c07f0f9146a",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/391.png",
+        "question": "Give me the mask of the ground track field in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/391.png"
+    },
+    {
+        "id": "f3e37922-4fa6-49e4-a10c-f359bd3d9ac1",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/423.png",
+        "question": "Give me the mask of the storage tanks in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/423.png"
+    },
+    {
+        "id": "ae956581-f207-40ca-816c-6cf5b0cd5ce4",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/437.png",
+        "question": "Give me the mask of the storage tanks in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/437.png"
+    },
+    {
+        "id": "0b0a0464-946e-430e-8618-a524e1310bb1",
+        "image_path": "perception/cross_instance_discerment/referring_expression_segmentation/images/466.png",
+        "question": "Give me the mask of the storage tanks in this image.",
+        "mask_path": "perception/cross_instance_discerment/referring_expression_segmentation/masks/466.png"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "e8fd1785-d0f8-41f3-8e5f-c04143459efd",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/18.png",
+        "question": "What differences can you observe from the left scene to the right scenes?\nA.A sprawling industrial complex has taken over the desolate terrain, filling the majority of the landscape.\nB.A dense residential area has been constructed on the wasteland, occupying most of the scene.\nC.A lush park has been developed on the former empty lot, covering a significant portion of the image.\nD.A vibrant commercial district has emerged from the barren landscape, dominating the entire view.",
+        "answer": "B"
+    },
+    {
+        "id": "ffe67462-777a-4d44-8399-6449f78a04fc",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/44.png",
+        "question": "What changes have taken place from the left scene to the right one?\nA.A recently constructed pathway features a bike lane, and numerous bicycles are situated along its side.\nB.An additional expressway with a toll booth has been established, and a variety of trucks are lined up at the entrance.\nC.A new road with a parking lot has been built, and several vehicles are parked inside.\nD.A freshly paved street includes a green area, and multiple bicycles are arranged in the designated spots.",
+        "answer": "C"
+    },
+    {
+        "id": "28b0699f-723b-4817-81bb-f193d9dfc3cd",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/63.png",
+        "question": "What changes have taken place from the left scene to the right one?\nA.The grassland to the north of the building has been transformed into a playground.\nB.The bareland around the building has been replaced by a parking lot.\nC.The forested land behind the building has been turned into a storage facility.\nD.The concrete area adjacent to the building has been converted into a garden.",
+        "answer": "B"
+    },
+    {
+        "id": "1ebc5638-f369-421d-96db-c0fe039ddde6",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/64.png",
+        "question": "How has the scene on the right changed compared to the scene on the left?\nA.The structure has been demolished, and a grassy field now fills the entire area.\nB.The office complex has been cleared, leaving an open space designed for vehicles.\nC.The warehouse has been taken down, and now a landscaped garden covers the whole site.\nD.The building has been removed and a parking lot occupies the whole scene.",
+        "answer": "D"
+    },
+    {
+        "id": "62b01a74-dab1-4a44-881b-935f52e4f06d",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/101.png",
+        "question": "What changes have taken place from the left scene to the right one?\nA.Some new buildings are built on the bareland, some roads are across them in the middle.\nB.A few structures are erected on the vacant land, while several pathways intersect them at various angles. \nC.Newly developed facilities appear on the untamed landscape, with various streets cutting through them in distinct patterns.\nD.Several new constructions have emerged on the open terrain, and some highways run alongside them in different locations.",
+        "answer": "A"
+    },
+    {
+        "id": "b1d14f51-3d00-4c10-a4eb-1d5bf01b8470",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/106.png",
+        "question": "How has the scene on the right changed compared to the scene on the left?\nA.A new parking lot has been built in the upper left corner, three new roads have been built in the upper right corner, and the green space in the middle has completely replaced the road.\nB.A new shopping center has been established in the lower right area, two new pathways have been created in the lower left area, and the park in the center has entirely taken the place of the buildings.\nC.A fresh playground has been constructed in the top right section, four new highways have appeared in the bottom left section, and the water feature in the central area has fully overtaken the previous parking space.\nD.A modern residential complex has been developed in the top center location, five new lanes have been added in the bottom right space, and the wooded area in the eastern part has completely transformed the old marketplace.",
+        "answer": "A"
+    },
+    {
+        "id": "2077b614-f949-41bf-9d75-d6012f1af96f",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/107.png",
+        "question": "What differences can you observe from the left scene to the right scenes?\nA.The vacant lot has turned into residential complexes, car parks, and recreational areas.\nB.The open terrain is now occupied by skyscrapers, garages, and green spaces.\nC.The empty field has been transformed into shopping centers, driveways, and a playground.\nD.The bareland is replaced by buildings ,parking lots, and a park.",
+        "answer": "D"
+    },
+    {
+        "id": "46bd42d7-b472-42a1-a85e-50a4d3685973",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/115.png",
+        "question": "What changes have occurred from the left scene to the right scene?\nA.The vacant area in the upper right corner is transformed into a bustling marketplace, while nearby pathways are replaced by vibrant flower gardens.\nB.The bareland in the left and lower corner are replaced by solar panels, some roads near them are replacede by green space.\nC.The empty lot in the top left corner is now covered with wind turbines, and the roads around them have been substituted with wildflower meadows.\nD.The dry terrain in the center has been converted into a residential neighborhood, with adjacent streets now featuring playgrounds and parks.",
+        "answer": "B"
+    },
+    {
+        "id": "f0d067c5-0d8a-4f09-9345-d40eab40e879",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/120.png",
+        "question": "Can you identify the changes that occurred from the left side to the right side of the scene?\nA.The park on the left side has been transformed into a shopping center.\nB.The garden on the right side has been replaced by a new road.\nC.The parking lot on the upper side is replaced by some buildings.\nD.The playground on the lower side is covered with trees.",
+        "answer": "C"
+    },
+    {
+        "id": "0a9cbfce-f224-429f-8030-237f89f34ce1",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/122.png",
+        "question": "What differences can you observe from the left scene to the right scenes?\nA.The rundown structures and wasteland are transformed into modern skyscrapers.\nB.The ancient architecture and empty fields are now occupied by state-of-the-art facilities.\nC.The dilapidated houses and vacant lots have been substituted with contemporary apartments.\nD.The old buildings and bareland are replaced by new buildings.",
+        "answer": "D"
+    },
+    {
+        "id": "5d10567f-e839-4a1d-81dd-df1a5dbb52da",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/127.png",
+        "question": "What changes have taken place from the left scene to the right one?\nA.The woods on the lower side are replaced by some orderly buildings.\nB.The forest on the right side is replaced by a series of neatly arranged houses.\nC.The greenery at the left side is replaced by a cluster of colorful shops.\nD.The trees in the upper section are replaced by several modern skyscrapers.",
+        "answer": "A"
+    },
+    {
+        "id": "bf44bed8-cf53-4507-b3a4-47978948bb7c",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/131.png",
+        "question": "What differences can you observe from the left scene to the right scenes?\nA.Some winding roads are built on the elderly green space.\nB.Some narrow pathways are constructed in the lush red park.\nC.Some winding streets are established within the tranquil blue area.\nD.Several curved trails are laid out across the vibrant yellow garden.",
+        "answer": "A"
+    },
+    {
+        "id": "0c009c72-e184-4fd7-8c0f-98e88c4969d8",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/137.png",
+        "question": "What changes have taken place from the left scene to the right one?\nA.An additional facility is located on the empty terrain in the northern area.\nB.A large structure has been constructed on the vacant lot to the left.\nC.A new building is built on the bareland on the right side.\nD.A modern establishment has emerged on the open space to the east.",
+        "answer": "C"
+    },
+    {
+        "id": "995a93ac-0732-4bde-b9b5-5a19b7061d67",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/140.png",
+        "question": "What differences can you observe from the left scene to the right scenes?\nA.The parking zone in the west has increased in size to take over all the vacant ground.\nB.The parking lot in the middle is expanded to cover all the bareland.\nC.The car park on the east side has been enlarged to include all the undeveloped land.\nD.The parking area to the north has been extended to encompass all the open space.",
+        "answer": "B"
+    },
+    {
+        "id": "d0f3ffa2-982d-4a2b-92f2-c96cf452e0af",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/163.png",
+        "question": "What changes have occurred from the left scene to the right scene?\nA.The stripped terrain above is substituted with a row of colorful houses, and the bottom area is switched to a sports field.\nB.The bareland on the upper side is replaced by two buildings, and on the lower side is replaced by a parking lot.\nC.The vacant land in the upper part is now filled with vibrant greenery, and the lower section is reimagined as a playground.\nD.The open space at the top is transformed into a lush park, while the area below is changed to a bustling marketplace.",
+        "answer": "B"
+    },
+    {
+        "id": "8f290d90-6c73-45a7-b275-946dd62f1076",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/174.png",
+        "question": "Can you identify the changes that occurred from the left side to the right side of the scene?\nA.A new band of woods appears on the right side.\nB.A vibrant area of greenery is visible in the foreground.\nC.A series of trees can be seen on the upper edge of the image.\nD.A dense patch of forest emerges on the left side.",
+        "answer": "A"
+    },
+    {
+        "id": "f588bd65-dae2-4d80-8d59-787f77cbff16",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/178.png",
+        "question": "What changes have occurred from the left scene to the right scene?\nA.Some buildings are built on the bareland on the lower side.\nB.Several structures are constructed on the grassy area to the right.\nC.Numerous skyscrapers rise from the sandy landscape on the left side.\nD.A few houses are situated on the rocky terrain in the upper section.",
+        "answer": "A"
+    },
+    {
+        "id": "c4f27452-3048-4e66-b393-c208edb2da3c",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/193.png",
+        "question": "What changes have occurred from the left scene to the right scene?\nA.Several houses are located on the grassland in the middle and upper area.\nB.A few towers are situated on the sandbox in the right and lower quadrant.\nC.Some buildings are constructed on the bareland in the left and lower corner.\nD.Some structures are placed on the gravel in the upper and right section.",
+        "answer": "C"
+    },
+    {
+        "id": "277ef040-accc-45c0-aa17-f0342f006b6c",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/195.png",
+        "question": "What changes have taken place from the left scene to the right one?\nA.Three tall structures are situated on the grassy field, with a curved path on the right.\nB.Three large buildings are built on the bareland, with a straight road on the left.\nC.Three small houses are placed on the sandy terrain, with a winding street at the top.\nD.Three modern towers are constructed on the rocky surface, with a diagonal avenue in the foreground.",
+        "answer": "B"
+    },
+    {
+        "id": "a51b772f-f2ed-405f-a95d-b93995b8a1d6",
+        "image_path": "perception/cross_instance_discerment/change_detection/images/199.png",
+        "question": "How has the scene on the right changed compared to the scene on the left?\nA.Four buildings are built orderly on the bareland on the upper side, a parking lot is built in the left and upper corner.\nB.In the lower right section, four structures are arranged neatly on the grassy field, while a playground is located in the bottom left corner.\nC.Three skyscrapers rise prominently on the rocky hillside to the east, while a bus station occupies the lower and right part of the scene.\nD.On the right side of the image, five houses are situated chaotically on the sandy terrain, and a swimming pool is found in the upper middle area.",
+        "answer": "A"
+    }
+]

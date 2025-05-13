@@ -1,0 +1,122 @@
+[
+    {
+        "id": "6ae0425c-c13d-47a6-93b3-5f773812501c",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/1.png",
+        "question": "Are the two vehicles in this image the same color?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "A"
+    },
+    {
+        "id": "b529ff55-fde8-4a44-94a6-7ebbd0adb6d9",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/45.png",
+        "question": "Are both vehicles in this image the same color?\nA.No\nB.Yes\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "fd30530c-c468-433e-9810-187f9a4293d9",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/46.png",
+        "question": "Do the two vehicles in this image share the same color?\nA.Yes\nB.No\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "0e0d6765-cec8-4f41-b710-327f10af03eb",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/65.png",
+        "question": "Are the two vehicles in this image the same color?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "B"
+    },
+    {
+        "id": "57c1ff3d-9100-4097-94b6-d477649976e1",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/67.png",
+        "question": "Do the two vehicles in this image share the same color?\nA.can't judge\nB.Yes\nC.No",
+        "answer": "B"
+    },
+    {
+        "id": "d89564a9-a515-4914-b5f0-6ec5b9825e69",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/69.png",
+        "question": "Is the color of the two vehicles in this image the same?\nA.No\nB.Yes\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "caad10f6-fa0e-4b0a-9b98-cb3a2134b8d5",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/72.png",
+        "question": "Is the color of the two vehicles in this image the same?\nA.can't judge\nB.Yes\nC.No",
+        "answer": "B"
+    },
+    {
+        "id": "71deab49-f653-467b-a17a-d83b4a797703",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/116.png",
+        "question": "Are both vehicles in this image the same color?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "B"
+    },
+    {
+        "id": "c3cb8a31-b53d-4552-98cd-067654613034",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/139.png",
+        "question": "Do the two vehicles in this image share the same color?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "B"
+    },
+    {
+        "id": "28bdba28-641e-4a74-b71a-334ca7e51479",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/156.png",
+        "question": "Do the two vehicles in this image share the same color?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "3935b7e3-caf2-4a43-8a4f-71311c70f3db",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/291.png",
+        "question": "Are the two vehicles in this image identical in color?\nA.Yes\nB.can't judge\nC.No",
+        "answer": "C"
+    },
+    {
+        "id": "5abc92a3-ada6-47f9-98ac-20396927e30c",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/307.png",
+        "question": "Do the two vehicles in this image share the same color?\nA.No\nB.Yes\nC.can't judge",
+        "answer": "A"
+    },
+    {
+        "id": "81f37a45-e462-4ffd-a5c4-c912c23d7384",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/315.png",
+        "question": "Is the color of the two vehicles in this image the same?\nA.can't judge\nB.No\nC.Yes",
+        "answer": "C"
+    },
+    {
+        "id": "96db6a12-acd8-4b7f-b8d9-b2254ae99ef9",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/318.png",
+        "question": "Are both vehicles in this image the same color?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "A"
+    },
+    {
+        "id": "01c446c1-fc26-4bcb-8aa7-f0a104dbb17e",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/319.png",
+        "question": "Do the two vehicles in this image share the same color?\nA.Yes\nB.No\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "a81c274b-4e2c-4377-bffb-94a61554043d",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/322.png",
+        "question": "Are both vehicles in this image the same color?\nA.No\nB.Yes\nC.can't judge",
+        "answer": "B"
+    },
+    {
+        "id": "ef304a8d-2cd0-4ea9-93e2-d9b2d44cb742",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/325.png",
+        "question": "Are both vehicles in this image the same color?\nA.No\nB.can't judge\nC.Yes",
+        "answer": "A"
+    },
+    {
+        "id": "31959f6a-0529-4814-8718-0eb051656d75",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/342.png",
+        "question": "Is the color of the two vehicles in this image the same?\nA.can't judge\nB.Yes\nC.No",
+        "answer": "C"
+    },
+    {
+        "id": "3c88607a-c976-4fab-819f-d3f47fc3ec3c",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/348.png",
+        "question": "Are the two vehicles in this image identical in color?\nA.Yes\nB.can't judge\nC.No",
+        "answer": "C"
+    },
+    {
+        "id": "9bcb70b6-8f9a-4188-9037-3def6c31a1e7",
+        "image_path": "perception/cross_instance_discerment/attribute_comparison/images/349.png",
+        "question": "Are the two vehicles in this image identical in color?\nA.Yes\nB.can't judge\nC.No",
+        "answer": "C"
+    }
+]

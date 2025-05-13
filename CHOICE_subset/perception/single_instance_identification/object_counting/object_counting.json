@@ -1,0 +1,122 @@
+[
+    {
+        "id": "28bad05e-bac0-4f39-836c-068c010debd3",
+        "image_path": "perception/single_instance_identification/object_counting/images/3.png",
+        "question": "How many tennis court are visible in the image?\nA.3\nB.5\nC.4\nD.6",
+        "answer": "C"
+    },
+    {
+        "id": "0322ed3b-2f51-4b35-b1e3-99b84d912f02",
+        "image_path": "perception/single_instance_identification/object_counting/images/18.png",
+        "question": "What is the total number of harbor in this image?\nA.3\nB.1\nC.2\nD.4",
+        "answer": "C"
+    },
+    {
+        "id": "43c793ed-29dc-4a50-a64b-263103e180dc",
+        "image_path": "perception/single_instance_identification/object_counting/images/58.png",
+        "question": "How many airplane are visible in the image?\nA.8\nB.10\nC.9\nD.7",
+        "answer": "A"
+    },
+    {
+        "id": "d321a495-a74b-4410-a7b3-24b60a41f28b",
+        "image_path": "perception/single_instance_identification/object_counting/images/84.png",
+        "question": "What is the total number of storage tank in this image?\nA.5\nB.4\nC.6\nD.3",
+        "answer": "B"
+    },
+    {
+        "id": "4bb428d3-bb07-4568-8c49-4191e4aea9f9",
+        "image_path": "perception/single_instance_identification/object_counting/images/88.png",
+        "question": "What is the total number of soccer ball field in this image?\nA.5\nB.3\nC.2\nD.4",
+        "answer": "B"
+    },
+    {
+        "id": "c137b735-354e-4231-a5f9-19d8dbae5347",
+        "image_path": "perception/single_instance_identification/object_counting/images/98.png",
+        "question": "How many storage tank can be seen in this image?\nA.19\nB.27\nC.20\nD.17",
+        "answer": "B"
+    },
+    {
+        "id": "8cbd4df6-903e-42ce-9bd6-ec132779d49b",
+        "image_path": "perception/single_instance_identification/object_counting/images/119.png",
+        "question": "How many harbor are there in this image?\nA.2\nB.4\nC.3\nD.5",
+        "answer": "B"
+    },
+    {
+        "id": "fdda0ece-1cca-4ffa-a27d-5142219ab848",
+        "image_path": "perception/single_instance_identification/object_counting/images/135.png",
+        "question": "What is the total number of airplane in this image?\nA.2\nB.1\nC.4\nD.3",
+        "answer": "A"
+    },
+    {
+        "id": "00240a49-e240-49e9-947a-d3c59cc24f0a",
+        "image_path": "perception/single_instance_identification/object_counting/images/195.png",
+        "question": "How many airplane are visible in the image?\nA.1\nB.2\nC.4\nD.3",
+        "answer": "B"
+    },
+    {
+        "id": "0278edaa-6563-4331-a9ab-5aa0e677f6bd",
+        "image_path": "perception/single_instance_identification/object_counting/images/196.png",
+        "question": "Count the number of bridge present in this image.\nA.2\nB.5\nC.3\nD.4",
+        "answer": "C"
+    },
+    {
+        "id": "2236c0ab-a864-4d7d-849b-775005403a1a",
+        "image_path": "perception/single_instance_identification/object_counting/images/201.png",
+        "question": "Count the number of soccer ball field present in this image.\nA.1\nB.3\nC.0\nD.2",
+        "answer": "A"
+    },
+    {
+        "id": "9e65f340-3c66-430c-b0df-ffb58f7bad8e",
+        "image_path": "perception/single_instance_identification/object_counting/images/231.png",
+        "question": "How many roundabout are there in this image?\nA.4\nB.2\nC.1\nD.3",
+        "answer": "B"
+    },
+    {
+        "id": "fd2de3ff-4cb8-4328-afd7-ded175009d70",
+        "image_path": "perception/single_instance_identification/object_counting/images/270.png",
+        "question": "Count the number of airplane present in this image.\nA.9\nB.10\nC.8\nD.7",
+        "answer": "C"
+    },
+    {
+        "id": "516d651b-cfd5-48c4-b971-06e0790f0356",
+        "image_path": "perception/single_instance_identification/object_counting/images/303.png",
+        "question": "How many ground track field are visible in the image?\nA.0\nB.3\nC.2\nD.1",
+        "answer": "D"
+    },
+    {
+        "id": "60f756ff-7bde-477c-8341-cddea739a190",
+        "image_path": "perception/single_instance_identification/object_counting/images/434.png",
+        "question": "How many roundabout can be seen in this image?\nA.2\nB.3\nC.1\nD.4",
+        "answer": "A"
+    },
+    {
+        "id": "a7cf1866-a5bd-4ce9-8c3b-168953fc4d00",
+        "image_path": "perception/single_instance_identification/object_counting/images/451.png",
+        "question": "How many ship can be seen in this image?\nA.4\nB.2\nC.5\nD.3",
+        "answer": "D"
+    },
+    {
+        "id": "18eef490-7898-4857-b708-750b1ec47745",
+        "image_path": "perception/single_instance_identification/object_counting/images/456.png",
+        "question": "How many storage tank are there in this image?\nA.3\nB.4\nC.2\nD.1",
+        "answer": "C"
+    },
+    {
+        "id": "4bf274dd-a2ca-48a1-981e-626689a34f88",
+        "image_path": "perception/single_instance_identification/object_counting/images/467.png",
+        "question": "How many bridge are there in this image?\nA.1\nB.3\nC.4\nD.2",
+        "answer": "D"
+    },
+    {
+        "id": "a4db2bc6-f048-40bb-bc65-aaed11589bcb",
+        "image_path": "perception/single_instance_identification/object_counting/images/482.png",
+        "question": "How many storage tank are there in this image?\nA.3\nB.4\nC.5\nD.6",
+        "answer": "B"
+    },
+    {
+        "id": "eee63293-25c3-49c2-a20f-6c6475271814",
+        "image_path": "perception/single_instance_identification/object_counting/images/486.png",
+        "question": "How many ground track field can be seen in this image?\nA.1\nB.0\nC.3\nD.2",
+        "answer": "A"
+    }
+]

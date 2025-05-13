@@ -1,0 +1,122 @@
+[
+    {
+        "id": "00f56a1f-109c-44fe-b99c-bed9c91ce938",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/2.png",
+        "question": "What landmark is depicted in the image provided?\nA.Oriental Pearl Tower\nB.Berlin Cathedral\nC.Mont St. Michel\nD.Eiffel Tower",
+        "answer": "D"
+    },
+    {
+        "id": "b117c9e2-1a0b-4b8a-8f78-8f1e41a8b9ec",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/17.png",
+        "question": "Based on the image you have been given, which landmark is featured?\nA.Burj Al Arab Hotel\nB.Burj Khalifa\nC.Arc de Triomphe\nD.Washington Monument",
+        "answer": "C"
+    },
+    {
+        "id": "7d6f97a3-0eca-452e-9c81-d6c882d3c161",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/18.png",
+        "question": "Looking at the given image, which landmark can you identify?\nA.Sydney Opera House\nB.Berlin Wall\nC.Terracotta Warriors\nD.Cloud Gate",
+        "answer": "B"
+    },
+    {
+        "id": "1b663d3f-1c2a-4218-aa4f-74e19d6f5b12",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/19.png",
+        "question": "Based on the image you have been given, which landmark is featured?\nA.Burj Al Arab Hotel\nB.Stonehenge\nC.Newgrange\nD.St. Basil's Cathedral",
+        "answer": "B"
+    },
+    {
+        "id": "e9f5d6ea-f3bd-4ec4-b2f2-ef53c29eaf28",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/26.png",
+        "question": "What landmark is depicted in the image provided?\nA.Versailles\nB.Capitol Hill\nC.Helsinki Cathedral\nD.Ponte Vecchio",
+        "answer": "B"
+    },
+    {
+        "id": "58dfbdfd-2176-4b4d-997b-a890155b7715",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/28.png",
+        "question": "From the provided image, which landmark is shown?\nA.Burj Al Arab Hotel\nB.Willis Tower (Sears Tower)\nC.Tsarskoye Selo\nD.Eiffel Tower",
+        "answer": "A"
+    },
+    {
+        "id": "27919ec7-c88b-4781-916c-cebe4b0fdf3e",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/34.png",
+        "question": "Based on the image provided, which landmark is depicted?\nA.Notre Dame\nB.Trevi Fountain\nC.Louvre Museum\nD.Washington Monument",
+        "answer": "C"
+    },
+    {
+        "id": "0a99d13f-c22f-4e8c-b083-e9729e8e23e6",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/39.png",
+        "question": "What landmark is depicted in the image provided?\nA.Machu Picchu\nB.Windsor Castle\nC.Burj Al Arab Hotel\nD.St. Peter's Basilica",
+        "answer": "A"
+    },
+    {
+        "id": "90e54cb3-1dab-4767-8800-015df86869f5",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/52.png",
+        "question": "From the provided image, which landmark is shown?\nA.Bran Castle\nB.Central Park\nC.Grand Canyon\nD.Tower of London",
+        "answer": "B"
+    },
+    {
+        "id": "779a2a90-d634-4a0b-9910-dcfd7cc49842",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/53.png",
+        "question": "What landmark is depicted in the image provided?\nA.Rialto Bridge\nB.Washington Monument\nC.Machu Picchu\nD.Brandenburg Gate",
+        "answer": "A"
+    },
+    {
+        "id": "a9611e87-2400-4e8d-b1d6-07607f246ca2",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/57.png",
+        "question": "Looking at the given image, which landmark can you identify?\nA.Statue of Liberty\nB.Gateway Arch\nC.Christ the Redeemer\nD.Alcatraz",
+        "answer": "D"
+    },
+    {
+        "id": "ccd3b889-9ce4-483e-861f-73b64b8e2129",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/59.png",
+        "question": "Looking at the given image, which landmark can you identify?\nA.Louvre Museum\nB.Oxford University\nC.Washington Monument\nD.Guggenheim Museum",
+        "answer": "C"
+    },
+    {
+        "id": "f2a0e9f5-4c84-483a-a09e-1d4119a2ed91",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/66.png",
+        "question": "From the provided image, which landmark is shown?\nA.Louvre Museum\nB.Alcatraz\nC.Cloud Gate\nD.Luxor Temple",
+        "answer": "C"
+    },
+    {
+        "id": "c2564225-b614-4cd2-86d0-a20302a8146b",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/73.png",
+        "question": "What landmark is depicted in the image provided?\nA.Uluru - Ayers Rock\nB.Ponte Vecchio\nC.Berlin Cathedral\nD.Blue Mosque",
+        "answer": "B"
+    },
+    {
+        "id": "ccac4a39-fcee-4e16-99d3-8cba05e86c55",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/77.png",
+        "question": "Looking at the given image, which landmark can you identify?\nA.Bridge of Sighs\nB.Alhambra\nC.Madrid Palace\nD.Bran Castle",
+        "answer": "A"
+    },
+    {
+        "id": "9c8eeefc-dc34-4e64-a8ed-060a801496fc",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/81.png",
+        "question": "Based on the image you have been given, which landmark is featured?\nA.Central Park\nB.Tokyo Tower\nC.Pont Du Gard\nD.Helsinki Cathedral",
+        "answer": "D"
+    },
+    {
+        "id": "58cb1ab8-65eb-44c9-a95a-599695e7eec6",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/83.png",
+        "question": "Based on the image you have been given, which landmark is featured?\nA.Brighton Pier\nB.Pyramids of Giza\nC.Pentagon\nD.Statue of Liberty",
+        "answer": "A"
+    },
+    {
+        "id": "de4e1f52-2da1-4446-bc42-77f91e606131",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/94.png",
+        "question": "What landmark is depicted in the image provided?\nA.British Museum\nB.St. Basil's Cathedral\nC.Ellis Island Immigration Museum\nD.Tivoli Gardens",
+        "answer": "C"
+    },
+    {
+        "id": "d27a25c7-cf46-4ba4-8988-b5394bd80654",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/98.png",
+        "question": "What landmark is depicted in the image provided?\nA.Machu Picchu\nB.The Gherkin\nC.Blue Mosque\nD.Christ the Redeemer",
+        "answer": "C"
+    },
+    {
+        "id": "3a8060a6-0efa-4d0f-b6a6-758872a2acb0",
+        "image_path": "perception/single_instance_identification/landmark_recognition/images/99.png",
+        "question": "What landmark is depicted in the image provided?\nA.Grand Canyon\nB.St. Peter's Basilica\nC.Piccadilly Circus\nD.Buckingham Palace",
+        "answer": "C"
+    }
+]

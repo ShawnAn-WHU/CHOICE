@@ -1,0 +1,122 @@
+[
+    {
+        "id": "f52fce96-e6b7-42ca-a22e-d08ad27999d9",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/15.png",
+        "question": "Can you identify the city shown on this map?\nA.Austin, United States\nB.Oslo, Norway\nC.Shenzhen, China\nD.Fukuoka, Japan",
+        "answer": "C"
+    },
+    {
+        "id": "9e873cca-4de7-4b2f-ab5c-216411b38000",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/16.png",
+        "question": "Based on the map, which city is being depicted?\nA.Tokyo, Japan\nB.Nairobi, kenya\nC.Suzhou, China\nD.Buenos Aires, Argentina",
+        "answer": "C"
+    },
+    {
+        "id": "66a80a65-613d-4624-b8d0-fd4b8e704221",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/23.png",
+        "question": "What city does the outline on this map correspond to?\nA.Berlin, Germany\nB.Suzhou, China\nC.Fukuoka, Japan\nD.Santiago, Chile",
+        "answer": "C"
+    },
+    {
+        "id": "4f33bcaf-1abd-4ad5-a7bb-200a4e99e6ed",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/45.png",
+        "question": "What is the name of the city outlined in this map?\nA.Daegu, South Korea\nB.Seoul, South Korea\nC.Nicosia, Cyprus\nD.Edinburgh, United Kingdom",
+        "answer": "D"
+    },
+    {
+        "id": "f76c468c-8f26-44a0-88e6-62ec6cee0a25",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/49.png",
+        "question": "Based on the map, which city is being depicted?\nA.Istanbul, Turkey\nB.Nicosia, Cyprus\nC.Philadelphia, United States\nD.New York, United States",
+        "answer": "C"
+    },
+    {
+        "id": "1763774e-d3ae-4fb3-bcdd-b4d1911112cb",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/65.png",
+        "question": "Can you identify the country or region shown on this map?\nA.Mali\nB.Benin\nC.United Arab Emirates\nD.Bangladesh",
+        "answer": "B"
+    },
+    {
+        "id": "f018285f-bee3-44ed-a81d-38465a763d01",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/66.png",
+        "question": "What is the name of the country or region outlined in this map?\nA.Guinea Bissau\nB.Pakistan\nC.Bolivia\nD.Slovenia",
+        "answer": "C"
+    },
+    {
+        "id": "81fcad87-9018-4132-9558-68b5f985f6ab",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/85.png",
+        "question": "From the map provided, what is the name of the country or region?\nA.Egypt\nB.Congo\nC.Oman\nD.Vietnam",
+        "answer": "A"
+    },
+    {
+        "id": "b7d62c96-a783-42ff-b0cc-ced52036b253",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/93.png",
+        "question": "What is the name of the country or region outlined in this map?\nA.Georgia\nB.Benin\nC.Turkey\nD.Slovenia",
+        "answer": "A"
+    },
+    {
+        "id": "20e3a8de-34f5-4c01-88d1-e6f2dc5a3b9c",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/96.png",
+        "question": "Can you identify the country or region shown on this map?\nA.Guinea Bissau\nB.Denmark\nC.Bulgaria\nD.Lesotho",
+        "answer": "A"
+    },
+    {
+        "id": "8009f486-dba3-45f4-95fc-e89f96310524",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/102.png",
+        "question": "What is the name of the country or region outlined in this map?\nA.Sweden\nB.Oman\nC.Ireland\nD.Belarus",
+        "answer": "C"
+    },
+    {
+        "id": "9bdf5312-a17b-4527-b05b-22980f42e446",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/104.png",
+        "question": "What country or region does the outline on this map correspond to?\nA.Japan\nB.Kuwait\nC.Costa Rica\nD.Benin",
+        "answer": "A"
+    },
+    {
+        "id": "ea193737-f89f-4158-baf0-63f4d35a9e32",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/108.png",
+        "question": "Based on the map, which country or region is being depicted?\nA.Kyrgyzstan\nB.Botswana\nC.Benin\nD.Namibia",
+        "answer": "A"
+    },
+    {
+        "id": "1ade1749-ce3d-4fb2-ae13-f4092ffc12b2",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/113.png",
+        "question": "What country or region does the outline on this map correspond to?\nA.Bosnia and Herzegovina\nB.Venezuela\nC.Albania\nD.Lithuania",
+        "answer": "D"
+    },
+    {
+        "id": "7e6a46f2-26b5-4ba0-a5f6-5968c52348d5",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/116.png",
+        "question": "Based on the map, which country or region is being depicted?\nA.Malaysia\nB.Turkey\nC.Guinea Bissau\nD.Oman",
+        "answer": "A"
+    },
+    {
+        "id": "db63710a-f03f-4832-9028-47e05cf6d858",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/135.png",
+        "question": "What is the name of the country or region outlined in this map?\nA.United Arab Emirates\nB.Ireland\nC.Iceland\nD.Qatar",
+        "answer": "D"
+    },
+    {
+        "id": "05d0e5f0-9c2f-4c3b-be7f-e4cb6538c5ba",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/140.png",
+        "question": "Can you identify the country or region shown on this map?\nA.Latvia\nB.India\nC.Sri Lanka\nD.Tunisia",
+        "answer": "C"
+    },
+    {
+        "id": "5b680146-23ad-4180-b422-1a929c9650f0",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/145.png",
+        "question": "From the map provided, what is the name of the country or region?\nA.Tajikistan\nB.Sweden\nC.Costa Rica\nD.United Kingdom",
+        "answer": "A"
+    },
+    {
+        "id": "b3705136-2078-4b59-b8db-f443d9bf81fd",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/147.png",
+        "question": "What is the name of the country or region outlined in this map?\nA.Bangladesh\nB.China Mainland\nC.Togo\nD.Argentina",
+        "answer": "C"
+    },
+    {
+        "id": "a1a8ac81-5ba7-4843-a053-10b0d0555f6b",
+        "image_path": "perception/image_level_comprehension/map_recognition/images/151.png",
+        "question": "From the map provided, what is the name of the country or region?\nA.Namibia\nB.Ukraine\nC.Mali\nD.Togo",
+        "answer": "B"
+    }
+]

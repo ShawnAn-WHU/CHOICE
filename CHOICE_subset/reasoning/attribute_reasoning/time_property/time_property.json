@@ -1,0 +1,122 @@
+[
+    {
+        "id": "d31d8f53-f292-47f0-a7d2-2a47d37cefe7",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/3.png",
+        "question": "Among the four seasonal images displayed in a 2 times 2 grid, which one was taken during the spring season?\nA.Bottom left\nB.Bottom right\nC.Top left\nD.Top right",
+        "answer": "D"
+    },
+    {
+        "id": "f93d520a-10f5-4820-9ac5-4780dfb18ef6",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/34.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in winter.\nA.Top left\nB.Top right\nC.Bottom left\nD.Bottom right",
+        "answer": "C"
+    },
+    {
+        "id": "4952fc14-b939-441e-9917-27bdbcd1daf2",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/35.png",
+        "question": "Four seasonal images of the same area are are concatenated into a 2 times 2 grid, identify which image was captured in spring.\nA.Top left\nB.Bottom left\nC.Bottom right\nD.Top right",
+        "answer": "C"
+    },
+    {
+        "id": "eed58d41-e685-4921-ac5d-e45e36f6cc52",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/40.png",
+        "question": "Four images of the same area, each representing a different season, are arranged in a 2 times 2 grid. Which one was taken in summer?\nA.Bottom right\nB.Top left\nC.Bottom left\nD.Top right",
+        "answer": "C"
+    },
+    {
+        "id": "e622f765-6cec-48dd-b9f0-2e844cfd589c",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/54.png",
+        "question": "Among the four seasonal images displayed in a 2 times 2 grid, which one was taken during the spring season?\nA.Top left\nB.Bottom left\nC.Top right\nD.Bottom right",
+        "answer": "B"
+    },
+    {
+        "id": "a662313c-7235-4b37-aaca-eebda2c50d6d",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/55.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in winter.\nA.Bottom left\nB.Top right\nC.Bottom right\nD.Top left",
+        "answer": "A"
+    },
+    {
+        "id": "b748ad6e-120e-4007-a52f-c81451b86e83",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/107.png",
+        "question": "Out of the four seasonal images shown in a 2 times 2 grid, which one depicts the area in winter?\nA.Top right\nB.Top left\nC.Bottom right\nD.Bottom left",
+        "answer": "C"
+    },
+    {
+        "id": "d9aefacd-070e-480f-94f1-3541fb34cc8a",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/108.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in spring.\nA.Bottom right\nB.Top left\nC.Bottom left\nD.Top right",
+        "answer": "A"
+    },
+    {
+        "id": "7111377e-5e0a-4e6b-8224-635deb1dc7e8",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/109.png",
+        "question": "Four seasonal images of the same area are are concatenated into a 2 times 2 grid, identify which image was captured in spring.\nA.Bottom left\nB.Bottom right\nC.Top right\nD.Top left",
+        "answer": "D"
+    },
+    {
+        "id": "4f29cf31-358f-469e-95fb-faf6c20c054b",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/110.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in winter.\nA.Bottom left\nB.Top right\nC.Bottom right\nD.Top left",
+        "answer": "A"
+    },
+    {
+        "id": "e63f4c00-96d3-4501-a109-5707238a45d6",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/126.png",
+        "question": "Out of the four seasonal images shown in a 2 times 2 grid, which one depicts the area in winter?\nA.Bottom left\nB.Top left\nC.Top right\nD.Bottom right",
+        "answer": "C"
+    },
+    {
+        "id": "b0908d4d-9d98-4a7b-a2c7-0ec32ea158b7",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/133.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in winter.\nA.Bottom right\nB.Bottom left\nC.Top right\nD.Top left",
+        "answer": "C"
+    },
+    {
+        "id": "bf296186-b898-4675-8f4f-86fcda15d4c2",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/139.png",
+        "question": "Four seasonal images of the same area are are concatenated into a 2 times 2 grid, identify which image was captured in summer.\nA.Bottom right\nB.Top left\nC.Top right\nD.Bottom left",
+        "answer": "C"
+    },
+    {
+        "id": "3a9d0a73-fc80-4c2c-9737-e9086a1ad0d5",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/150.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in spring.\nA.Top left\nB.Bottom left\nC.Top right\nD.Bottom right",
+        "answer": "D"
+    },
+    {
+        "id": "e707c6c0-2dcb-49c0-a401-15ed70abe517",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/163.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in winter.\nA.Bottom right\nB.Top left\nC.Bottom left\nD.Top right",
+        "answer": "A"
+    },
+    {
+        "id": "dedd3843-870c-41d2-bebf-456f71038925",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/176.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in winter.\nA.Bottom right\nB.Top left\nC.Bottom left\nD.Top right",
+        "answer": "C"
+    },
+    {
+        "id": "b2abb66a-16d5-4cbb-baea-ecef2cf4f338",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/178.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in summer.\nA.Top left\nB.Bottom left\nC.Top right\nD.Bottom right",
+        "answer": "A"
+    },
+    {
+        "id": "16b5ed3f-17d3-4957-8e2a-0c7219d01254",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/185.png",
+        "question": "Four images of the same area, each representing a different season, are arranged in a 2 times 2 grid. Which one was taken in spring?\nA.Bottom right\nB.Top left\nC.Bottom left\nD.Top right",
+        "answer": "B"
+    },
+    {
+        "id": "4b885194-a18e-43da-b603-a6c3a0308eab",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/187.png",
+        "question": "In the 2 times 2 grid of seasonal images of the same area, identify the one that was captured in winter.\nA.Bottom right\nB.Top right\nC.Top left\nD.Bottom left",
+        "answer": "A"
+    },
+    {
+        "id": "5dddbf0a-9eec-452c-9f52-1ce0e63b9cd5",
+        "image_path": "reasoning/attribute_reasoning/time_property/images/192.png",
+        "question": "Four seasonal images of the same area are are concatenated into a 2 times 2 grid, identify which image was captured in winter.\nA.Bottom left\nB.Top left\nC.Top right\nD.Bottom right",
+        "answer": "D"
+    }
+]

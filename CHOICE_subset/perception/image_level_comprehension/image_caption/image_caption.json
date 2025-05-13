@@ -1,0 +1,122 @@
+[
+    {
+        "id": "f4866530-3db8-490a-8d94-8749d04ab164",
+        "image_path": "perception/image_level_comprehension/image_caption/images/6.png",
+        "question": "Please describe this airport scene from the remote sensing image in one short sentence.\nA.The remote sensing image depicts an airport tarmac with several airplanes parked and taxiing, surrounded by marked runways and service areas.\nB.The remote sensing image reveals a vibrant marketplace with various stalls set up and customers browsing, surrounded by marked pathways and seating areas.\nC.The aerial photograph shows a busy railway station with numerous trains arriving and departing, bordered by designated tracks and maintenance zones.\nD.The satellite image captures a bustling city street filled with cars driving and parked, encircled by designated lanes and parking spaces.",
+        "answer": "A"
+    },
+    {
+        "id": "78ce968c-d617-4e91-a593-33b5a271ec4c",
+        "image_path": "perception/image_level_comprehension/image_caption/images/11.png",
+        "question": "Based on this remote sensing image of a/an baseball_field, describe it in one sentence.\nA.The image shows an aerial view of a baseball field surrounded by green grass, trees, and adjacent buildings, with a road running along the bottom edge.\nB.The picture provides an overhead perspective of a cricket ground set against a backdrop of golden sand, palm trees, and accompanying facilities, with a lane tracing along the right flank.\nC.This aerial photograph captures a soccer pitch bordered by vibrant flowers, tall bushes, and nearby homes, with a street snaking around the top perimeter.\nD.The image depicts a bird's-eye view of a football stadium encircled by lush vegetation, shrubs, and neighboring structures, with a pathway stretching along the left side.",
+        "answer": "A"
+    },
+    {
+        "id": "61ab18fb-9149-487f-bf7f-8c734f6da23b",
+        "image_path": "perception/image_level_comprehension/image_caption/images/12.png",
+        "question": "Looking at this remote sensing image of a/an baseball_field, provide a concise description in one sentence.\nA.The image displays an overhead view of an athletic facility with several tennis courts, encircled by shrubs and access roads.\nB.The photograph captures a bird's-eye perspective of a recreation center featuring various soccer pitches, bordered by greenery and open spaces.\nC.The image shows an aerial view of a sports complex with multiple baseball fields, surrounded by trees and parking areas.\nD.This aerial shot reveals a composite view of a fitness hub containing numerous basketball courts, flanked by wooded areas and visitor lots.",
+        "answer": "C"
+    },
+    {
+        "id": "a042252c-948d-4a93-b893-5f466c0b23f5",
+        "image_path": "perception/image_level_comprehension/image_caption/images/15.png",
+        "question": "Based on this remote sensing image of a/an baseball_field, describe it in one sentence.\nA.This aerial shot presents an overhead view of a baseball venue consisting of numerous leaf-patterned fields, bordered by vibrant foliage and shrubs, with connected lots and thoroughfares.\nB.The image features a top-down look at a baseball park complex showcasing various arc-shaped fields, framed by verdant lawns and forests, alongside adjoining parking lots and streets.\nC.The photograph captures a bird\u2019s-eye perspective of a baseball diamond layout featuring several petal-shaped fields, encircled by lush greenery and woodlands, along with nearby driveways and pathways.\nD.The image shows an aerial view of a baseball field complex with multiple fan-shaped fields, surrounded by green grass and trees, with adjacent parking areas and roads.",
+        "answer": "D"
+    },
+    {
+        "id": "db466fe2-98ff-4211-adb1-98b59e71e5da",
+        "image_path": "perception/image_level_comprehension/image_caption/images/51.png",
+        "question": "This is a remote sensing image of a/an desert scene. Please describe this remote sensing image in one short sentence.\nA.The image illustrates a serene, snowy mountainous terrain with steep slopes and scattered evergreen trees, captured from a high vantage point.\nB.The photograph features a rocky coastline with jagged cliffs and clear blue waters, taken from a bird's-eye view.\nC.The image depicts a vast, arid desert landscape with undulating sand dunes and sparse vegetation, captured from an aerial or satellite perspective.\nD.The image showcases a sprawling, lush rainforest with towering trees and vibrant green foliage, viewed from an elevated angle.",
+        "answer": "C"
+    },
+    {
+        "id": "02849b08-7232-43c6-adac-497e52c668b5",
+        "image_path": "perception/image_level_comprehension/image_caption/images/81.png",
+        "question": "Looking at this remote sensing image of a/an industrial, provide a concise description in one sentence.\nA.A top-down image of an urban area filled with large facilities, a number of which are still being completed, and a lengthy avenue stretching through the middle.\nB.An aerial view of an industrial area with multiple large buildings, some under construction, and a wide road running through the center.\nC.A bird's-eye view of a manufacturing zone showcasing numerous sizable warehouses, some in development, accompanied by a broad street cutting across the scene.\nD.An overhead perspective of a commercial district featuring several expansive structures, a few in the process of being built, with a spacious highway traversing the landscape.",
+        "answer": "B"
+    },
+    {
+        "id": "6a9ae673-684c-4c67-982f-4872f5870be3",
+        "image_path": "perception/image_level_comprehension/image_caption/images/88.png",
+        "question": "Based on this remote sensing image of a/an industrial, describe it in one sentence.\nA.A top-down image of a manufacturing zone with various sizable warehouses, paved areas for cars, and adjacent natural landscapes.\nB.An overhead shot of a commercial district featuring several massive structures, open spaces, and surrounding vegetation.  \nC.An aerial view of an industrial area with multiple large buildings, parking lots, and adjacent greenery.\nD.A bird's-eye perspective of an urban landscape showcasing numerous expansive facilities, vehicle storage areas, and nearby parks.  ",
+        "answer": "C"
+    },
+    {
+        "id": "b991ad92-70a3-4715-9755-2c5e93a2e4df",
+        "image_path": "perception/image_level_comprehension/image_caption/images/93.png",
+        "question": "Please describe this medium_residential scene from the remote sensing image in one short sentence.\nA.This bird's-eye view captures an urban area filled with diverse buildings, lush parks, and numerous bicycles parked along the paths and sidewalks.\nB.The overhead image illustrates a seaside village adorned with colorful homes, sandy yards, and a selection of boats moored by the waterfront.\nC.The image depicts a suburban neighborhood with various houses, green lawns, and a few vehicles parked on driveways and streets.\nD.The aerial photograph shows a rural community featuring multiple cottages, vibrant gardens, and several cars lining the streets and driveways. ",
+        "answer": "C"
+    },
+    {
+        "id": "1b729a75-b592-4cb4-956b-957ea17f6acc",
+        "image_path": "perception/image_level_comprehension/image_caption/images/96.png",
+        "question": "Based on this remote sensing image of a/an medium_residential, describe it in one sentence.\nA.The aerial view highlights an urban locality filled with individual dwellings, encircled by shaded yards and greenery, displaying a variety of single-level and multi-story structures.\nB.The image depicts a residential area with detached houses, surrounded by green lawns and trees, with a mix of single-story and two-story homes.\nC.The picture showcases a suburban neighborhood featuring standalone residences, bordered by vibrant gardens and foliage, including a combination of bungalows and multi-level houses.\nD.The photograph illustrates a community comprised of independent homes, enveloped by lush landscapes and greenery, showcasing a blend of ranch-style and taller residences.",
+        "answer": "B"
+    },
+    {
+        "id": "cb728cca-12d0-4cf5-a72a-b880952fdd62",
+        "image_path": "perception/image_level_comprehension/image_caption/images/99.png",
+        "question": "This is a remote sensing image of a/an medium_residential scene. Please describe this remote sensing image in one short sentence.\nA.The photograph illustrates a coastal village with a mix of villas, roads, and parks, showcasing a standard seaside locality from a high vantage point.\nB.The aerial view captures a rural community filled with distinct cottages, pathways, and gardens, portraying a usual farming area from a bird\u2019s-eye perspective.\nC.The image presents an urban landscape featuring diverse buildings, sidewalks, and vegetation, illustrating a common city environment from an elevated angle.\nD.The image depicts a suburban neighborhood with various houses, driveways, and greenery, showcasing a typical residential area from an aerial perspective.",
+        "answer": "D"
+    },
+    {
+        "id": "5241580a-2310-4a89-b3bf-d55c83d449da",
+        "image_path": "perception/image_level_comprehension/image_caption/images/104.png",
+        "question": "This is a remote sensing image of a/an river scene. Please describe this remote sensing image in one short sentence.\nA.The photograph presents a bird\u2019s-eye perspective of a meandering stream flanked by vibrant autumn foliage, featuring a quaint village and pathways situated close to the riverbank.\nB.The image depicts an aerial view of a winding river surrounded by lush green vegetation, with a small settlement and roads visible near the water's edge.\nC.The image showcases a top-down view of a serpentine lake bordered by dense tropical plants, with a nearby town and trails discernible along the shoreline.\nD.The aerial shot reveals a twisting canal surrounded by arid desert landscapes, with a remote community and unpaved paths apparent near the water's boundary.",
+        "answer": "B"
+    },
+    {
+        "id": "1129fa95-a30d-4788-9b6b-b84fdaeacad9",
+        "image_path": "perception/image_level_comprehension/image_caption/images/130.png",
+        "question": "Looking at this remote sensing image of a/an stadium, provide a concise description in one sentence.\nA.The photograph shows an overhead shot of a vacant coliseum with a yellow turf, encircled by spectator sections and adjacent facilities.\nB.The visual presents an aerial depiction of an unoccupied sports venue, showcasing a red playing surface, flanked by seating blocks and surrounding establishments.\nC.The picture illustrates a bird's-eye perspective of a deserted arena featuring a blue pitch, bordered by stands and nearby structures.\nD.The image depicts an aerial view of an empty stadium with a green field, surrounded by seating areas and adjacent buildings.",
+        "answer": "D"
+    },
+    {
+        "id": "1d802ce9-cb17-495d-b3be-298ac2b9a2f8",
+        "image_path": "perception/image_level_comprehension/image_caption/images/140.png",
+        "question": "Looking at this remote sensing image of a/an storage_tanks, provide a concise description in one sentence.\nA.The image depicts an industrial facility with numerous large storage tanks, pipelines, and structures, surrounded by greenery and infrastructure, indicative of a petrochemical or chemical plant.\nB.The image portrays a sprawling agricultural complex with several small silos, irrigation canals, and buildings, enveloped by fields and roads, suggestive of a farming or horticultural enterprise.\nC.The photograph showcases a vast solar energy park with numerous photovoltaic panels, inverters, and access roads, framed by desert and power lines, indicating a renewable energy facility.\nD.The aerial view reveals a modern residential neighborhood with multiple housing units, roads, and amenities, bordered by parks and schools, characteristic of a suburban development.",
+        "answer": "A"
+    },
+    {
+        "id": "e6a2ffc4-fce5-47c3-8a33-83ed96e82647",
+        "image_path": "perception/image_level_comprehension/image_caption/images/141.png",
+        "question": "Based on this remote sensing image of a/an sparse_residential, describe it in one sentence.\nA.The image shows a rural residential area with three houses, surrounded by trees and open land, featuring a swimming pool and a driveway leading to one of the homes.\nB.The photograph captures an urban neighborhood with several apartment buildings, bordered by streets and parks, including a playground and a pathway connecting to one of the buildings.\nC.The picture reveals a coastal community with four beach cottages, nestled between dunes and the ocean, presenting a pier and a winding path that leads to one of the cottages.\nD.The scene depicts an agricultural landscape with two barns, encircled by fields and hills, showcasing a pond and a dirt road that runs past one of the structures.",
+        "answer": "A"
+    },
+    {
+        "id": "fa0a93db-39b8-4f87-a1e3-f6f106960f82",
+        "image_path": "perception/image_level_comprehension/image_caption/images/168.png",
+        "question": "Looking at this remote sensing image of a/an forest, provide a concise description in one sentence.\nA.The remote sensing image reveals a vast, arid desert landscape featuring a tiny oasis or waterhole apparent toward the bottom-left corner.\nB.The remote sensing image depicts a dense, lush green forest with a small clearing or patch of bare ground visible near the center-right area.\nC.The satellite image captures a thick, golden wheat field with a small cluster of trees noticeable near the top-right section.\nD.The aerial view showcases a sprawling, vibrant blue ocean with a small stretch of sandy beach located in the upper-left quadrant.",
+        "answer": "B"
+    },
+    {
+        "id": "e9721e79-0059-4a0e-8d2a-01f0853c10c6",
+        "image_path": "perception/image_level_comprehension/image_caption/images/171.png",
+        "question": "This is a remote sensing image of a/an pond. Please summarize the image in one brief sentence.\nA.The photo portrays a circular lake bordered by pastoral land, with the water appearing deep blue and the fields exhibiting signs of harvest.\nB.The aerial view shows a rectangular reservoir encircled by woodland, with the water reflecting a clear turquoise hue and the terrain indicating a lack of cultivation.\nC.The image illustrates an oval-shaped water body flanked by urban developments, with the water looking muddy brown and the surrounding land displaying urban infrastructure.\nD.The image depicts an irregularly shaped pond surrounded by agricultural fields, with the water appearing greenish and the land showing signs of cultivation.",
+        "answer": "D"
+    },
+    {
+        "id": "740528c9-d709-4098-8775-9b409754fbe7",
+        "image_path": "perception/image_level_comprehension/image_caption/images/177.png",
+        "question": "Based on this remote sensing image of a/an pond, describe it in one sentence.\nA.The image depicts a bird\u2019s-eye view of two lakes encircled by verdant patches, with a tilled agricultural plot visible in the distance.\nB.The aerial photograph illustrates a scene of two reservoirs flanked by green spaces, with a cultivated region observable beyond them.\nC.The picture offers an overhead perspective of a pair of water bodies bordered by lush terrain, featuring an unplanted land tract in the backdrop.\nD.The image shows an aerial view of two ponds surrounded by grassy areas, with a plowed field visible in the background.",
+        "answer": "D"
+    },
+    {
+        "id": "48f6afe4-99c5-460e-8dfd-b6c399e24fd5",
+        "image_path": "perception/image_level_comprehension/image_caption/images/178.png",
+        "question": "This is a remote sensing image of a/an pond scene. Please describe this remote sensing image in one short sentence.\nA.The image presents a top-down view of a farmland region highlighting two light-colored, round water bodies bordered by dense trees and connected by earthen tracks.\nB.The aerial shot illustrates an overhead view of a pastoral setting containing a pair of shallow, rectangular basins framed by vibrant crops and divided by paved pathways.\nC.The photograph showcases a bird's-eye perspective of a countryside area featuring two bright, circular lakes enveloped by lush grass and crisscrossed by gravel roads.\nD.The image depicts an aerial view of a rural landscape featuring two dark, oval-shaped ponds surrounded by green vegetation and intersected by dirt paths.",
+        "answer": "D"
+    },
+    {
+        "id": "1b661f76-5a58-4239-a033-06944fbc6b1a",
+        "image_path": "perception/image_level_comprehension/image_caption/images/181.png",
+        "question": "This is a remote sensing image of a/an commercial. Please summarize the image in one brief sentence.\nA.The image depicts an urban area with a dense grid of buildings, streets, and vehicles, indicating a bustling commercial district.\nB.The image illustrates a suburban neighborhood characterized by a sparse arrangement of houses, parks, and bicycles, suggesting a quiet residential area.\nC.The photograph captures a rural landscape featuring a scattered layout of farms, dirt roads, and livestock, indicating a serene agricultural region.\nD.The picture portrays a coastal town with a vibrant mix of shops, boardwalks, and tourists, reflecting a lively recreational zone.",
+        "answer": "A"
+    },
+    {
+        "id": "3e686d78-910a-419e-ac85-0923a7831b8b",
+        "image_path": "perception/image_level_comprehension/image_caption/images/197.png",
+        "question": "Please describe this church scene from the remote sensing image in one short sentence.\nA.This aerial shot reveals a viewpoint of a shrine topped with a distinctive spire, encircled by repair activities, neighboring edifices, and a nearby pathway.\nB.The image shows an aerial view of a church with a prominent dome, surrounded by construction or renovation work, with adjacent buildings and a nearby road.\nC.The photograph captures a bird's-eye perspective of a cathedral featuring a striking steeple, amidst ongoing development efforts, flanked by other structures and a bustling street.\nD.The visual offers a top-down look at a mosque with a noticeable minaret, located in an area undergoing urban enhancement, bordered by various facilities and a close highway.",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "c050a376-6f3f-4a05-87cf-39992a5af316",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/13.png",
+        "question": "What are the most likely people doing inside the large building in the picture?\nA.Playing competitive sports\nB.Reading scriptures\nC.Having a business meeting\nD.Watching a stunt show",
+        "answer": "B"
+    },
+    {
+        "id": "57112b93-22b6-46c4-b340-c12e3b062722",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/38.png",
+        "question": "What is the main purpose of the building in the picture?\nA. Only used as a TV and radio transmission tower\nB. Only for tourism and sightseeing purposes\nC. Used as both a television and radio transmission tower, as well as a tourist attraction\nD. Only used for residential and office buildings",
+        "answer": "C"
+    },
+    {
+        "id": "ffed293c-3b0d-4e2b-8194-a20dd92bf437",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/52.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Ski\nB.Sandals\nC.Snowshoe\nD.Winter gear",
+        "answer": "B"
+    },
+    {
+        "id": "20d5e3d3-e9d7-47e5-936a-fc7ec140329c",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/58.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Swimwear\nB.Winter gear\nC.Snowshoe\nD.Heavy coats",
+        "answer": "A"
+    },
+    {
+        "id": "338c03ae-44fe-4475-8c59-572da1f22a8e",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/67.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Swimwear\nB.Ski\nC.Snowshoe\nD.Winter gear",
+        "answer": "A"
+    },
+    {
+        "id": "1a14da0d-5df5-4f1f-a462-4509fcba74cd",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/68.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Snowshoe\nB.Sunglasses\nC.Heavy coats\nD.Ski",
+        "answer": "B"
+    },
+    {
+        "id": "e2bcd4a5-4519-473a-ae11-c45083a8a259",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/90.png",
+        "question": "Which animal is most likely to appear in the scene in the picture?\nA.Bear\nB.Whale\nC.Lobster\nD.Seal",
+        "answer": "A"
+    },
+    {
+        "id": "8f936140-433c-4eac-baa1-5a140ec04fc0",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/93.png",
+        "question": "Which animal is most likely to appear in the scene in the picture?\nA.Seal\nB.Bird\nC.Polar bear\nD.Dolphin",
+        "answer": "B"
+    },
+    {
+        "id": "f462431c-86d5-4bef-abda-01cf1a600da2",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/113.png",
+        "question": "Which animal is most likely to appear in the scene in the picture?\nA.Bird\nB.Seahorse\nC.Lobster\nD.Shark",
+        "answer": "A"
+    },
+    {
+        "id": "98ab3e32-6fd7-488a-8102-1e415241d937",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/132.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Ski\nB.Bathing cap\nC.Sturdy footwear\nD.Winter gear",
+        "answer": "C"
+    },
+    {
+        "id": "db2c6542-ebae-4fac-922b-b988f7cbff8c",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/137.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Swimsuit\nB.Water\nC.Winter gear\nD.Snowshoe",
+        "answer": "B"
+    },
+    {
+        "id": "09737761-94d6-4e57-bd66-c11750b74c33",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/140.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Snowshoe\nB.Sunglasses\nC.Swimsuit\nD.Ski",
+        "answer": "B"
+    },
+    {
+        "id": "67b11ce1-622a-45fd-a15b-62ea50e37735",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/142.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Snowboard\nB.Swimsuit\nC.Water\nD.Heavy coats",
+        "answer": "C"
+    },
+    {
+        "id": "a442fa75-aa42-40b8-8444-b8b2dfada72e",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/148.png",
+        "question": "What is the most likely item you need to bring if you want to play in the scene in the picture?\nA.Snowshoe\nB.Winter gear\nC.Bathing cap\nD.Lightweight tent",
+        "answer": "D"
+    },
+    {
+        "id": "469fe5ec-a38e-4ecd-8537-20271e0e93db",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/170.png",
+        "question": "Which sporting event is most likely to be held inside the building in the picture?\nA.Baseball\nB.Sailing\nC.Basketball\nD.Badminton",
+        "answer": "A"
+    },
+    {
+        "id": "6c557d24-6b09-4074-b4bd-3282df6046ed",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/224.png",
+        "question": "What crops are most likely to be produced in the scene shown in the picture?\nA.Oenanthe javanica\nB.Coconut\nC.Corn\nD.Durian",
+        "answer": "C"
+    },
+    {
+        "id": "d1c82c25-2d33-43fc-ab36-240cc6db786e",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/274.png",
+        "question": "What buildings are most likely to be included in the picture?\nA.Airport\nB.Mining facilities\nC.Hotel\nD.Farm factory",
+        "answer": "C"
+    },
+    {
+        "id": "0e02c2ed-0ff2-406f-9ae0-230d55757c59",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/275.png",
+        "question": "What buildings are most likely to be included in the picture?\nA.Mining facilities\nB.Airport\nC.Hotel\nD.Landfill site",
+        "answer": "C"
+    },
+    {
+        "id": "416f62c8-e383-408b-a5c0-b0d04e65ffb6",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/277.png",
+        "question": "What buildings are most likely to be included in the picture?\nA.Hotel\nB.Farm factory\nC.Livestock farm\nD.Mining facilities",
+        "answer": "A"
+    },
+    {
+        "id": "782f8b6c-a434-42de-aa35-0999bbd4d55f",
+        "image_path": "reasoning/common_sense_reasoning/situation_inference/images/298.png",
+        "question": "What buildings are most likely to be included in the picture?\nA.Livestock farm\nB.Shopping malls\nC.Mining facilities\nD.Landfill site",
+        "answer": "B"
+    }
+]
