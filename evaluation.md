@@ -74,6 +74,8 @@ pip install lmdeploy openai
 
 Deploy a LLM locally (take `Qwen2.5-7B-Instruct` as an example):
 ```bash
+export LMDEPLOY_USE_MODELSCOPE=True
+
 OMP_NUM_THREADS=1 CUDA_VISIBLE_DEVICES='0,1' lmdeploy serve api_server Qwen/Qwen2.5-7B-Instruct --server-port 23333 --tp 2
 ```
 
