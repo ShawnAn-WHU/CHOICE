@@ -1,0 +1,162 @@
+[
+    {
+        "id": "2ef13ab6-51c3-4eec-b255-7505243b70a5",
+        "image_path": "perception/single_instance_identification/object_presence/images/3.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/3.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nIs a/an airplane present in this image?\nA.can't judge\nB.No\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "be290d48-ddb8-4a07-b413-e6e9db264d2b",
+        "image_path": "perception/single_instance_identification/object_presence/images/18.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/18.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nCan you see a/an airplane in this image?\nA.Yes\nB.can't judge\nC.No",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "466a67cc-09d8-4337-bd6a-fd9158a15d0c",
+        "image_path": "perception/single_instance_identification/object_presence/images/20.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/20.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nCan you see a/an airplane in this image?\nA.can't judge\nB.No\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "b3b9e235-4c42-46bf-b96b-024c95d218e3",
+        "image_path": "perception/single_instance_identification/object_presence/images/51.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/51.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nCan you see a/an airplane in this image?\nA.can't judge\nB.Yes\nC.No",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "f0bb800b-9fc0-45dc-893f-c89363f970c1",
+        "image_path": "perception/single_instance_identification/object_presence/images/52.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/52.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image feature a/an airplane?\nA.No\nB.can't judge\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "ee85057c-2856-4d45-b90f-c4910b32b147",
+        "image_path": "perception/single_instance_identification/object_presence/images/53.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/53.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image feature a/an airplane?\nA.can't judge\nB.Yes\nC.No",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "ae36ab9c-8142-41a7-bf9b-66cf764a2da6",
+        "image_path": "perception/single_instance_identification/object_presence/images/54.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/54.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image feature a/an airplane?\nA.Yes\nB.No\nC.can't judge",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "7fd5b0f6-5f4c-40a5-bd59-97db49f992f3",
+        "image_path": "perception/single_instance_identification/object_presence/images/99.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/99.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nIs there a/an bridge in this image?\nA.can't judge\nB.Yes\nC.No",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "8a9782ac-67d2-4562-8a36-c0e134d49aaf",
+        "image_path": "perception/single_instance_identification/object_presence/images/105.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/105.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image feature a/an bridge?\nA.can't judge\nB.No\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "a584ce23-6c20-480b-9b42-3f8ac7eb3ae0",
+        "image_path": "perception/single_instance_identification/object_presence/images/127.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/127.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image contain a/an bridge?\nA.can't judge\nB.Yes\nC.No",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "7e0c01b4-98ee-45a3-a34b-1b68595a5835",
+        "image_path": "perception/single_instance_identification/object_presence/images/151.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/151.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image feature a/an dam?\nA.Yes\nB.can't judge\nC.No",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "bf3e0dca-81ef-4038-8c38-accefda05ec5",
+        "image_path": "perception/single_instance_identification/object_presence/images/154.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/154.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image contain a/an dam?\nA.can't judge\nB.No\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "53d804a7-9e46-41d1-8647-23b7e72d2578",
+        "image_path": "perception/single_instance_identification/object_presence/images/239.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/239.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nCan you see a/an roundabout in this image?\nA.No\nB.can't judge\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "41c37dfe-b7bf-47ab-8268-0d0bba0f0767",
+        "image_path": "perception/single_instance_identification/object_presence/images/302.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/302.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nCan you see a/an soccer ball field in this image?\nA.Yes\nB.No\nC.can't judge",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "e7dcf12b-cdcd-4f7e-988f-831cbdd96bee",
+        "image_path": "perception/single_instance_identification/object_presence/images/314.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/314.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nIs there a/an soccer ball field in this image?\nA.can't judge\nB.No\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "fc9392d4-95a2-4612-afe9-9e5a7cbe8ef2",
+        "image_path": "perception/single_instance_identification/object_presence/images/347.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/347.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image contain a/an storage tank?\nA.No\nB.Yes\nC.can't judge",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "29daeb7f-e9dd-4987-86d1-0fd423489ceb",
+        "image_path": "perception/single_instance_identification/object_presence/images/385.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/385.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nIs there a/an storage tank in this image?\nA.No\nB.Yes\nC.can't judge",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "3045b6c2-987e-4468-80db-e988700e1a9c",
+        "image_path": "perception/single_instance_identification/object_presence/images/445.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/445.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image feature a/an ship?\nA.can't judge\nB.Yes\nC.No",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "5bdc82ea-6eb5-4920-9f65-5776c6af98a0",
+        "image_path": "perception/single_instance_identification/object_presence/images/471.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/471.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image feature a/an harbor?\nA.No\nB.can't judge\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "ac8faa71-a744-4a74-88b7-71230ecf39a6",
+        "image_path": "perception/single_instance_identification/object_presence/images/488.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_presence/images/488.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A or B or C). Do not include any additional text.\nDoes this image contain a/an harbor?\nA.can't judge\nB.No\nC.Yes",
+        "response": "C",
+        "label": "C",
+        "result": true
+    }
+]

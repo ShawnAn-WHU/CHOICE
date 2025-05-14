@@ -1,0 +1,162 @@
+[
+    {
+        "id": "582e38f7-e59b-4155-a5c1-6782b5d57d1b",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/7.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/7.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image, which carbon dioxide emission level is the most fitting for this area?\nA.High\nB.Very low\nC.Medium\nD.Low",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "0353db88-6f51-4ef2-959f-6ca9bd2d8f3d",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/16.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/16.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image, which carbon dioxide emission level is the most fitting for this area?\nA.High\nB.Very low\nC.Low\nD.Medium",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "75aa67e5-0509-4d7b-bc4b-004bebde89ce",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/25.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/25.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Low\nB.Medium\nC.High\nD.Very low",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "fcde85c3-c155-42c2-8957-4809ae4ea9e2",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/30.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/30.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich carbon dioxide emission level in the image most accurately represents this area?\nA.Very low\nB.Low\nC.Medium\nD.High",
+        "response": "A",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "a4dd1e73-089e-4712-9add-76b070d6bb48",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/39.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/39.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich carbon dioxide emission level in the image most accurately represents this area?\nA.High\nB.Low\nC.Medium\nD.Very low",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "aba7b0b3-ba44-4b58-8486-68c2fdadfc44",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/55.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/55.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Medium\nB.Very low\nC.High\nD.Low",
+        "response": "B",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "0cecadc2-e422-45ec-aeeb-53638ac43748",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/60.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/60.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom this image, which carbon dioxide emission level is most representative of this area?\nA.Very low\nB.Low\nC.Medium\nD.High",
+        "response": "A",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "fdd0a439-5b48-4fc3-989f-38632adfcccb",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/62.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/62.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Very low\nB.Medium\nC.High\nD.Low",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "4945254a-92ca-4511-9ee6-fb191faf64d2",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/74.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/74.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Very low\nB.Medium\nC.High\nD.Low",
+        "response": "A",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "8e7edc47-c801-462a-b7a7-e081dd8ce469",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/83.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/83.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich carbon dioxide emission level in the image most accurately represents this area?\nA.Low\nB.Very low\nC.Medium\nD.High",
+        "response": "B",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "dca5d925-cf7b-4066-a9ce-08d09855bbf1",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/98.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/98.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at this image, which carbon dioxide emission level applies most closely to this area?\nA.High\nB.Medium\nC.Very low\nD.Low",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "fd8841a2-311b-4efd-a5b4-38ff2cdd2494",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/99.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/99.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom this image, which carbon dioxide emission level is most representative of this area?\nA.High\nB.Medium\nC.Low\nD.Very low",
+        "response": "C",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "85439e0b-ad28-4a86-b1ad-5eb097ad08f9",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/103.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/103.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich carbon dioxide emission level in the image most accurately represents this area?\nA.Low\nB.Very low\nC.High\nD.Medium",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "d26a63c1-6c50-407f-b3fb-5195a547f7aa",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/106.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/106.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on this image, which level of carbon dioxide emissions best reflects this area?\nA.Very low\nB.Low\nC.Medium\nD.High",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "361103dd-2388-47fb-911b-54296f0d2025",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/112.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/112.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image, which carbon dioxide emission level is the most fitting for this area?\nA.Low\nB.Medium\nC.Very low\nD.High",
+        "response": "C",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "383065aa-f14d-4249-90eb-90508bee0c7e",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/117.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/117.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on this image, which level of carbon dioxide emissions best reflects this area?\nA.Very low\nB.Medium\nC.High\nD.Low",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "52a677af-1a3c-40c4-adc8-2b69080f8042",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/135.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/135.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich carbon dioxide emission level in the image most accurately represents this area?\nA.Low\nB.Very low\nC.Medium\nD.High",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "9abbb136-fcd7-4218-8fb1-f01008bd1c85",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/141.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/141.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at this image, which carbon dioxide emission level applies most closely to this area?\nA.Very low\nB.Low\nC.High\nD.Medium",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "830d9a26-5b88-44f3-8225-93fe43d6247d",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/164.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/164.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom this image, which carbon dioxide emission level is most representative of this area?\nA.Very low\nB.High\nC.Medium\nD.Low",
+        "response": "A",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "bc07d917-1aa5-463f-b690-c8d351a52901",
+        "image_path": "reasoning/assessment_reasoning/environmental_assessment/images/182.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/environmental_assessment/images/182.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image, which carbon dioxide emission level is the most fitting for this area?\nA.High\nB.Medium\nC.Very low\nD.Low",
+        "response": "C",
+        "label": "D",
+        "result": false
+    }
+]

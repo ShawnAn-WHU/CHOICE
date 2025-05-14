@@ -1,0 +1,162 @@
+[
+    {
+        "id": "9c61d5f8-2dbf-455d-8f29-f5a43f8977b0",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/26.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/26.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the estimated population living in this area shown in the image?\nA.2746\nB.1824\nC.361592\nD.11062628",
+        "response": "D",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "2f87d58d-78d9-4d8b-b566-94d36ff84fd6",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/27.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/27.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the image, what is the estimated population of this area?\nA.104448\nB.598\nC.2527040\nD.549",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "0d5bd9a6-d548-4059-be06-7753a9bd2bad",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/67.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/67.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the approximate population of the region shown in this image?\nA.2360\nB.27595\nC.171164\nD.88982",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "5ba7afd1-5615-4945-a9a2-5428db87f833",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/80.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/80.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nHow many people are estimated to live in the area shown in the image?\nA.1399\nB.2477\nC.2920322\nD.34327",
+        "response": "C",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "f1ed96bf-611a-44e8-b514-3b0d33d219b7",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/84.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/84.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the estimated population living in this area shown in the image?\nA.147844\nB.2313\nC.198411\nD.134332",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "afbc359e-c033-4b79-85c6-f6d8a05716c3",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/125.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/125.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the image, what is the estimated population of this area?\nA.45263\nB.74545\nC.784\nD.55649",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "5ce6b96a-4750-4313-a4d0-2645f06b3c5c",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/198.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/198.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nHow many people are estimated to live in the area shown in the image?\nA.1069\nB.198737\nC.3058858\nD.1563",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "eb3b7184-c5b2-4d92-b70a-eb0708360e7a",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/250.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/250.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.can't judge\nB.Right\nC.Left",
+        "response": "B",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "24a6c8ef-7507-4314-b90d-5d4fb52ba122",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/272.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/272.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLook at the two images shown side by side, decide which one depicts the region with the better economic condition.\nA.can't judge\nB.Right\nC.Left",
+        "response": "B",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "ce694d81-e1a9-47a1-abba-74ddf496c2fc",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/274.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/274.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nAfter analyzing the two images presented side by side, which one reflects the region with a more favorable economic situation?\nA.can't judge\nB.Left\nC.Right",
+        "response": "B",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "0efd2894-ad60-4554-a1b2-47c28325f474",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/296.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/296.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nAfter analyzing the two images presented side by side, which one reflects the region with a more favorable economic situation?\nA.Right\nB.can't judge\nC.Left",
+        "response": "B",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "240bac57-4887-413c-bb02-59c989c374ac",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/309.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/309.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLook at the two images shown side by side, decide which one depicts the region with the better economic condition.\nA.can't judge\nB.Right\nC.Left",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "d1651643-072d-46de-b96e-ab5a6b3c401c",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/380.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/380.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nTwo images are concatenated side by side, analyze these two remote sensing images comprehensively and determine which image shows the region with a better economic situation.\nA.Left\nB.Right\nC.can't judge",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "08468121-29d7-4875-b92f-aa1fa04eff01",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/406.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/406.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Right\nB.can't judge\nC.Left",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "f63a0d46-b563-4efc-9b51-5c507254f26d",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/446.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/446.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Right\nB.can't judge\nC.Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "a2b68b41-7dba-433c-b707-ba8757fc67ce",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/457.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/457.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Right\nB.can't judge\nC.Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "23615d8c-fde5-4330-a54a-e4fdd216650e",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/469.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/469.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the two remote sensing images side by side, assess them carefully and determine which image represents the region with a stronger economic situation.\nA.Right\nB.can't judge\nC.Left",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "8103e5b7-6eb1-4073-8a87-4df24ccb9bb2",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/490.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/490.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nTwo images are displayed side by side, analyze them thoroughly and identify which one depicts the region with a better economic condition.\nA.can't judge\nB.Right\nC.Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "9c3250fa-e00d-458c-9f7d-e4d8136444f6",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/491.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/491.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLook at the two images shown side by side, decide which one depicts the region with the better economic condition.\nA.can't judge\nB.Right\nC.Left",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "05442259-e9df-4564-982b-8ebe7d1e0527",
+        "image_path": "reasoning/assessment_reasoning/resource_assessment/images/579.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/assessment_reasoning/resource_assessment/images/579.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nTwo images are concatenated side by side, analyze these two remote sensing images comprehensively and determine which image shows the region with a better economic situation.\nA.Right\nB.can't judge\nC.Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    }
+]

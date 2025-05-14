@@ -1,0 +1,162 @@
+[
+    {
+        "id": "76a501a3-b4a6-48fc-8e49-986ff7ebba79",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/80.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/80.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image you've been given, which category would it fall under?\nA.storage_tanks\nB.pond\nC.airport\nD.baseball_filed",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "745a91ff-eb61-4619-a407-95fadb04d8c1",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/110.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/110.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, which category does it belong to?\nA.airport\nB.roundabout\nC.storage_tanks\nD.baseball_filed",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "fe5c7585-eb14-4f6a-a156-b0e6e74b9d4c",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/268.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/268.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the image provided, which category does it match?\nA.bridge\nB.medium_residential\nC.dense_residential\nD.industrial",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "4e279d1b-025a-40c6-b72e-28ad11c832f6",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/277.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/277.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom the image shown, which category does it best fit into?\nA.desert\nB.airport\nC.bridge\nD.pond",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "8123b047-0764-4fc6-b506-d9d9ce8bc93d",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/284.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/284.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, which category does it belong to?\nA.bridge\nB.beach\nC.storage_tanks\nD.school",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "d599e583-8b69-4426-80b8-6bf75b96f7f6",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/468.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/468.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the image, which category is most appropriate for it?\nA.staduim\nB.bridge\nC.dense_residential\nD.river",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "adf4fd8a-d953-4bc2-a192-c28e2d6db286",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/554.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/554.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the image, which category is most appropriate for it?\nA.river\nB.sparse_residential\nC.church\nD.dense_residential",
+        "response": "B",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "71e3d837-0397-41a6-bbed-1a9debded14f",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/572.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/572.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, which category does it belong to?\nA.desert\nB.commercial\nC.dense_residential\nD.roundabout",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "73e30e58-9c1c-43c3-a1d6-d2054c10fd26",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/634.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/634.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the image provided, which category does it match?\nA.church\nB.bridge\nC.storage_tanks\nD.desert",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "2fa95e07-f32b-4700-9e87-31ce0d5f4964",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/685.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/685.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image you've been given, which category would it fall under?\nA.roundabout\nB.beach\nC.church\nD.desert",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "02ce616d-a92f-419f-99ee-459f69dec8a5",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/868.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/868.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, which category does it belong to?\nA.dense_residential\nB.river\nC.parking\nD.farmland",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "ff0b4efc-3ad6-4218-8678-82a40af0d6b5",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/893.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/893.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the image, which category is most appropriate for it?\nA.forest\nB.farmland\nC.roundabout\nD.school",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "e2a6f0d3-df5a-4249-a22a-ed164a768fd4",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/895.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/895.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image you've been given, which category would it fall under?\nA.forest\nB.baseball_filed\nC.dense_residential\nD.school",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "38c21b89-7ccf-4fc7-be5f-ff446b496ac4",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/1052.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/1052.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, which category does it belong to?\nA.parking\nB.beach\nC.sparse_residential\nD.forest",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "c5de5bf1-67b7-44e6-9fff-42408aae137a",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/1205.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/1205.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom the image shown, which category does it best fit into?\nA.parking\nB.industrial\nC.beach\nD.baseball_filed",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "5c116f2b-3382-43e0-9eed-2989f361c72a",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/1603.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/1603.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, which category does it belong to?\nA.airport\nB.forest\nC.river\nD.staduim",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "d2407685-087f-4296-865b-e2e628419b25",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/1613.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/1613.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the image, which category is most appropriate for it?\nA.church\nB.sparse_residential\nC.river\nD.airport",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "af1f86cc-3934-47c5-9d87-d3e7a70e14ff",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/1658.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/1658.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the image provided, which category does it match?\nA.school\nB.commercial\nC.baseball_filed\nD.storage_tanks",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "7bcb442f-23b3-4590-898c-5d6456246a1a",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/1706.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/1706.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nGiven the image, which category is most appropriate for it?\nA.school\nB.beach\nC.forest\nD.pond",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "e7c9cea5-068d-4edb-9e72-23f504177c27",
+        "image_path": "perception/image_level_comprehension/scene_classification/images/1916.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/scene_classification/images/1916.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nConsidering the image you've been given, which category would it fall under?\nA.storage_tanks\nB.farmland\nC.pond\nD.medium_residential",
+        "response": "A",
+        "label": "A",
+        "result": true
+    }
+]

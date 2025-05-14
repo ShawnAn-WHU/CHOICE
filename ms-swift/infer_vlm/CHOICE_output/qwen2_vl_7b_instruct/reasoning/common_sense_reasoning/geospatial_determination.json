@@ -1,0 +1,162 @@
+[
+    {
+        "id": "684a7a51-02d1-437e-aae5-39dbd386b7ac",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/6.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/6.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn which country is the landmark shown in this image situated?\nA.Spain\nB.UAE\nC.USA\nD.UK",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "2a258360-6a25-43c3-819c-88c5c1a802be",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/17.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/17.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the provided image, which country does this landmark belong to?\nA.UK\nB.USA\nC.Belgium\nD.France",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "0d86da2c-5cc8-41f3-88a3-61a5bb407973",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/24.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/24.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, in which country can this landmark be found?\nA.China\nB.Cambodia\nC.UK\nD.USA",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "5dfa0b97-ae1f-4be2-ab74-fd498693ac06",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/43.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/43.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn which country is the landmark shown in this image situated?\nA.UAE\nB.Romania\nC.China\nD.UK",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "62b2c2d3-9d47-4c62-b2b9-93fce9dd0cd7",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/51.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/51.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the image provided, which country is this landmark located in?\nA.France\nB.Turkey\nC.UK\nD.Spain",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "181b6d78-d289-4125-a2f5-c8611cc82988",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/52.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/52.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, in which country can this landmark be found?\nA.USA\nB.Finland\nC.UK\nD.Australia",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "d883accf-8762-41b8-a8f3-69c1c7f27471",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/56.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/56.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn which country is the landmark shown in this image situated?\nA.Germany\nB.UK\nC.USA\nD.USA",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "a0a182cd-661e-4b98-96cb-3a6b7312d164",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/61.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/61.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom the image given, which country is home to this landmark?\nA.Germany\nB.Brazil\nC.UK\nD.Germany",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "ed97474f-87d5-4e23-a75e-b777b7d004da",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/81.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/81.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the image provided, which country is this landmark located in?\nA.Finland\nB.UK\nC.Australia\nD.Vatican City",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "5603e99a-1731-470f-b67a-1a60b14c3f89",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/92.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/92.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn which country is the landmark shown in this image situated?\nA.UK\nB.USA\nC.Germany\nD.UK",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "d18c88f5-ca03-456a-9fb6-391953f0a476",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/94.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/94.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom the image given, which country is home to this landmark?\nA.UK\nB.USA\nC.Finland\nD.Turkey",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "4964789f-a467-4b36-9277-26dd5dcfce2c",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/107.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/107.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom the image given, which city is home to this landmark?\nA.Bran\nB.Rome\nC.London\nD.Los Angeles",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "49b1816a-d93b-40b8-a2ce-2074f995b554",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/127.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/127.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn which city is the landmark shown in this image situated?\nA.Paris\nB.London\nC.Chicago\nD.Dubai",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "e7489383-66d8-43a2-b725-79416aba90ae",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/139.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/139.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn which city is the landmark shown in this image situated?\nA.Cusco\nB.London\nC.London\nD.Brighton",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "634c6a75-1e54-4d91-8868-73904c407015",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/143.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/143.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the provided image, which city does this landmark belong to?\nA.Dubai\nB.London\nC.Agra\nD.Istanbul",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "4e0fe53f-739a-4224-9ad9-3ba2d70d4b4c",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/145.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/145.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the image provided, which city is this landmark located in?\nA.Agra\nB.Cusco\nC.Madrid\nD.Paris",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "7988534b-3105-479b-897a-4892999216cd",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/149.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/149.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the image provided, which city is this landmark located in?\nA.Sydney\nB.London\nC.Windsor\nD.Nevada",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "4624b3de-4205-46cb-bf35-91fd457aac91",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/152.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/152.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom the image given, which city is home to this landmark?\nA.New York\nB.Venice\nC.Dubai\nD.London",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "d825c823-b1c7-400c-b969-0d9061d8858b",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/176.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/176.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, in which city can this landmark be found?\nA.Dubai\nB.Rome\nC.Sydney\nD.New York",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "5f78ab03-8de5-49b0-b5d0-9e185a7ad6ca",
+        "image_path": "reasoning/common_sense_reasoning/geospatial_determination/images/197.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/geospatial_determination/images/197.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the provided image, in which city can this landmark be found?\nA.Moscow\nB.Oxford\nC.New York\nD.London",
+        "response": "A",
+        "label": "A",
+        "result": true
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "id": "60d96042-19c6-42d2-b06f-2292a15a46f0",
+        "image_path": "perception/single_instance_identification/object_localization/images/11.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/11.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the location of the airplane in this image?\nA.Bottom Right\nB.Bottom Left\nC.Top\nD.Top Right",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "60d0bbf0-162c-4910-bd38-599c75fc3e42",
+        "image_path": "perception/single_instance_identification/object_localization/images/14.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/14.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere is the bridge located in this image?\nA.Center\nB.Right\nC.Bottom Left\nD.Left",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "25e54823-ba01-4545-a43c-d69411a1883e",
+        "image_path": "perception/single_instance_identification/object_localization/images/29.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/29.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the bridge be found in this image?\nA.Center\nB.Bottom\nC.Left\nD.Right",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "12c54b94-d296-4e38-9be7-c009d2d94318",
+        "image_path": "perception/single_instance_identification/object_localization/images/40.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/40.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this image, where is the airplane positioned?\nA.Top\nB.Right\nC.Top Right\nD.Top Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "82b5d764-875f-4ee4-962d-3d4cc075a43f",
+        "image_path": "perception/single_instance_identification/object_localization/images/79.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/79.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the airplane be found in this image?\nA.Right\nB.Top Left\nC.Top\nD.Bottom Left",
+        "response": "B",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "56b4cdff-9617-4b19-a519-052fafcd9c65",
+        "image_path": "perception/single_instance_identification/object_localization/images/90.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/90.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the airplane be found in this image?\nA.Center\nB.Left\nC.Top\nD.Bottom Right",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "9a1df8dc-8cde-424f-8dd5-f926c4113ebe",
+        "image_path": "perception/single_instance_identification/object_localization/images/105.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/105.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this image, where is the bridge positioned?\nA.Right\nB.Top Left\nC.Center\nD.Bottom Right",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "d03d3d0d-17e0-4b02-bffb-f87620ed57fe",
+        "image_path": "perception/single_instance_identification/object_localization/images/226.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/226.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this image, where is the airplane positioned?\nA.Right\nB.Bottom Right\nC.Top Right\nD.Top Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "6d1fe1ee-ffff-4a42-9f39-d4e50f5e8e56",
+        "image_path": "perception/single_instance_identification/object_localization/images/253.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/253.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the location of the dam in this image?\nA.Top Right\nB.Bottom\nC.Left\nD.Right",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "bffd5870-bf68-4133-9ab7-23d7ff67001e",
+        "image_path": "perception/single_instance_identification/object_localization/images/254.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/254.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the roundabout in this image?\nA.Top\nB.Left\nC.Bottom\nD.Right",
+        "response": "A",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "6ca78699-096b-4551-813e-408dfcd48c43",
+        "image_path": "perception/single_instance_identification/object_localization/images/272.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/272.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the ship be found in this image?\nA.Center\nB.Top\nC.Bottom\nD.Top Left",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "1f730d61-ec64-4b57-b868-408f0784733d",
+        "image_path": "perception/single_instance_identification/object_localization/images/299.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/299.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the dam in this image?\nA.Top Left\nB.Right\nC.Top\nD.Center",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "d6c1249f-4e11-4f0c-921a-04c32f5d10e7",
+        "image_path": "perception/single_instance_identification/object_localization/images/315.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/315.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere is the ship located in this image?\nA.Center\nB.Bottom Left\nC.Bottom Right\nD.Top",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "13de6ff6-d203-44a3-baa4-cd07285309f1",
+        "image_path": "perception/single_instance_identification/object_localization/images/339.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/339.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the location of the airplane in this image?\nA.Center\nB.Bottom\nC.Left\nD.Top",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "f8c04266-9f32-4a38-88ce-a45d84523fdb",
+        "image_path": "perception/single_instance_identification/object_localization/images/351.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/351.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the soccer ball field be found in this image?\nA.Center\nB.Bottom\nC.Right\nD.Top Left",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "078782d7-db72-4426-8753-a6eabf828ad6",
+        "image_path": "perception/single_instance_identification/object_localization/images/366.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/366.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this image, where is the bridge positioned?\nA.Top Left\nB.Left\nC.Bottom Left\nD.Center",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "234a2f0d-b77d-417b-a215-228c20ea31f8",
+        "image_path": "perception/single_instance_identification/object_localization/images/416.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/416.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the airplane in this image?\nA.Left\nB.Right\nC.Center\nD.Bottom",
+        "response": "C",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "edb177fa-9e49-49be-bd65-b4241a2cb976",
+        "image_path": "perception/single_instance_identification/object_localization/images/446.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/446.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this image, where is the roundabout positioned?\nA.Bottom\nB.Center\nC.Bottom Right\nD.Top Left",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "f9e3f8d2-023b-417c-a482-91fe0e780eef",
+        "image_path": "perception/single_instance_identification/object_localization/images/454.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/454.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the roundabout in this image?\nA.Center\nB.Top Right\nC.Top\nD.Bottom",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "7aa4fa76-e926-413f-8892-aa5aa5eb7982",
+        "image_path": "perception/single_instance_identification/object_localization/images/478.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/object_localization/images/478.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the storage tank be found in this image?\nA.Right\nB.Bottom\nC.Top Right\nD.Top",
+        "response": "C",
+        "label": "B",
+        "result": false
+    }
+]

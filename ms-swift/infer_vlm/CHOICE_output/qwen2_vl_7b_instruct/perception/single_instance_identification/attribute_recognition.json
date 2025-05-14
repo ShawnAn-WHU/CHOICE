@@ -1,0 +1,162 @@
+[
+    {
+        "id": "537ad914-4a79-4db2-aa9f-7b8f4a454d84",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/14.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/14.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat color is the vehicle located at the top left of this image?\nA.orange\nB.yellow\nC.white\nD.red",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "fcc8d4b5-7975-42ac-9ed2-cdb42005102e",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/21.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/21.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the color of the vehicle positioned at the right of this image?\nA.red\nB.blue\nC.purple\nD.white",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "3f3957bc-32b6-4355-a154-8fee0dbf0971",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/28.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/28.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIdentify the color of the vehicle in the bottom right of the image.\nA.purple\nB.green\nC.white\nD.blue",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "d3d51981-7a1a-4b84-941b-fb68f7a07da8",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/78.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/78.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIdentify the color of the vehicle in the top of the image.\nA.pink\nB.blue\nC.red\nD.yellow",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "8790c63e-7c43-45f2-9e74-df015846a7df",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/92.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/92.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the color of the vehicle positioned at the top of this image?\nA.orange\nB.yellow\nC.pink\nD.black",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "dfe836e0-00b6-4c2b-ac78-24f9fa514d8b",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/97.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/97.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIdentify the color of the vehicle in the top right of the image.\nA.green\nB.orange\nC.black\nD.red",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "359dbd6f-155a-4ca5-a8b9-f6845e685c02",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/98.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/98.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat color is the vehicle located at the left of this image?\nA.yellow\nB.purple\nC.green\nD.blue",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "6e6cd976-5081-4b1e-a4ba-7ce389181724",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/179.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/179.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat orientation is the vehicle facing in the bottom left of this image?\nA.top left to bottom right\nB.right to left\nC.top to bottom\nD.bottom to top",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "8c481a4a-7765-43dd-a914-4e2813cda49a",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/220.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/220.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the orientation of the vehicle in the bottom left of this image?\nA.bottom left to top right\nB.bottom to top\nC.top to bottom\nD.top right to bottom left",
+        "response": "A",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "1e835d87-00be-40cb-8db0-b68f5d23c4fd",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/242.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/242.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nHow is the vehicle in the left of this image oriented?\nA.top left to bottom right\nB.top to bottom\nC.left to right\nD.top right to bottom left",
+        "response": "C",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "3c81f206-2607-4c49-aff1-d857114b0209",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/261.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/261.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you describe the orientation of the vehicle in the bottom left of this image?\nA.top to bottom\nB.right to left\nC.left to right\nD.bottom left to top right",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "e7a7366f-6c65-4cde-a579-eb3a692c0943",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/267.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/267.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIdentify the orientation of the vehicle in the left of the image.\nA.top to bottom\nB.bottom right to top left\nC.top right to bottom left\nD.left to right",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "c7873714-4386-4695-aea8-49616cb99975",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/283.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/283.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the orientation of the vehicle in the right of this image?\nA.bottom left to top right\nB.bottom to top\nC.left to right\nD.bottom right to top left",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "107eeaa1-fd99-4017-9fac-ed08f9355352",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/286.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/286.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you describe the orientation of the vehicle in the top left of this image?\nA.top left to bottom right\nB.top right to bottom left\nC.left to right\nD.top to bottom",
+        "response": "A",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "440f94b0-7a82-4000-94e5-c71eaab5214b",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/305.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/305.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat color is the vehicle located at the top left of this image?\nA.orange\nB.pink\nC.brown\nD.black",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "f00218ce-5f96-487f-8d99-ba70ad293fc4",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/352.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/352.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the color of the vehicle in the bottom of this image?\nA.red\nB.pink\nC.black\nD.purple",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "e6daf4ee-2bc8-4e60-a3f4-6ea8b5fff18e",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/380.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/380.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you describe the orientation of the blue vehicle in the bottom left of this image?\nA.bottom right to top left\nB.right to left\nC.top to bottom\nD.left to right",
+        "response": "D",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "8a9116c6-9259-42c7-b600-3bc427906b7b",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/404.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/404.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat orientation is the blue vehicle facing in the bottom left of this image?\nA.top to bottom\nB.top left to bottom right\nC.bottom to top\nD.top right to bottom left",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "2069076a-135a-4106-9b30-e478b43e8704",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/449.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/449.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIdentify the orientation of the red vehicle in the image.\nA.right to left\nB.top to bottom\nC.left to right\nD.top right to bottom left",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "bf608a25-a08b-4156-ad11-7933eb930a35",
+        "image_path": "perception/single_instance_identification/attribute_recognition/images/470.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/attribute_recognition/images/470.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nHow is the white vehicle in this image oriented?\nA.left to right\nB.bottom right to top left\nC.bottom left to top right\nD.top to bottom",
+        "response": "A",
+        "label": "C",
+        "result": false
+    }
+]

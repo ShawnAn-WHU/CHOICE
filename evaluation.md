@@ -21,7 +21,6 @@ pip install qwen_vl_utils
 Install ms-swift dependencies from source:
 ```bash
 cd ms-swfit
-git checkout release/2.6
 pip install -e '.[all]'
 ```
 

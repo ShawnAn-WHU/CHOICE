@@ -1,0 +1,162 @@
+[
+    {
+        "id": "3a49dc3b-b61a-4d02-966f-aa936296e686",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/3.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/3.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat disaster led to the situation depicted in this image?\nA.Flood\nB.Fire\nC.Earthquake\nD.Landslide",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "a409b7a1-8c76-499d-9ead-8b80b5a0b2a6",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/7.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/7.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat catastrophic event brought about the situation in this image?\nA.Landslide\nB.Fire\nC.Earthquake\nD.Flood",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "adbd76f4-fcad-4231-b5e9-595f76c4bbce",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/8.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/8.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster is responsible for the scene depicted in this image?\nA.Fire\nB.Flood\nC.Earthquake\nD.Landslide",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "eb96d43f-dc05-4687-a77f-987829ca5fbd",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/12.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/12.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat catastrophic event brought about the situation in this image?\nA.Earthquake\nB.Flood\nC.Landslide\nD.Fire",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "4d3c589f-fbb5-4188-b09f-8a4b3d5eb6ee",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/15.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/15.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster is responsible for the scene depicted in this image?\nA.Fire\nB.Earthquake\nC.Landslide\nD.Flood",
+        "response": "D",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "d0226a48-9ff6-42d6-a1a2-e83f15c8ddc1",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/19.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/19.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster resulted in the scenario depicted in this image?\nA.Flood\nB.Earthquake\nC.Fire\nD.Landslide",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "a865e410-e0aa-46cb-a72d-3ecd1c313c3e",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/52.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/52.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster is responsible for the scene depicted in this image?\nA.Flood\nB.Landslide\nC.Fire\nD.Earthquake",
+        "response": "D",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "5a1fbfb3-2112-4f23-9324-28cf9d918cc3",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/59.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/59.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster is responsible for the scene depicted in this image?\nA.Landslide\nB.Flood\nC.Fire\nD.Earthquake",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "bc0b233c-bc2a-41b4-bb0f-d2682b1e60c6",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/71.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/71.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat catastrophic event brought about the situation in this image?\nA.Earthquake\nB.Landslide\nC.Flood\nD.Fire",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "f59b7247-d4ec-4eb9-9c32-af88cdc82775",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/75.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/75.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the disaster that led to the situation in this image?\nA.Fire\nB.Flood\nC.Landslide\nD.Earthquake",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "337f940a-dbbc-42fd-b3ee-c72bd8643be8",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/79.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/79.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster is responsible for the scene depicted in this image?\nA.Landslide\nB.Earthquake\nC.Fire\nD.Flood",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "f07836d8-284b-4125-a775-5e14c32c8095",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/98.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/98.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat catastrophic event brought about the situation in this image?\nA.Landslide\nB.Earthquake\nC.Fire\nD.Flood",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "d8f368c3-bb94-4539-a65f-532aeeb9f70d",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/102.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/102.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the disaster that led to the situation in this image?\nA.Fire\nB.Flood\nC.Landslide\nD.Earthquake",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "82b4c7c2-b16a-45be-826c-c936526fd803",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/108.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/108.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster is responsible for the scene depicted in this image?\nA.Fire\nB.Landslide\nC.Flood\nD.Earthquake",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "bdcb85b3-6cd4-4e22-b88b-62de99e2ab17",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/114.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/114.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the disaster that led to the situation in this image?\nA.Flood\nB.Fire\nC.Landslide\nD.Earthquake",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "9feb01d6-8b69-4c29-ab27-3a578f2d7f94",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/117.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/117.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster resulted in the scenario depicted in this image?\nA.Earthquake\nB.Flood\nC.Fire\nD.Landslide",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "aa855f09-8e37-42f5-abba-1b76a6e2102b",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/123.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/123.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat disaster led to the situation depicted in this image?\nA.Flood\nB.Earthquake\nC.Landslide\nD.Fire",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "c0100071-afb2-4438-b74e-bd12609954b0",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/141.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/141.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster is responsible for the scene depicted in this image?\nA.Fire\nB.Earthquake\nC.Flood\nD.Landslide",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "c16af265-2458-4844-9bbf-362dfd9f6cd4",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/149.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/149.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the disaster that led to the situation in this image?\nA.Fire\nB.Flood\nC.Earthquake\nD.Landslide",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "fb4627a0-7a81-46cb-95d0-5d2c6d1bee6a",
+        "image_path": "reasoning/common_sense_reasoning/disaster_discrimination/images/170.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/common_sense_reasoning/disaster_discrimination/images/170.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich disaster resulted in the scenario depicted in this image?\nA.Flood\nB.Earthquake\nC.Fire\nD.Landslide",
+        "response": "D",
+        "label": "D",
+        "result": true
+    }
+]

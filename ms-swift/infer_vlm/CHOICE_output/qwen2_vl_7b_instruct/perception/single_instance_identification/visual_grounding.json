@@ -1,0 +1,502 @@
+[
+    {
+        "id": "c7664d49-5f59-4127-830f-888c944c6c00",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/43.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/43.png</img>Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(500,500,500,500)",
+        "label": [
+            [
+                0.635,
+                0.659
+            ],
+            [
+                0.71,
+                0.66
+            ],
+            [
+                0.713,
+                0.584
+            ],
+            [
+                0.636,
+                0.583
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "fbeffb26-1e39-4e75-aa5f-734b80e9a08e",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/66.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/66.png</img>Please output the coordinates of the storage-tank in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0.06, 0.12, 0.66, 0.5)",
+        "label": [
+            [
+                0.586,
+                0.58
+            ],
+            [
+                0.632,
+                0.11
+            ],
+            [
+                0.116,
+                0.06
+            ],
+            [
+                0.07,
+                0.53
+            ]
+        ],
+        "result": true
+    },
+    {
+        "id": "c8cf538e-a998-4e1f-bba2-edf06a1c4b3d",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/105.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/105.png</img>Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(500,300,850,590)",
+        "label": [
+            [
+                0.75,
+                0.487
+            ],
+            [
+                0.755,
+                0.384
+            ],
+            [
+                0.629,
+                0.378
+            ],
+            [
+                0.624,
+                0.481
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "8af1ffdc-4d69-4c88-88b7-d792b32b1e3f",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/218.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/218.png</img>Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0.74, 0.58, 1.0, 0.72)",
+        "label": [
+            [
+                0.734,
+                0.599
+            ],
+            [
+                0.752,
+                0.761
+            ],
+            [
+                0.998,
+                0.733
+            ],
+            [
+                0.979,
+                0.57
+            ]
+        ],
+        "result": true
+    },
+    {
+        "id": "f6d4f620-3c70-4b06-a6a1-4260dc71a9a2",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/228.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/228.png</img>Please output the coordinates of the soccer-ball-field in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(340, 290, 740, 630)",
+        "label": [
+            [
+                0.41,
+                0.535
+            ],
+            [
+                0.569,
+                0.624
+            ],
+            [
+                0.701,
+                0.386
+            ],
+            [
+                0.542,
+                0.297
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "176414c3-621d-4c05-a6fc-9d6c8b66eff8",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/232.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/232.png</img>Please output the coordinates of the dam in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(100, 100, 500, 500)",
+        "label": [
+            [
+                0.152,
+                0.349
+            ],
+            [
+                0.588,
+                0.869
+            ],
+            [
+                0.53,
+                0.917
+            ],
+            [
+                0.094,
+                0.398
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "6baf3c8e-ecf0-4b50-b8ae-9c4d0e9dcb51",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/246.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/246.png</img>Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(550,530,670,630)",
+        "label": [
+            [
+                0.649,
+                0.601
+            ],
+            [
+                0.649,
+                0.541
+            ],
+            [
+                0.586,
+                0.54
+            ],
+            [
+                0.586,
+                0.601
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "b501624b-9bd7-42c7-8bad-a42de041c62e",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/292.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/292.png</img>Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(470, 120, 690, 260)",
+        "label": [
+            [
+                0.489,
+                0.121
+            ],
+            [
+                0.505,
+                0.29
+            ],
+            [
+                0.72,
+                0.269
+            ],
+            [
+                0.704,
+                0.099
+            ]
+        ],
+        "result": true
+    },
+    {
+        "id": "53352400-879d-4502-a08f-84ad0a1d93fc",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/328.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/328.png</img>Please output the coordinates of the dam in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(420, 510, 640, 630)",
+        "label": [
+            [
+                0.52,
+                0.581
+            ],
+            [
+                0.644,
+                0.614
+            ],
+            [
+                0.64,
+                0.629
+            ],
+            [
+                0.516,
+                0.598
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "5719957a-00ff-4684-807c-139b53fb2be7",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/346.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/346.png</img>Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(220, 265, 540, 525)",
+        "label": [
+            [
+                0.206,
+                0.289
+            ],
+            [
+                0.256,
+                0.56
+            ],
+            [
+                0.549,
+                0.505
+            ],
+            [
+                0.499,
+                0.235
+            ]
+        ],
+        "result": true
+    },
+    {
+        "id": "f3c1eebd-4d8c-46f8-93da-a0648db67e5f",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/349.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/349.png</img>Please output the coordinates of the harbor in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0.0, 0.0, 1.0, 0.1)",
+        "label": [
+            [
+                0.735,
+                0.026
+            ],
+            [
+                0.748,
+                0.068
+            ],
+            [
+                0.83,
+                0.041
+            ],
+            [
+                0.818,
+                0.001
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "135ba872-aef9-482c-bc40-06f49ec8c9a5",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/372.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/372.png</img>Please output the coordinates of the ground-track-field in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(280, 640, 500, 740)",
+        "label": [
+            [
+                0.495,
+                0.762
+            ],
+            [
+                0.496,
+                0.642
+            ],
+            [
+                0.291,
+                0.64
+            ],
+            [
+                0.29,
+                0.76
+            ]
+        ],
+        "result": true
+    },
+    {
+        "id": "e14a27ca-6bba-4926-bb35-8b0164465fec",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/374.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/374.png</img>Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0.1, 0.3, 0.5, 0.5)",
+        "label": [
+            [
+                0.439,
+                0.45
+            ],
+            [
+                0.44,
+                0.343
+            ],
+            [
+                0.31,
+                0.341
+            ],
+            [
+                0.309,
+                0.448
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "9b87de0f-bf05-4def-97e9-fe92e54adcaa",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/387.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/387.png</img>Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(300, 350, 600, 500)",
+        "label": [
+            [
+                0.434,
+                0.357
+            ],
+            [
+                0.435,
+                0.487
+            ],
+            [
+                0.574,
+                0.486
+            ],
+            [
+                0.574,
+                0.357
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "e38f1136-8c95-4cab-af9b-2f91c855c35b",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/399.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/399.png</img>Please output the coordinates of the bridge in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0, 0, 1000, 350)",
+        "label": [
+            [
+                0.007,
+                0.46
+            ],
+            [
+                0.974,
+                0.361
+            ],
+            [
+                0.983,
+                0.45
+            ],
+            [
+                0.016,
+                0.549
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "2ac65b6e-7560-41fe-ba03-84f9caa1456f",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/429.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/429.png</img>Please output the coordinates of the soccer-ball-field in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0.33, 0.45, 0.59, 0.7)",
+        "label": [
+            [
+                0.318,
+                0.6
+            ],
+            [
+                0.403,
+                0.71
+            ],
+            [
+                0.564,
+                0.586
+            ],
+            [
+                0.477,
+                0.475
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "932aeb89-8067-402f-a22e-9dc18b0aaf94",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/437.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/437.png</img>Please output the coordinates of the roundabout in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(300, 450, 600, 750)",
+        "label": [
+            [
+                0.699,
+                0.69
+            ],
+            [
+                0.703,
+                0.547
+            ],
+            [
+                0.534,
+                0.545
+            ],
+            [
+                0.531,
+                0.686
+            ]
+        ],
+        "result": false
+    },
+    {
+        "id": "4c43355f-d195-45ec-ad02-ef16948152a2",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/470.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/470.png</img>Please output the coordinates of the airplane in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(290, 10, 720, 390)",
+        "label": [
+            [
+                0.689,
+                0.389
+            ],
+            [
+                0.69,
+                0.09
+            ],
+            [
+                0.319,
+                0.089
+            ],
+            [
+                0.318,
+                0.388
+            ]
+        ],
+        "result": true
+    },
+    {
+        "id": "04846b44-291e-4348-8e50-cc1a7ae05a68",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/551.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/551.png</img>Please output the coordinates of the storage-tank in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0.06, 0.06, 0.69, 0.5)",
+        "label": [
+            [
+                0.583,
+                0.576
+            ],
+            [
+                0.629,
+                0.104
+            ],
+            [
+                0.109,
+                0.052
+            ],
+            [
+                0.061,
+                0.525
+            ]
+        ],
+        "result": true
+    },
+    {
+        "id": "e4735308-9a1d-40b7-b22a-adab0e7a0418",
+        "image_path": "perception/single_instance_identification/visual_grounding/images/552.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/visual_grounding/images/552.png</img>Please output the coordinates of the storage-tank in the image in the format (x1, y1, x2, y2). Do not include any additional text.",
+        "response": "(0.08, 0.43, 0.72, 0.78)",
+        "label": [
+            [
+                0.62,
+                0.863
+            ],
+            [
+                0.665,
+                0.386
+            ],
+            [
+                0.126,
+                0.335
+            ],
+            [
+                0.081,
+                0.811
+            ]
+        ],
+        "result": true
+    }
+]

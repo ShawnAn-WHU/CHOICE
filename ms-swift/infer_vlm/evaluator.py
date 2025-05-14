@@ -114,7 +114,7 @@ class AccEvaluator:
                 else:
                     output = False
             else:
-                print(f"No match true/false for LLM response: {response}")
+                print(f"No matched true/false for LLM response: {response}")
                 output = False
         except:
             print(f"LLM failed for query: {query}")
@@ -189,11 +189,7 @@ class AccEvaluator:
 def main():
     root_path = "./CHOICE_output"
     out_path = "./CHOICE_output"
-    accevaluator = AccEvaluator(
-        root_path=root_path,
-        out_path=out_path,
-        use_llm=False,
-    )
+    accevaluator = AccEvaluator(root_path=root_path, out_path=out_path, use_llm=True)
 
     results = {}
     for model_name in [
@@ -285,7 +281,7 @@ def main():
 
     df = pd.DataFrame(results).T
     df.fillna(0, inplace=True)
-    df.to_excel(os.path.join(out_path, "results.xlsx"))
+    df.to_excel(os.path.join(out_path, "results_llm.xlsx"))
 
 
 if __name__ == "__main__":

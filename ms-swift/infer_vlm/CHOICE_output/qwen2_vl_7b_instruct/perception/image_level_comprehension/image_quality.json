@@ -1,0 +1,162 @@
+[
+    {
+        "id": "eef2416c-5201-4713-9ba5-77a109a1f63c",
+        "image_path": "perception/image_level_comprehension/image_quality/images/16.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/16.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nAmong the four images arranged in a 2 times 2 grid, which one stands out for its quality?\nA.top left\nB.top right\nC.bottom right\nD.bottom left",
+        "response": "A",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "d9419355-cc0f-4aa5-b675-891eaf5a4b96",
+        "image_path": "perception/image_level_comprehension/image_quality/images/28.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/28.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the 2 times 2 grid of four images, which one has the highest quality?\nA.bottom right\nB.top left\nC.bottom left\nD.top right",
+        "response": "A",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "f4013864-d04a-4766-ba1e-cfa17a5ac68d",
+        "image_path": "perception/image_level_comprehension/image_quality/images/96.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/96.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the 2 times 2 grid of four images, which one has the highest quality?\nA.top left\nB.bottom left\nC.bottom right\nD.top right",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "1f64005d-2d48-4896-9e31-352b27fb5f5d",
+        "image_path": "perception/image_level_comprehension/image_quality/images/124.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/124.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nOut of the four images in the 2 times 2 grid, identify the one with the best quality.\nA.top left\nB.top right\nC.bottom right\nD.bottom left",
+        "response": "B",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "e946b321-50c7-44c6-8527-e38e12232497",
+        "image_path": "perception/image_level_comprehension/image_quality/images/149.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/149.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nOut of the four images in the 2 times 2 grid, identify the one with the best quality.\nA.top right\nB.bottom right\nC.bottom left\nD.top left",
+        "response": "A",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "50cd3b45-f34c-4e6d-943f-e6fc03288d84",
+        "image_path": "perception/image_level_comprehension/image_quality/images/169.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/169.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nFrom the four images placed in a 2 times 2 grid, which one shows the highest quality?\nA.bottom left\nB.bottom right\nC.top right\nD.top left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "0713e1eb-b74b-4aeb-af91-a3eaad84b5b7",
+        "image_path": "perception/image_level_comprehension/image_quality/images/176.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/176.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nOut of the four images in the 2 times 2 grid, identify the one with the best quality.\nA.bottom right\nB.top right\nC.bottom left\nD.top left",
+        "response": "A",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "acb2d3d1-8490-46b7-8f90-641c24518eda",
+        "image_path": "perception/image_level_comprehension/image_quality/images/211.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/211.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nOut of the four images displayed in a 2 times 2 grid, which is most impacted by cloud obstruction?\nA.bottom right\nB.top right\nC.bottom left\nD.top left",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "8872c2f6-ff0e-4828-b281-dcff246142db",
+        "image_path": "perception/image_level_comprehension/image_quality/images/281.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/281.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the 2 times 2 grid of four images, which one shows the most cloud interference?\nA.bottom left\nB.top left\nC.top right\nD.bottom right",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "1d5987b0-f9ea-473a-87fb-77316b1dce8a",
+        "image_path": "perception/image_level_comprehension/image_quality/images/293.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/293.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the 2 times 2 grid of four images, which one shows the most cloud interference?\nA.top left\nB.bottom left\nC.top right\nD.bottom right",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "1a0ac745-66b1-4d2f-9888-59fec731783f",
+        "image_path": "perception/image_level_comprehension/image_quality/images/379.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/379.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the 2 times 2 grid of four images, which one shows the most cloud interference?\nA.top right\nB.top left\nC.bottom right\nD.bottom left",
+        "response": "A",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "0033c392-6239-4f4d-8c83-70a58b629f73",
+        "image_path": "perception/image_level_comprehension/image_quality/images/485.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/485.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat type of interference is evident in the provided image upon analysis?\nA.gaussian noise\nB.impulse noise\nC.deadline noise\nD.stripe noise",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "3ab85fac-1a5d-43cc-b5ef-f6f9be5ce701",
+        "image_path": "perception/image_level_comprehension/image_quality/images/486.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/486.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat type of interference is evident in the provided image upon analysis?\nA.impulse noise\nB.deadline noise\nC.gaussian noise\nD.stripe noise",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "3baf3f9e-020d-4b3b-bc2d-463d25fe3463",
+        "image_path": "perception/image_level_comprehension/image_quality/images/511.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/511.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nBased on the image provided, what type of interference is visible?\nA.deadline noise\nB.gaussian noise\nC.impulse noise\nD.stripe noise",
+        "response": "B",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "324fac72-248a-4a6a-8b1a-d310b75ed2ce",
+        "image_path": "perception/image_level_comprehension/image_quality/images/569.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/569.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the given image, what kind of interference can you detect?\nA.impulse noise\nB.deadline noise\nC.gaussian noise\nD.stripe noise",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "0468671c-3caa-47b9-995d-b3b5a4a26ca0",
+        "image_path": "perception/image_level_comprehension/image_quality/images/661.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/661.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the two images next to each other, which one shows better quality?\nA.left\nB.can't judge\nC.right",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "ef5d8c48-0f31-4917-9789-19ad0876a59d",
+        "image_path": "perception/image_level_comprehension/image_quality/images/663.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/663.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the two images next to each other, which one shows better quality?\nA.left\nB.can't judge\nC.right",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "d78351dc-513c-4a03-b6c2-d74bbab6c4d7",
+        "image_path": "perception/image_level_comprehension/image_quality/images/665.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/665.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nTwo images are placed side by side, which one has superior quality?\nA.can't judge\nB.left\nC.right",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "81b47921-860b-4b04-898e-0f23981123b5",
+        "image_path": "perception/image_level_comprehension/image_quality/images/687.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/687.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nLooking at the two images next to each other, which one shows better quality?\nA.can't judge\nB.left\nC.right",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "480cfddd-7a3b-4959-8fff-544a3cc0a9b7",
+        "image_path": "perception/image_level_comprehension/image_quality/images/737.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/image_level_comprehension/image_quality/images/737.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhen comparing the two images side by side, which one appears to have better quality?\nA.right\nB.can't judge\nC.left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    }
+]

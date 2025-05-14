@@ -1,0 +1,162 @@
+[
+    {
+        "id": "66f84a64-043e-4925-8052-eb6921e65115",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/8.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/8.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the blue vehicle in relation to the white vehicle in this image?\nA.Right\nB.Left\nC.Top Left\nD.Bottom",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "d09269d9-5d00-4867-addc-232e69a04a52",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/47.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/47.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the white vehicle in relation to the silver vehicle in this image?\nA.Top\nB.Bottom Left\nC.Top Right\nD.Right",
+        "response": "D",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "4d57a4c7-3f25-4eac-a852-813b69e7d26e",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/66.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/66.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the relative position of the silver vehicle to the blue vehicle in this image?\nA.Bottom Left\nB.Right\nC.Bottom\nD.Top Left",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "c9b94b5b-bf89-490e-8f10-73612085dcd1",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/84.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/84.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the picture, where can the silver vehicle be found in relation to the white vehicle\nA.Bottom Left\nB.Top Left\nC.Left\nD.Right",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "71823615-2f3a-456b-9ea7-995066eaa8fd",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/89.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/89.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the red vehicle in relation to the black vehicle in this image?\nA.Left\nB.Top\nC.Bottom Left\nD.Top Left",
+        "response": "A",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "d54bfea0-2cb7-4d01-81c1-38bdd2004bb2",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/117.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/117.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the picture, where can the silver vehicle be found in relation to the black vehicle\nA.Left\nB.Bottom\nC.Right\nD.Top Right",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "c8f840b7-b382-4797-bf07-0f0bea6709b4",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/122.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/122.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the white vehicle in relation to the red vehicle in this image?\nA.Bottom\nB.Bottom Left\nC.Top\nD.Top Left",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "dfd41f34-9ef4-498e-9251-4559dccb0a9e",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/129.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/129.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the relative position of the red vehicle to the black vehicle in this image?\nA.Left\nB.Bottom Right\nC.Top\nD.Bottom Left",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "e3468479-eda2-4b7c-bb5d-a719201f3114",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/148.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/148.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this picture, what is the position of the silver vehicle in relation to the red vehicle?\nA.Top Right\nB.Top Left\nC.Bottom Left\nD.Bottom",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "a8607ebb-7887-431a-9aa3-b04d97371b01",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/149.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/149.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nHow is the silver vehicle positioned in relation to the blue vehicle in this picture?\nA.Bottom Right\nB.Top Right\nC.Top Left\nD.Top",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "35387b29-65f0-4d1d-9bab-74120a381b21",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/153.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/153.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the picture, where can the blue vehicle be found in relation to the white vehicle\nA.Bottom Right\nB.Right\nC.Top\nD.Left",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "021bed61-65a3-49ca-b95f-e60471331ad2",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/158.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/158.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the relative position of the red vehicle to the white vehicle in this image?\nA.Right\nB.Top\nC.Bottom Left\nD.Top Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "d68d9069-bd4c-4b70-9ff5-3aebf3c6b796",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/192.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/192.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this picture, what is the position of the white vehicle in relation to the black vehicle?\nA.Bottom\nB.Top Left\nC.Bottom Right\nD.Right",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "f55968ac-7da0-4faa-b512-2c8a5752cbc4",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/196.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/196.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this picture, what is the position of the black vehicle in relation to the sliver vehicle?\nA.Bottom\nB.Bottom Right\nC.Right\nD.Top Right",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "7cc6b4b1-3e4e-4f68-8f12-12f939e6513b",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/222.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/222.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nHow is the red vehicle positioned in relation to the white vehicle in this picture?\nA.Top Left\nB.Top\nC.Bottom Left\nD.Right",
+        "response": "C",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "a9fabdd0-e603-4537-b462-715bf4903b23",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/227.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/227.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the picture, where can the yellow vehicle be found in relation to the blue vehicle\nA.Bottom Right\nB.Top Left\nC.Bottom\nD.Top",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "5e45437a-acfb-4409-94c5-c78ec5695606",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/241.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/241.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn the picture, where can the black vehicle be found in relation to the white vehicle\nA.Bottom\nB.Bottom Left\nC.Top Left\nD.Left",
+        "response": "B",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "a9594cbb-01f1-4351-a11d-21dab49a2740",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/255.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/255.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the yellow vehicle in relation to the black vehicle in this image?\nA.Left\nB.Top Right\nC.Bottom Left\nD.Top Left",
+        "response": "A",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "52028b25-bfb5-462b-aff5-5eab746be2d4",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/273.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/273.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the relative position of the silver vehicle to the red vehicle in this image?\nA.Top Right\nB.Bottom Left\nC.Bottom Right\nD.Top Right",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "5693cfe5-2209-4110-ac00-2725ec93d6e2",
+        "image_path": "perception/cross_instance_discerment/spatial_relationship/images/294.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/cross_instance_discerment/spatial_relationship/images/294.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the red vehicle in relation to the black vehicle in this image?\nA.Bottom Right\nB.Left\nC.Top\nD.Top Right",
+        "response": "A",
+        "label": "B",
+        "result": false
+    }
+]

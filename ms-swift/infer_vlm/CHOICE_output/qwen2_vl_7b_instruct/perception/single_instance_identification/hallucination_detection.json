@@ -1,0 +1,162 @@
+[
+    {
+        "id": "8cfdcd8b-6f7b-4f18-ad77-64711b0b5bb9",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/1.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/1.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere is the dam located in this image?\nA.Bottom\nB.The object is not in the picture\nC.Bottom Right\nD.Top",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "69983f2e-cfd2-476b-82b1-6ffdaef630c8",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/15.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/15.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere is the airplane located in this image?\nA.Bottom\nB.The object is not in the picture\nC.Bottom Right\nD.Top Left",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "75950223-ba5b-4f42-8496-d4795b408fbe",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/16.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/16.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the storage tank in this image?\nA.Top\nB.Bottom Right\nC.The object is not in the picture\nD.Right",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "05c7872c-02ec-4caf-a5ac-a7d7a8a218ec",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/31.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/31.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the baseball diamond in this image?\nA.The object is not in the picture\nB.Center\nC.Left\nD.Top Right",
+        "response": "B",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "d262fb02-a4d1-4b10-89a5-faf56df738a9",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/53.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/53.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the storage tank in this image?\nA.The object is not in the picture\nB.Bottom\nC.Left\nD.Top",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "4307d25a-d56f-4c8c-866e-cd2c9396e73a",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/64.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/64.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the roundabout in this image?\nA.The object is not in the picture\nB.Top Left\nC.Right\nD.Bottom Right",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "147c2485-d790-46cb-bf9f-697e72a37308",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/78.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/78.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere is the ground track field located in this image?\nA.Bottom Right\nB.Left\nC.The object is not in the picture\nD.Right",
+        "response": "A",
+        "label": "C",
+        "result": false
+    },
+    {
+        "id": "3bcb9a57-0238-4c7c-adb9-2b1818cc12a5",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/130.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/130.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the ship be found in this image?\nA.The object is not in the picture\nB.Bottom\nC.Center\nD.Bottom Left",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "02c57153-2fa2-4bb2-a6ea-b0bfa84f052e",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/172.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/172.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the ground track field be found in this image?\nA.The object is not in the picture\nB.Right\nC.Top\nD.Bottom Left",
+        "response": "D",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "15465788-ba97-47b7-8d61-1849b417ebb9",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/197.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/197.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the ship be found in this image?\nA.Bottom Left\nB.Top Right\nC.Bottom\nD.The object is not in the picture",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "5af9b901-8301-450a-b4aa-8d39016c7f52",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/216.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/216.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere can the airplane be found in this image?\nA.Top Right\nB.The object is not in the picture\nC.Left\nD.Bottom",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "96ef2ddc-6842-4ec2-b026-14f24a8be794",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/221.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/221.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the location of the storage tank in this image?\nA.Bottom\nB.The object is not in the picture\nC.Top Right\nD.Left",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "bbe1c912-7aa4-4715-a2de-a2c52d7e4826",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/242.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/242.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this image, where is the ship positioned?\nA.Bottom Right\nB.Top Right\nC.The object is not in the picture\nD.Bottom Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "826cc2dc-af56-4ed1-8657-cfb5bb841aa6",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/275.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/275.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIn this image, where is the roundabout positioned?\nA.Top\nB.The object is not in the picture\nC.Bottom\nD.Bottom Right",
+        "response": "D",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "83ccc73e-6aaf-44c0-b302-2ae26b7bb883",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/285.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/285.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the roundabout in this image?\nA.Top Right\nB.Right\nC.The object is not in the picture\nD.Top",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "61c4d41a-ddd0-43bf-bcfa-1c1b94385bdb",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/331.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/331.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere is the ship located in this image?\nA.Center\nB.Bottom\nC.Right\nD.The object is not in the picture",
+        "response": "D",
+        "label": "D",
+        "result": true
+    },
+    {
+        "id": "7e2800a9-9f6d-41b4-8631-9cdd4a6fd984",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/392.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/392.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the dam in this image?\nA.Top Right\nB.Left\nC.The object is not in the picture\nD.Bottom Left",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "61e4e523-7d5e-4edf-9a1c-0f764b49a6f0",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/414.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/414.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhere is the baseball diamond located in this image?\nA.Bottom Right\nB.Bottom\nC.Left\nD.The object is not in the picture",
+        "response": "A",
+        "label": "D",
+        "result": false
+    },
+    {
+        "id": "df1ded56-d093-4668-bb4c-2b87d5e3276e",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/430.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/430.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you identify the position of the baseball diamond in this image?\nA.Bottom Right\nB.The object is not in the picture\nC.Left\nD.Bottom",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "8513ba32-6e20-4dcd-86ad-815ed9d015dd",
+        "image_path": "perception/single_instance_identification/hallucination_detection/images/463.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/perception/single_instance_identification/hallucination_detection/images/463.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhat is the location of the soccer ball field in this image?\nA.Top\nB.The object is not in the picture\nC.Top Right\nD.Bottom",
+        "response": "C",
+        "label": "B",
+        "result": false
+    }
+]

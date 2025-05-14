@@ -1,0 +1,162 @@
+[
+    {
+        "id": "ee0d5289-2802-42e2-bad2-762147ace864",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/12.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/12.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich of the following options most closely matches the height of the building (in meters) as shown in the image?\nA.7\nB.31\nC.9\nD.107",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "11e5f665-d527-4ceb-96c7-85a497930306",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/71.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/71.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich of the following options most closely matches the height of the building (in meters) as shown in the image?\nA.105\nB.17\nC.149\nD.117",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "0e7defd5-1919-4650-9f92-98b40db95385",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/77.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/77.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich of the following options most closely matches the height of the building (in meters) as shown in the image?\nA.197\nB.26\nC.198\nD.170",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "df527f3a-b2e1-42c8-96ef-48c4bdd2b4a3",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/91.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/91.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nWhich of the following options is closest to the height in meters of the building depicted in the image?\nA.136\nB.34\nC.13\nD.11",
+        "response": "C",
+        "label": "B",
+        "result": false
+    },
+    {
+        "id": "c7c8f1f8-3d01-4f11-b53f-b9f9915d24a1",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/96.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/96.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nOut of the options provided, which one is nearest to the height of the building in meters as seen in the image?\nA.36\nB.8\nC.129\nD.8",
+        "response": "C",
+        "label": "A",
+        "result": false
+    },
+    {
+        "id": "6445e2f0-ed02-4305-9c85-bc8e6fbd435f",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/143.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/143.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the blue vehicle in this image moving or stationary?\nA.moving\nB.can't judge\nC.stationary",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "5fefd28a-0b24-4c27-9c9d-d7fe5956a49d",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/153.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/153.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the balck vehicle in this image stationary or in motion?\nA.stationary\nB.can't judge\nC.in motion",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "de8e38c0-96a2-43d0-b849-7de1054b7062",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/164.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/164.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nDoes the black vehicle in this image appear to be in motion or at rest?\nA.can't judge\nB.at rest\nC.in motion",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "067a2f10-87c1-47dc-8ec1-b9ecbbfab1c4",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/180.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/180.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the blue vehicle located in this image moving or stationary?\nA.stationary\nB.can't judge\nC.moving",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "e3291d16-0776-4faf-840c-125d63aa56a2",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/217.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/217.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you tell if the red vehicle at the right of this image is stationary or in motion?\nA.stationary\nB.in motion\nC.can't judge",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "c23f91fd-9d81-412f-b9d4-b871c90866bc",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/244.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/244.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nAre the two vehicles in this image stationary or in motion?\nA.can't judge\nB.stationary\nC.in motion",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "60ec89f0-ed4b-4738-b1b7-ac1e846ce43b",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/250.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/250.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you tell if the silver vehicle in this image is stationary or in motion?\nA.stationary\nB.can't judge\nC.in motion",
+        "response": "C",
+        "label": "C",
+        "result": true
+    },
+    {
+        "id": "a1d2a57b-4d18-4a86-ba02-f1332ffa926b",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/254.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/254.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the white vehicle located at the top right of this image moving or stationary?\nA.moving\nB.stationary\nC.can't judge",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "9cdac57d-b3e4-4665-bb9e-c052f7b9da4c",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/274.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/274.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nDoes the black vehicle in this image appear to be in motion or at rest?\nA.in motion\nB.at rest\nC.can't judge",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "1a31a78c-83f1-4521-b44a-d82885cdd9da",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/278.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/278.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the black vehicle located in this image moving or stationary?\nA.stationary\nB.moving\nC.can't judge",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "565554b3-3828-4a2a-bed5-732255e659c9",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/289.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/289.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the red vehicle located in this image moving or stationary?\nA.moving\nB.stationary\nC.can't judge",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "0946a123-185d-4dbf-8912-2574e39d9502",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/294.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/294.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nDoes the blue vehicle in this image appear to be in motion or at rest?\nA.in motion\nB.at rest\nC.can't judge",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "8d6bf191-f951-4c9b-aa70-68e797b7b243",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/295.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/295.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the red vehicle in this image stationary or in motion?\nA.in motion\nB.stationary\nC.can't judge",
+        "response": "B",
+        "label": "B",
+        "result": true
+    },
+    {
+        "id": "9083d3ff-f874-4a95-bfe8-70eb51057679",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/297.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/297.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nIs the black vehicle in this image moving or stationary?\nA.stationary\nB.can't judge\nC.moving",
+        "response": "A",
+        "label": "A",
+        "result": true
+    },
+    {
+        "id": "aa2c068f-ed8e-46a1-9003-460f3ba3713d",
+        "image_path": "reasoning/attribute_reasoning/physical_property/images/300.png",
+        "query": "<img>/home/anxiao/CHOICE/CHOICE_subset/reasoning/attribute_reasoning/physical_property/images/300.png</img>Please select the most appropriate answer for the following single-choice question from the given options. Only respond with the corresponding letter (A, B, C or D). Do not include any additional text.\nCan you tell if the blue vehicle in this image is stationary or in motion?\nA.can't judge\nB.stationary\nC.in motion",
+        "response": "C",
+        "label": "C",
+        "result": true
+    }
+]
