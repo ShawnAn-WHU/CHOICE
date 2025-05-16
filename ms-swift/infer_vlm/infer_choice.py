@@ -160,7 +160,7 @@ class RSBenchEvaluator:
 
 
 def main():
-    root_path = "/home/anxiao/CHOICE/CHOICE_subset"
+    root_path = "../../CHOICE_subset"
     out_root_path = "./CHOICE_output"
     os.makedirs(out_root_path, exist_ok=True)
 
