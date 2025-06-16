@@ -2,6 +2,8 @@
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/An-Xiao/CHOICE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/anxiaowhu/choice)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-CHOICE-gold)](https://rs-choice.github.io/#leaderboard)
+
 
 > Due to the capacity limitation of GitHub repositories (which is insufficient to accommodate our **6.07 GB** CHOICE benchmark), we have randomly selected 20 samples for each L-3 task, resulting in a total of 460 samples. These samples are stored in the CHOICE_subset folder, which is structured as [Data Structure](#-data-structure). **For the complete CHOICE benchmark, please refer to the link on [Hugging Face](https://huggingface.co/datasets/An-Xiao/CHOICE) or [Kaggle](https://www.kaggle.com/datasets/anxiaowhu/choice)**.
 
