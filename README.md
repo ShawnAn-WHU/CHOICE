@@ -1,5 +1,6 @@
 # CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models
 
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2411.18145)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/An-Xiao/CHOICE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/anxiaowhu/choice)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-CHOICE-gold)](https://rs-choice.github.io/#leaderboard)
@@ -12,8 +13,10 @@
 ---
 
 ## 📢 Latest Updates
-- **May-13-2025**: We release the code for inference and evaluation.
-- **Apr-07-2025**: We release the complete CHOICE benchmark in the [Hugging Face Dataset](https://huggingface.co/datasets/An-Xiao/CHOICE) and [Kaggle](https://www.kaggle.com/datasets/anxiaowhu/choice). 🔥🔥
+- **09-19-2025**: Our CHOICE has been accepted at NeurIPS 2025 as a poster. 🔥🔥
+- **05-13-2025**: We release the code for inference and evaluation.
+- **05-13-2025**: We update the preprint in the [Arxiv](https://arxiv.org/abs/2411.18145).
+- **04-07-2025**: We release the complete CHOICE benchmark in the [Hugging Face Dataset](https://huggingface.co/datasets/An-Xiao/CHOICE) and [Kaggle](https://www.kaggle.com/datasets/anxiaowhu/choice). 🔥🔥
 
 ---
 
